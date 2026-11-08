@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "enumerations": [
+    "1405/11 two X-linked loci",
+    "1405/15 four F1 matings",
+    "1405/44 all hemophilia parents",
+    "1405/31 template-complement translation"
+  ],
+  "peptideLengths": [
+    3,
+    2,
+    2,
+    1
+  ],
+  "rnas": [
+    "UCCAUGAAGCGUUAGAAG",
+    "UUUUGCAUGAAAUGAGGC",
+    "UAAAUGAUGUAGGGCUAC",
+    "AUCAAGAUGUAAGCGUAU"
+  ],
+  "scope": "Checks four derivations; does not certify all biological content or an official key."
+}

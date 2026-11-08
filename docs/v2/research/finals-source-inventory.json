@@ -1,0 +1,50 @@
+{
+  "asOf": "2026-11-07",
+  "status": "No official final paper or grading guide verified in this environment",
+  "grades": [
+    {
+      "grade": 10,
+      "subject": "زیست‌شناسی",
+      "verifiedPapers": [],
+      "verifiedYears": [],
+      "verifiedSessions": [],
+      "nationalOrCoordinatedStatus": "unknown; must be read from original issuing authority and paper header",
+      "officialRubricVerified": false,
+      "activeImportedQuestions": 0
+    },
+    {
+      "grade": 11,
+      "subject": "زیست‌شناسی",
+      "verifiedPapers": [],
+      "verifiedYears": [],
+      "verifiedSessions": [],
+      "nationalOrCoordinatedStatus": "unknown; must be read from original issuing authority and paper header",
+      "officialRubricVerified": false,
+      "activeImportedQuestions": 0
+    },
+    {
+      "grade": 12,
+      "subject": "زیست‌شناسی",
+      "verifiedPapers": [],
+      "verifiedYears": [],
+      "verifiedSessions": [],
+      "nationalOrCoordinatedStatus": "unknown; must be read from original issuing authority and paper header",
+      "officialRubricVerified": false,
+      "activeImportedQuestions": 0
+    }
+  ],
+  "metadataRequired": [
+    "issuing_authority",
+    "exam_date",
+    "year",
+    "session",
+    "grade",
+    "subject",
+    "national_or_coordinated_scope",
+    "original_pdf_sha256",
+    "official_grading_pdf_sha256",
+    "correction_version",
+    "publication_url",
+    "rights_scope"
+  ]
+}

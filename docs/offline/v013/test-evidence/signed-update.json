@@ -1,0 +1,45 @@
+{
+  "passed": true,
+  "applicationId": "ir.hezarzist",
+  "previousVersionCode": 4,
+  "newVersionCode": 5,
+  "uninstalledOrClearedDuringUpdate": false,
+  "oldVersionDisplayedWithdrawnQuestion": true,
+  "baselinePreparation": "Disposable emulator reset to version 4 and restored from the saved old-version fixture before measurement; no uninstall or clear during the measured 4-to-5 update.",
+  "certificateSha256": "b42c07d4458e3aeca4d508b0762ea5554f9e7632eb5e875670f793e6be54962a",
+  "apkSha256": "25cf698505d4ad78d4e2fc7706935df9516e540ccaccb41ba4e7a4f8d89fe7f0",
+  "airplaneMode": true,
+  "preferences": {
+    "study_time_v1.xml": {
+      "bytePreserved": true,
+      "sha256": "d40425e01f000db557dda984af01992d3aa7d85de7e3e55abb085c441e28c917"
+    },
+    "account_cache_epochs_v2.xml": {
+      "bytePreserved": true,
+      "sha256": "252a9e9ebe048df3372c355d038b1845a58ae1d796a66ada07c59d7485113b47"
+    },
+    "local_profile_v1.xml": {
+      "bytePreserved": true,
+      "sha256": "3325d2a819fdd8062c2cdc48a09b995c9b012915bcdf88b1cf9742a7f057c793"
+    },
+    "hezarzist_progress_v1.xml": {
+      "unrelatedValuesPreserved": true,
+      "retiredAttemptsArchivedExactly": true,
+      "retiredBookmarkArchived": true,
+      "activeSessionArchivedExactly": true,
+      "remainingQuestionProgressPreserved": true,
+      "totalScorePreserved": true,
+      "settingsPreserved": true,
+      "historyAndRecordsPreserved": true
+    },
+    "offline_upgrade_v3.xml": {
+      "bytePreserved": true,
+      "sha256": "3ebf4a62206942225c4050d38ea125a12449293585b97404844c6f05f3a815cf"
+    },
+    "final_study_v2_anonymous.xml": {
+      "bytePreserved": true,
+      "sha256": "d651fa9db7aea102a582f02d529f038fd0406e679fadede4e95968bef722f5eb"
+    }
+  },
+  "fixture": "Two question histories/bookmarks, one active practice containing a withdrawn ID, score 430, personal best, dark/silent/120% text, pre-existing study records and daily goal."
+}

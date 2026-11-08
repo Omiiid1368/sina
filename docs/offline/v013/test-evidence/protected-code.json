@@ -1,0 +1,106 @@
+{
+  "allProtectedFilesUnchanged": true,
+  "fileCount": 18,
+  "files": [
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "sha256": "37dc7bc15760fb7ded3b870e62a36760d47353f5b629fcf56ae90d7a0beaed58",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/ir/hezarzist/AboutCreatorScreen.kt",
+      "sha256": "7c043057aeadab91dec257b71d449ca74eeef914794ba2cef6adcd52d61ad1b6",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/ir/hezarzist/FinalStudyScreen.kt",
+      "sha256": "d6d54f8825531b0762b7534af35eb9febcf98bff1ba0a9c8567c75a0d478fbbf",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/ir/hezarzist/FinalStudyViewModel.kt",
+      "sha256": "022b7db68189060cbffc1f6a522ea2bce4f84fb539758ca7ad17616f3f410917",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/ir/hezarzist/FinalsModels.kt",
+      "sha256": "f6be9f07b1283ee0a93dc5de0dfa6fc3cf78a8b52fbe46e881e9cd88b5c923c1",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/ir/hezarzist/LocalBackup.kt",
+      "sha256": "f037dd154b0e9e821bda120be0b909ea8478c53959ffe00bc7e115ee6b450b14",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/ir/hezarzist/LocalProfile.kt",
+      "sha256": "c1bdcb3072ca5715665d89ec737c3372dc18c75d912a91c72db09b66ac79cfb5",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/ir/hezarzist/OfflineToolsScreen.kt",
+      "sha256": "eca2df65c1595497f3d1c4e7862d47e11bea9ce7074b3a600f55f515910fa197",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/ir/hezarzist/QuestionMedia.kt",
+      "sha256": "21f951215c4ba64e32c9309ccd6b26df67ae4ee238d125ebe03d4e68cd24ab10",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/ir/hezarzist/QuizLogic.kt",
+      "sha256": "3dfc874b789488664fa5ef210bb339870e1c415bc582fad4d618af767c94e144",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/ir/hezarzist/StudyCalendar.kt",
+      "sha256": "1ff10c3e074e302aed1d3554917a6f13ddbd792033c4b2da6b7779cc14901283",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/ir/hezarzist/StudyTimeModels.kt",
+      "sha256": "a398ed14d1da017ed1c99df58efd1c119b8e405c0054078109f893267f86f261",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/ir/hezarzist/StudyTimeScreen.kt",
+      "sha256": "3260433ad2a0b1df367511570b46a6aad9982480608ed802fc93eef06aa77b5e",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/ir/hezarzist/StudyTimeStore.kt",
+      "sha256": "d29f3d622572e6339a8a16145e463524b9c7e66eed825ffff93a97ec75b68636",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher.xml",
+      "sha256": "c3d6eabe62059bf13c8c8e9181b54f15e739a51f3062571871289e6e33dd8efe",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/font/zist_bold.ttf",
+      "sha256": "ded6fc7359ca36d15d7aab9ef0c066e21ce48b26a069994d6602fa2cb9a1b952",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/font/zist_regular.ttf",
+      "sha256": "504d7407d86875acf7d04dfaa0fd7524d0b8797723bc4aa18022f29db25b0b6e",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/xml/data_extraction_rules.xml",
+      "sha256": "eda9dddce1e895de1efd716fe75e244187bf8f91a3bb7444c6ea1731e51c74a8",
+      "unchanged": true
+    }
+  ],
+  "progressStoreByteUnchanged": true,
+  "progressStoreSha256": "aad7e281f7891b8a2b8ff4f460313f3660288a9c66b2a889f8bf597ceac3dc44",
+  "bankFinalsByteUnchanged": true,
+  "allSessionActionsFromStartByteUnchanged": true,
+  "unchangedUiFunctions": [
+    "CellArt",
+    "ModeCard",
+    "MiniMetric",
+    "ToggleLine"
+  ]
+}

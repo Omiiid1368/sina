@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ir.hezarzist.StudyTimeEngineTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-11-08T21:00:58" hostname="a1585755b304" time="0.016">
+  <properties/>
+  <testcase name="elapsedRegressionAlsoPausesWhenBootIdentifierIsUnavailable" classname="ir.hezarzist.StudyTimeEngineTest" time="0.011"/>
+  <testcase name="biologyAndOtherSubjectsRemainSeparateAndManualDatesStayExplicit" classname="ir.hezarzist.StudyTimeEngineTest" time="0.002"/>
+  <testcase name="aMidnightCrossingIsAllocatedToBothTehranDatesWithoutLoss" classname="ir.hezarzist.StudyTimeEngineTest" time="0.0"/>
+  <testcase name="pauseAndContinueExcludeTheEntirePausedGap" classname="ir.hezarzist.StudyTimeEngineTest" time="0.0"/>
+  <testcase name="processRecreationAndWallClockChangesKeepMonotonicDuration" classname="ir.hezarzist.StudyTimeEngineTest" time="0.001"/>
+  <testcase name="rebootPreservesEarnedTimeAndNeverCreditsAnUntrustedPoweredOffGap" classname="ir.hezarzist.StudyTimeEngineTest" time="0.0"/>
+  <testcase name="pausedMidnightGapIsNotAllocatedToEitherDay" classname="ir.hezarzist.StudyTimeEngineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

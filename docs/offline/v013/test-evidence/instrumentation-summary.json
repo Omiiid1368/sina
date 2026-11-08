@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "tests": 65,
+  "failures": 0,
+  "errors": 0,
+  "durationSeconds": 357.011,
+  "runner": "AndroidJUnitRunner",
+  "targetVariant": "signed Release",
+  "applicationId": "ir.hezarzist",
+  "versionCode": 5,
+  "apkSha256": "25cf698505d4ad78d4e2fc7706935df9516e540ccaccb41ba4e7a4f8d89fe7f0",
+  "device": "Android 10/API29 x86_64 emulator, 720x1280, 320dpi, software acceleration",
+  "airplaneMode": true
+}

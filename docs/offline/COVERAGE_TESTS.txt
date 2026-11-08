@@ -1,0 +1,30 @@
+test_actual_booklet_page_required (test_konkur_coverage.CoverageTest.test_actual_booklet_page_required) ... ok
+test_alternate_booklet_is_permutation_not_duplicate (test_konkur_coverage.CoverageTest.test_alternate_booklet_is_permutation_not_duplicate) ... ok
+test_authored_substitute_rejected (test_konkur_coverage.CoverageTest.test_authored_substitute_rejected) ... ok
+test_complete_fixture_counts_canonical_once (test_konkur_coverage.CoverageTest.test_complete_fixture_counts_canonical_once) ... ok
+test_complete_import_flag_prevents_partial_archive_mutation (test_konkur_coverage.CoverageTest.test_complete_import_flag_prevents_partial_archive_mutation) ... ok
+test_deleted_questions_preserved_but_not_graded (test_konkur_coverage.CoverageTest.test_deleted_questions_preserved_but_not_graded) ... ok
+test_deletion_requires_correction_proof (test_konkur_coverage.CoverageTest.test_deletion_requires_correction_proof) ... ok
+test_duplicate_occurrence_rejected (test_konkur_coverage.CoverageTest.test_duplicate_occurrence_rejected) ... ok
+test_duplicate_text_under_another_id_rejected (test_konkur_coverage.CoverageTest.test_duplicate_text_under_another_id_rejected) ... ok
+test_empty_unknown_is_valid_but_never_complete (test_konkur_coverage.CoverageTest.test_empty_unknown_is_valid_but_never_complete) ... ok
+test_extraction_numbers_must_equal_original_expected (test_konkur_coverage.CoverageTest.test_extraction_numbers_must_equal_original_expected) ... ok
+test_image_required_and_unsafe_paths_rejected (test_konkur_coverage.CoverageTest.test_image_required_and_unsafe_paths_rejected) ... ok
+test_invalid_staging_never_mutates_bank_or_assets (test_konkur_coverage.CoverageTest.test_invalid_staging_never_mutates_bank_or_assets) ... ok
+test_key_sha_and_bogus_pdf_rejected (test_konkur_coverage.CoverageTest.test_key_sha_and_bogus_pdf_rejected) ... ok
+test_malformed_nested_input_fails_closed (test_konkur_coverage.CoverageTest.test_malformed_nested_input_fails_closed) ... ok
+test_missing_expected_number_blocks_completion (test_konkur_coverage.CoverageTest.test_missing_expected_number_blocks_completion) ... ok
+test_one_deleted_variant_does_not_erase_valid_occurrences (test_konkur_coverage.CoverageTest.test_one_deleted_variant_does_not_erase_valid_occurrences) ... ok
+test_reviewed_staging_imports_atomically_and_bundles_matching_sha (test_konkur_coverage.CoverageTest.test_reviewed_staging_imports_atomically_and_bundles_matching_sha) ... ok
+test_source_path_traversal_is_rejected (test_konkur_coverage.CoverageTest.test_source_path_traversal_is_rejected) ... ok
+test_unreviewed_science_or_wrong_book_edition_rejected (test_konkur_coverage.CoverageTest.test_unreviewed_science_or_wrong_book_edition_rejected) ... ok
+test_valid_bundled_diagram_and_hash_are_required (test_konkur_coverage.CoverageTest.test_valid_bundled_diagram_and_hash_are_required) ... ok
+test_wrong_permutation_answer_is_rejected (test_konkur_coverage.CoverageTest.test_wrong_permutation_answer_is_rejected) ... ok
+test_year_inventory_proof_and_all_variants_required (test_konkur_coverage.CoverageTest.test_year_inventory_proof_and_all_variants_required) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 0.530s
+
+OK
+
+Production --complete exit code: 1 (expected 1 while archive is incomplete)

@@ -1,0 +1,5 @@
+allprojects {
+    plugins.withId('com.android.application') {
+        extensions.getByName('android').testBuildType = 'release'
+    }
+}

@@ -1,0 +1,152 @@
+{
+  "asOf": "2026-11-07",
+  "status": "blocked_verification_inventory_not_exam_archive",
+  "years": [
+    {
+      "year": 1398,
+      "exam": "سراسری، گروه علوم تجربی، زیست‌شناسی",
+      "insideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "outsideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "allHeldSessionsConfirmed": false,
+      "questionPdf": null,
+      "finalKeyPdf": null,
+      "bookletCodesVerified": [],
+      "publicationStatus": "not verified; no schedule or session is inferred",
+      "activeImportedQuestions": 0
+    },
+    {
+      "year": 1399,
+      "exam": "سراسری، گروه علوم تجربی، زیست‌شناسی",
+      "insideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "outsideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "allHeldSessionsConfirmed": false,
+      "questionPdf": null,
+      "finalKeyPdf": null,
+      "bookletCodesVerified": [],
+      "publicationStatus": "not verified; no schedule or session is inferred",
+      "activeImportedQuestions": 0
+    },
+    {
+      "year": 1400,
+      "exam": "سراسری، گروه علوم تجربی، زیست‌شناسی",
+      "insideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "outsideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "allHeldSessionsConfirmed": false,
+      "questionPdf": null,
+      "finalKeyPdf": null,
+      "bookletCodesVerified": [],
+      "publicationStatus": "not verified; no schedule or session is inferred",
+      "activeImportedQuestions": 0
+    },
+    {
+      "year": 1401,
+      "exam": "سراسری، گروه علوم تجربی، زیست‌شناسی",
+      "insideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "outsideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "allHeldSessionsConfirmed": false,
+      "questionPdf": null,
+      "finalKeyPdf": null,
+      "bookletCodesVerified": [],
+      "publicationStatus": "not verified; no schedule or session is inferred",
+      "activeImportedQuestions": 0
+    },
+    {
+      "year": 1402,
+      "exam": "سراسری، گروه علوم تجربی، زیست‌شناسی",
+      "insideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "outsideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "allHeldSessionsConfirmed": false,
+      "questionPdf": null,
+      "finalKeyPdf": null,
+      "bookletCodesVerified": [],
+      "publicationStatus": "not verified; no schedule or session is inferred",
+      "activeImportedQuestions": 0
+    },
+    {
+      "year": 1403,
+      "exam": "سراسری، گروه علوم تجربی، زیست‌شناسی",
+      "insideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "outsideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "allHeldSessionsConfirmed": false,
+      "questionPdf": null,
+      "finalKeyPdf": null,
+      "bookletCodesVerified": [],
+      "publicationStatus": "not verified; no schedule or session is inferred",
+      "activeImportedQuestions": 0
+    },
+    {
+      "year": 1404,
+      "exam": "سراسری، گروه علوم تجربی، زیست‌شناسی",
+      "insideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "outsideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "allHeldSessionsConfirmed": false,
+      "questionPdf": null,
+      "finalKeyPdf": null,
+      "bookletCodesVerified": [],
+      "publicationStatus": "not verified; no schedule or session is inferred",
+      "activeImportedQuestions": 0
+    },
+    {
+      "year": 1405,
+      "exam": "سراسری، گروه علوم تجربی، زیست‌شناسی",
+      "insideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "outsideIran": {
+        "coverage": "unknown; no verified source",
+        "verifiedSessions": []
+      },
+      "allHeldSessionsConfirmed": false,
+      "questionPdf": null,
+      "finalKeyPdf": null,
+      "bookletCodesVerified": [],
+      "publicationStatus": "not verified; no schedule or session is inferred",
+      "activeImportedQuestions": 0
+    }
+  ],
+  "publicationRule": "Do not create or attribute an official question until actual source PDF and final key/version, publication metadata and rights scope are matched.",
+  "rightsStatus": "Owner declares redistribution permission; independent scope verification pending."
+}

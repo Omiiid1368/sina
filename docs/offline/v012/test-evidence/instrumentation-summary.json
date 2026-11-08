@@ -1,0 +1,337 @@
+{
+  "version": "0.12.0-preview",
+  "versionCode": 4,
+  "applicationId": "ir.hezarzist",
+  "apkSha256": "d25f4e9d58f85587bd69549fe9d17638d00397709ddd2dbcce23d4991b91f6d1",
+  "device": "Android Emulator API29 / Android10 x86_64, 720x1280 dpi320, software CPU/GPU emulation",
+  "airplaneMode": true,
+  "targetBuildType": "release",
+  "testBuildType": "release",
+  "signedTargetAndTestSameCertificate": true,
+  "tests": 61,
+  "passed": 61,
+  "failed": 0,
+  "skipped": 0,
+  "fullSuiteRun": true,
+  "runnerSeconds": 424.484,
+  "records": [
+    {
+      "class": "ir.hezarzist.AboutCreatorTest",
+      "test": "biographyHasOnlyOneSupportActionAndOpensExactUrlOnlyOnTap",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.AboutCreatorTest",
+      "test": "missingBrowserShowsReadableErrorWithoutLaunchingOrBlockingBack",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.AboutCreatorTest",
+      "test": "supportIntentHasNoTrackingOrPaymentPayloadAndSecurityDenialIsHandled",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.FinalStudyTest",
+      "test": "examKeepsAnswersHiddenAcrossNavigationAndDurableDeadlineRestore",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.FinalStudyTest",
+      "test": "bundledCatalogIgnoresOldDownloadedBankAndRestoresExistingQuestionIds",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.FinalStudyTest",
+      "test": "reviewFiltersUseLocalUnassessedAttemptsAndBookmarksWithoutRepeats",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.FinalStudyTest",
+      "test": "skippedPracticeStillRequiresAttemptAfterOpeningCompletedSession",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.FinalStudyTest",
+      "test": "falseStatementNeedsCorrectionAndSelfAssessmentRejectsNonFiniteScores",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.FinalStudyTest",
+      "test": "oldDownloadedAndUnavailableSessionsAreArchivedWithoutRemappingWrittenWork",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.FinalStudyTest",
+      "test": "allSevenFormatsAndReadableDiagramsAreBundledWithoutNetworkPermission",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.FinalStudyTest",
+      "test": "localDraftBookmarksFiltersAndEpochSurviveOnlyTheirValidStore",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.FinalStudyTest",
+      "test": "practiceHidesSolutionUntilWrittenAttemptAndUsesExplicitRubric",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.ImportedBankTest",
+      "test": "importedAnswersMatchSeparatelyExtractedSourceKeysAndUnfinishedItemsStayOut",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.ImportedBankTest",
+      "test": "allPreviousQuestionsAndFinalsRemainExactlyUnchanged",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "oldFormatOneImportPreservesCurrentStudyGoalRecordsAndRunningTimer",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "activeTimedQuizExportsNewClockFieldsWithoutResettingBudget",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "optionalProfileUsesBundledAvatarAndLimitsOnlyDisplayName",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "malformedStudyDataRejectsWholeBackupEvenWithValidOuterChecksum",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "failureAfterFourthStoreCommitRollsBackStudyStateAndRunningAnchorExactly",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "corruptionWrongApplicationFutureVersionAndDeepJsonAreRejectedWithoutMutation",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "exportKeepsLiveTimerRunningAndImportedTimerContainsOnlyEarnedSegments",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "missingQuestionIdsAndOpaqueOldSessionsAreArchivedWithoutRemapping",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "malformedOldStudyIsRetainedForManualRecoveryWithoutCrashingUpgrade",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "exportContainsOnlyWhitelistedStudyDataAndLocalProfile",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "entireSchemaIsValidatedEvenWithRecomputedChecksum",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "selectedLegacyAccountStudyIsPreservedWithoutIdentityOrOtherUsers",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "interruptedNewJournalRestoresOriginalRunningStudyAnchorWithoutImportNormalization",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "interruptedRestoreRecoversExactPreviousSnapshotBeforeStoresOpen",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "explicitEmptyStudyStoreInFormatTwoReplacesExistingStudyData",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "completeStudyProfileAndSelfAssessmentRoundTrip",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "anonymousPrototypeProgressMigratesOnlyWhenPublishedProfileHasNoStudy",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "studySessionsGoalAndPausedTimerRoundTripWithoutDuplicateIdsOrTime",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.LocalBackupTest",
+      "test": "oversizedInputIsBoundedBeforeParsing",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.NewFeatureUiTest",
+      "test": "timerSurvivesNavigationPauseAndActivityRecreation",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.NewFeatureUiTest",
+      "test": "manualRecordEditCalendarAndConfirmedDeleteUseTheVisibleControls",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.NewFeatureUiTest",
+      "test": "sourceDiagramOptionsCanBeMagnifiedWithoutSubmittingAnAnswer",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineComplianceTest",
+      "test": "airplaneModeLaunchShowsLearningAndLocalToolsWithoutContactOrLoginGate",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineComplianceTest",
+      "test": "officialCoverageDoesNotInventPapersOrReplaceThemWithAuthoredQuestions",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineComplianceTest",
+      "test": "legacySnapshotsAndRemotePathsCannotOverrideBundledStudyContent",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineComplianceTest",
+      "test": "everyBundledQuestionExplanationImageAndPersianFontIsReadable",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineComplianceTest",
+      "test": "installedManifestHasNoNetworkContactOrBroadStoragePermissions",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineGameTest",
+      "test": "practiceAnswersBookmarksAndSettingsSurviveNewStore",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineGameTest",
+      "test": "resumedTimerCannotGainTimeWhenWallClockMovesBackwards",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineGameTest",
+      "test": "duelHasNineSharedQuestionsAndEqualTimeBudget",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineGameTest",
+      "test": "quickTimeoutCannotBeAnsweredLateAndNoRepeats",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineGameTest",
+      "test": "packagedBankIsIndependentAndOfflineModesRemainAvailable",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineGameTest",
+      "test": "examKeepsOneDeadlineAndEndsOnExpiry",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineGameTest",
+      "test": "reviewFiltersWrongBlankAndMarkedByGradeAndChapter",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineGameTest",
+      "test": "activeSessionRestoresAnswersTimerAndCompletesOnlyOnce",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineGameTest",
+      "test": "personalBestSurvivesMoreThanTwoHundredRecentResults",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.OfflineGameTest",
+      "test": "timerAfterDeviceRebootCannotExceedItsSavedRemainingBudget",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.PersianUiTest",
+      "test": "persianPracticeShowsExplanationsAndSavesResult",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.PersianUiTest",
+      "test": "rotationKeepsQuickSessionAndDeadline",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.PersianUiTest",
+      "test": "darkThemeAndLargeTextCanNavigateAndPersist",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.StudyTimeStoreTest",
+      "test": "onlyOneActiveSessionExistsAndRebootRecoveryDoesNotAddWallGap",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.StudyTimeStoreTest",
+      "test": "processRestorePauseContinueFinishAreDurableAndIdempotent",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.StudyTimeStoreTest",
+      "test": "backupNormalizationPausesForeignAnchorWithoutDuplicatingEarnedSegments",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.StudyTimeStoreTest",
+      "test": "duplicateUuidsAndOverlappingSpansAreRejected",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.StudyTimeStoreTest",
+      "test": "editingOnlyMetadataKeepsTimerSecondsAndCrossDayAllocation",
+      "status": 0
+    },
+    {
+      "class": "ir.hezarzist.StudyTimeStoreTest",
+      "test": "manualEditDeleteGoalAndEpochInvalidationPreserveCorrectValues",
+      "status": 0
+    }
+  ],
+  "previousAttempt": {
+    "tests": 61,
+    "passed": 59,
+    "failed": 2,
+    "targetApkSha256": "82deec2a2a2ea73707e3d80a2200e7195e895245ff08aa2b4474c5b559d8d3c7",
+    "scope": "Intermediate bank, before final deduplication and withholding all disputed items.",
+    "fixes": [
+      "Test-only: grade distribution assertion scoped to original authored cohort rather than the expanded bank.",
+      "Test-only: tap the unmerged caption bounds; the merged option centre can hit its child image zoom button."
+    ],
+    "evidence": "instrumentation-attempt1.txt"
+  },
+  "physicalDeviceTested": false
+}

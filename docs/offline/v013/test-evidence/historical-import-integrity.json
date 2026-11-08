@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "scope": "Historical v0.12 cohort; current withdrawals/corrections audited by audit_content_update.py",
+  "historicalMcq": 725,
+  "activeFinals": 72,
+  "previousMcqPreserved": 96,
+  "previousFinalsPreserved": 72,
+  "receivedMcq": 1077,
+  "addedMcq": 629,
+  "pendingMcq": 439,
+  "duplicateMcq": 9,
+  "sourceDisputedHeld": 4,
+  "sourceKeysMatched": 629,
+  "imagePixelHashesMatched": 1288,
+  "addedByGrade": {
+    "10": 121,
+    "11": 272,
+    "12": 236
+  },
+  "scientificEditorialApproval": false,
+  "officialArchiveCertified": false,
+  "writtenQuestionCountKnown": false,
+  "unreconciledWrittenPages": 165
+}

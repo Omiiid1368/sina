@@ -1,0 +1,5 @@
+fd5c282f76e4b55420c5067502de4517dc25c599f7b1c62706f9c5bdd9e680bc  HezarZist-0.13.0-content-preview-bank.zip
+bd9e5be68dceca2202da871ee535ad0db6dd15999aae08c761d6417bef229272  HezarZist-0.13.0-content-preview-delivery.zip
+98b2cafdfa33b85c2f14a3f196a8d4427d10c0c86f7c5f95abbd90c5b5875d1a  HezarZist-0.13.0-content-preview-package-manifest.json
+25cf698505d4ad78d4e2fc7706935df9516e540ccaccb41ba4e7a4f8d89fe7f0  HezarZist-0.13.0-content-preview-release.apk
+39b364ef37e081cdbda0be419cb76808cec9f67fb1561b84a5d76bdfabda332c  HezarZist-0.13.0-content-preview-source.zip

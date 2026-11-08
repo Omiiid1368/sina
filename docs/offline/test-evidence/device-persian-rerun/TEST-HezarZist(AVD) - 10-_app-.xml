@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="ir.hezarzist.PersianUiTest" tests="3" failures="0" errors="0" skipped="0" time="90.848" timestamp="2026-11-07T21:30:28" hostname="localhost">
+  <properties>
+    <property name="device" value="HezarZist(AVD) - 10" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="persianPracticeShowsExplanationsAndSavesResult" classname="ir.hezarzist.PersianUiTest" time="42.862" />
+  <testcase name="rotationKeepsQuickSessionAndDeadline" classname="ir.hezarzist.PersianUiTest" time="17.26" />
+  <testcase name="darkThemeAndLargeTextCanNavigateAndPersist" classname="ir.hezarzist.PersianUiTest" time="23.826" />
+</testsuite>

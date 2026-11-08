@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "questionId": "UP-9ba2aeb98098-0037",
+  "sourceQuestionNumber": 37,
+  "steps": [
+    "Restore post-update learner fixture",
+    "Open the new graph question offline",
+    "Open image magnification and inspect complete axes/labels",
+    "Choose correct option 4",
+    "Show educational answer provenance and explanation",
+    "Finish with score 100",
+    "Force-stop and reopen; total 430+100=530 and new correct attempt persist",
+    "Two old study records/goal remain byte-identical"
+  ],
+  "newCorrectAttempt": {
+    "attempts": 1,
+    "correct": 1,
+    "last": 1
+  },
+  "historyCount": 2,
+  "totalScore": 530,
+  "airplaneMode": true,
+  "apkSha256": "25cf698505d4ad78d4e2fc7706935df9516e540ccaccb41ba4e7a4f8d89fe7f0"
+}

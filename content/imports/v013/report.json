@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "version": "0.13.0-content-preview",
+  "baselineMain": 725,
+  "retiredExisting": 9,
+  "existingTranscriptionCorrections": 52,
+  "receivedNewFiles": 9,
+  "readableNewFiles": 8,
+  "readableNewPages": 660,
+  "newNumberedNonQbQuestions": 155,
+  "newAdded": 50,
+  "newDuplicates": 71,
+  "newSkipped": 34,
+  "mainCount": 766,
+  "veryDifficultCount": 0,
+  "sharedCount": 0,
+  "uniqueMcqCount": 766,
+  "finalsCount": 72,
+  "mainTarget": 2000,
+  "mainShortfall": 1234,
+  "veryDifficultTarget": 1000,
+  "qbEligibleRedCountKnown": false,
+  "qbSelectionComplete": false,
+  "qbScannedPages": 633,
+  "qbLegendVerified": false,
+  "qbSuppliedAnswersPresent": false,
+  "qbCurrentScope": "No QB question classified or shipped without the missing color legend and reliable answer review.",
+  "complete": false,
+  "newByGrade": {
+    "12": 24,
+    "10": 15,
+    "11": 11
+  },
+  "files": [
+    {
+      "name": "میکروطبقه‌بندی کنکور (فصل 1 دهم).pdf",
+      "sha256": "40777331c0478aa5dbf1fe653661ee2d09f4316d14c3a97e27a5181c92040801",
+      "pages": 3,
+      "receivedQuestions": 15,
+      "added": 6,
+      "duplicate": 9,
+      "skipped": 0
+    },
+    {
+      "name": "میکروطبقه‌بندی کنکور (فصل 1 دوازدهم).pdf",
+      "sha256": "81cc603aaa04f36b2d1e4d07463e7c135aff9d340ae76a3916110fb479a8694f",
+      "pages": 4,
+      "receivedQuestions": 24,
+      "added": 6,
+      "duplicate": 16,
+      "skipped": 2
+    },
+    {
+      "name": "میکروطبقه‌بندی کنکور (فصل 2 دهم).pdf",
+      "sha256": "a101e5b46444caaa1511e14a90bea83e190648ab8d454d1db7309c29b4678c52",
+      "pages": 4,
+      "receivedQuestions": 24,
+      "added": 2,
+      "duplicate": 15,
+      "skipped": 7
+    },
+    {
+      "name": "کنکور سراسری 1405.pdf",
+      "sha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "pages": 8,
+      "receivedQuestions": 45,
+      "added": 28,
+      "duplicate": 0,
+      "skipped": 17
+    },
+    {
+      "name": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf",
+      "sha256": "07295b99098c0f5b7072bfe793f3fd6bfa04baff6988e0cc8634e2474e9cba37",
+      "pages": 8,
+      "receivedQuestions": 47,
+      "added": 8,
+      "duplicate": 31,
+      "skipped": 8
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "grade": 10,
+    "name": "سوالات کتاب QB پایه دهم-compressed.pdf",
+    "sha256": "2ded991b5315e7a384ab17e7f9e3976c937114dedfa71a3d0244dc738bc75b80",
+    "bytes": 13988908,
+    "pages": 196,
+    "textChars": 0,
+    "colorLegendVerified": false,
+    "answerKeyAvailable": false,
+    "visualReviewScope": "Start/end and sample question pages only; full red-number selection not performed without the legend.",
+    "activeQuestionCount": 0
+  },
+  {
+    "grade": 11,
+    "name": "سوالات کتاب QB پایه یازدهم-compressed.pdf",
+    "sha256": "de6433a51f39f0262c11a454df14b630c5904a9ed21e87d0571486193b928e56",
+    "bytes": 15318687,
+    "pages": 212,
+    "textChars": 0,
+    "colorLegendVerified": false,
+    "answerKeyAvailable": false,
+    "visualReviewScope": "Start/end and sample question pages only; full red-number selection not performed without the legend.",
+    "activeQuestionCount": 0
+  },
+  {
+    "grade": 12,
+    "name": "سوالات کتاب QB پایه دوازدهم-compressed.pdf",
+    "sha256": "a71ccc14b945bf633bd1e3e23dd703261a837e96c0406e58ab877d69777050a6",
+    "bytes": 16520853,
+    "pages": 225,
+    "textChars": 0,
+    "colorLegendVerified": false,
+    "answerKeyAvailable": false,
+    "visualReviewScope": "Start/end and sample question pages only; full red-number selection not performed without the legend.",
+    "activeQuestionCount": 0
+  }
+]

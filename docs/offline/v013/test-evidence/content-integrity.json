@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "baseline": 725,
+  "retained": 716,
+  "withdrawnRecoverable": 9,
+  "added": 50,
+  "transcriptionCorrections": 52,
+  "main": 766,
+  "veryDifficult": 0,
+  "shared": 0,
+  "unique": 766,
+  "finalsUnchanged": 72,
+  "retainedSourceKeyMatches": 620,
+  "newLosslessImagePixelMatches": 50,
+  "humanScientificApproval": false,
+  "officialPaperKeyCertified": false,
+  "qbEligibleRedCountKnown": false
+}

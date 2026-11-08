@@ -1,0 +1,752 @@
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+ir.hezarzist.FinalStudyTest:
+INSTRUMENTATION_STATUS: test=examKeepsAnswersHiddenAcrossNavigationAndDurableDeadlineRestore
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=examKeepsAnswersHiddenAcrossNavigationAndDurableDeadlineRestore
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=bundledCatalogIgnoresOldDownloadedBankAndRestoresExistingQuestionIds
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=bundledCatalogIgnoresOldDownloadedBankAndRestoresExistingQuestionIds
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=reviewFiltersUseLocalUnassessedAttemptsAndBookmarksWithoutRepeats
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=reviewFiltersUseLocalUnassessedAttemptsAndBookmarksWithoutRepeats
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=4
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=skippedPracticeStillRequiresAttemptAfterOpeningCompletedSession
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=4
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=skippedPracticeStillRequiresAttemptAfterOpeningCompletedSession
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=5
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=falseStatementNeedsCorrectionAndSelfAssessmentRejectsNonFiniteScores
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=5
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=falseStatementNeedsCorrectionAndSelfAssessmentRejectsNonFiniteScores
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=6
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=oldDownloadedAndUnavailableSessionsAreArchivedWithoutRemappingWrittenWork
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=6
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=oldDownloadedAndUnavailableSessionsAreArchivedWithoutRemappingWrittenWork
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=7
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=allSevenFormatsAndReadableDiagramsAreBundledWithoutNetworkPermission
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=7
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=allSevenFormatsAndReadableDiagramsAreBundledWithoutNetworkPermission
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=8
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=localDraftBookmarksFiltersAndEpochSurviveOnlyTheirValidStore
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=8
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=localDraftBookmarksFiltersAndEpochSurviveOnlyTheirValidStore
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=9
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=practiceHidesSolutionUntilWrittenAttemptAndUsesExplicitRubric
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=9
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=practiceHidesSolutionUntilWrittenAttemptAndUsesExplicitRubric
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=10
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+ir.hezarzist.LocalBackupTest:
+INSTRUMENTATION_STATUS: test=activeTimedQuizExportsNewClockFieldsWithoutResettingBudget
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=10
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=activeTimedQuizExportsNewClockFieldsWithoutResettingBudget
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=11
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=11
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stack=java.lang.NoSuchMethodError: No virtual method restoreWithFailureForTest$app_debug(Landroid/content/Context;Lir/hezarzist/PreparedLocalBackup;Lkotlin/jvm/functions/Function1;)V in class Lir/hezarzist/LocalBackup; or its super classes (declaration of 'ir.hezarzist.LocalBackup' appears in /data/app/ir.hezarzist-ilZluwX1ANojdfwJFSUuvQ==/base.apk!classes2.dex)
+	at ir.hezarzist.LocalBackupTest.partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys$lambda$32$lambda$31(LocalBackupTest.kt:154)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$6G43bMb7iQ_teol1uAavxesfAfM(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda0.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.LocalBackupTest.rejects(LocalBackupTest.kt:269)
+	at ir.hezarzist.LocalBackupTest.partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys$lambda$32(LocalBackupTest.kt:154)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$ViCGEDsH8bQvA8gS8Y17ipA8M3U(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda26.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.LocalBackupTest.main$lambda$0(LocalBackupTest.kt:29)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$qo0lsAXq3ENiER65mQuxquW4T7c(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda1.run(D8$$SyntheticClass:0)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2207)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+INSTRUMENTATION_STATUS: stream=
+Error in partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys(ir.hezarzist.LocalBackupTest):
+java.lang.NoSuchMethodError: No virtual method restoreWithFailureForTest$app_debug(Landroid/content/Context;Lir/hezarzist/PreparedLocalBackup;Lkotlin/jvm/functions/Function1;)V in class Lir/hezarzist/LocalBackup; or its super classes (declaration of 'ir.hezarzist.LocalBackup' appears in /data/app/ir.hezarzist-ilZluwX1ANojdfwJFSUuvQ==/base.apk!classes2.dex)
+	at ir.hezarzist.LocalBackupTest.partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys$lambda$32$lambda$31(LocalBackupTest.kt:154)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$6G43bMb7iQ_teol1uAavxesfAfM(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda0.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.LocalBackupTest.rejects(LocalBackupTest.kt:269)
+	at ir.hezarzist.LocalBackupTest.partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys$lambda$32(LocalBackupTest.kt:154)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$ViCGEDsH8bQvA8gS8Y17ipA8M3U(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda26.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.LocalBackupTest.main$lambda$0(LocalBackupTest.kt:29)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$qo0lsAXq3ENiER65mQuxquW4T7c(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda1.run(D8$$SyntheticClass:0)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2207)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+INSTRUMENTATION_STATUS: test=partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=12
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=optionalProfileUsesBundledAvatarAndLimitsOnlyDisplayName
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=12
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=optionalProfileUsesBundledAvatarAndLimitsOnlyDisplayName
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=13
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=corruptionWrongApplicationFutureVersionAndDeepJsonAreRejectedWithoutMutation
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=13
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=corruptionWrongApplicationFutureVersionAndDeepJsonAreRejectedWithoutMutation
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=14
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=missingQuestionIdsAndOpaqueOldSessionsAreArchivedWithoutRemapping
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=14
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=missingQuestionIdsAndOpaqueOldSessionsAreArchivedWithoutRemapping
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=15
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=malformedOldStudyIsRetainedForManualRecoveryWithoutCrashingUpgrade
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=15
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=malformedOldStudyIsRetainedForManualRecoveryWithoutCrashingUpgrade
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=16
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=exportContainsOnlyWhitelistedStudyDataAndLocalProfile
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=16
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=exportContainsOnlyWhitelistedStudyDataAndLocalProfile
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=17
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=entireSchemaIsValidatedEvenWithRecomputedChecksum
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=17
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=entireSchemaIsValidatedEvenWithRecomputedChecksum
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=18
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=selectedLegacyAccountStudyIsPreservedWithoutIdentityOrOtherUsers
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=18
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stack=java.lang.NoSuchMethodError: No virtual method getStores$app_debug()Ljava/util/Map; in class Lir/hezarzist/PreparedLocalBackup; or its super classes (declaration of 'ir.hezarzist.PreparedLocalBackup' appears in /data/app/ir.hezarzist-ilZluwX1ANojdfwJFSUuvQ==/base.apk!classes2.dex)
+	at ir.hezarzist.LocalBackupTest.selectedLegacyAccountStudyIsPreservedWithoutIdentityOrOtherUsers$lambda$44(LocalBackupTest.kt:244)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$KV-LC2I_d48wgaN_2qiBx2ZeZHU(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda3.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.LocalBackupTest.main$lambda$0(LocalBackupTest.kt:29)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$qo0lsAXq3ENiER65mQuxquW4T7c(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda1.run(D8$$SyntheticClass:0)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2207)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+INSTRUMENTATION_STATUS: stream=
+Error in selectedLegacyAccountStudyIsPreservedWithoutIdentityOrOtherUsers(ir.hezarzist.LocalBackupTest):
+java.lang.NoSuchMethodError: No virtual method getStores$app_debug()Ljava/util/Map; in class Lir/hezarzist/PreparedLocalBackup; or its super classes (declaration of 'ir.hezarzist.PreparedLocalBackup' appears in /data/app/ir.hezarzist-ilZluwX1ANojdfwJFSUuvQ==/base.apk!classes2.dex)
+	at ir.hezarzist.LocalBackupTest.selectedLegacyAccountStudyIsPreservedWithoutIdentityOrOtherUsers$lambda$44(LocalBackupTest.kt:244)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$KV-LC2I_d48wgaN_2qiBx2ZeZHU(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda3.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.LocalBackupTest.main$lambda$0(LocalBackupTest.kt:29)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$qo0lsAXq3ENiER65mQuxquW4T7c(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda1.run(D8$$SyntheticClass:0)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2207)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+INSTRUMENTATION_STATUS: test=selectedLegacyAccountStudyIsPreservedWithoutIdentityOrOtherUsers
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=19
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=interruptedRestoreRecoversExactPreviousSnapshotBeforeStoresOpen
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=19
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=interruptedRestoreRecoversExactPreviousSnapshotBeforeStoresOpen
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=20
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=completeStudyProfileAndSelfAssessmentRoundTrip
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=20
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=completeStudyProfileAndSelfAssessmentRoundTrip
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=21
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=anonymousPrototypeProgressMigratesOnlyWhenPublishedProfileHasNoStudy
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=21
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stack=java.lang.NoSuchMethodError: No virtual method getStores$app_debug()Ljava/util/Map; in class Lir/hezarzist/PreparedLocalBackup; or its super classes (declaration of 'ir.hezarzist.PreparedLocalBackup' appears in /data/app/ir.hezarzist-ilZluwX1ANojdfwJFSUuvQ==/base.apk!classes2.dex)
+	at ir.hezarzist.LocalBackupTest.anonymousPrototypeProgressMigratesOnlyWhenPublishedProfileHasNoStudy$lambda$41(LocalBackupTest.kt:223)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$u7xGF7II0_hyiUBXiWCbkm8z7eo(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda27.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.LocalBackupTest.main$lambda$0(LocalBackupTest.kt:29)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$qo0lsAXq3ENiER65mQuxquW4T7c(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda1.run(D8$$SyntheticClass:0)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2207)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+INSTRUMENTATION_STATUS: stream=
+Error in anonymousPrototypeProgressMigratesOnlyWhenPublishedProfileHasNoStudy(ir.hezarzist.LocalBackupTest):
+java.lang.NoSuchMethodError: No virtual method getStores$app_debug()Ljava/util/Map; in class Lir/hezarzist/PreparedLocalBackup; or its super classes (declaration of 'ir.hezarzist.PreparedLocalBackup' appears in /data/app/ir.hezarzist-ilZluwX1ANojdfwJFSUuvQ==/base.apk!classes2.dex)
+	at ir.hezarzist.LocalBackupTest.anonymousPrototypeProgressMigratesOnlyWhenPublishedProfileHasNoStudy$lambda$41(LocalBackupTest.kt:223)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$u7xGF7II0_hyiUBXiWCbkm8z7eo(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda27.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.LocalBackupTest.main$lambda$0(LocalBackupTest.kt:29)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$qo0lsAXq3ENiER65mQuxquW4T7c(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda1.run(D8$$SyntheticClass:0)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2207)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+INSTRUMENTATION_STATUS: test=anonymousPrototypeProgressMigratesOnlyWhenPublishedProfileHasNoStudy
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=22
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=oversizedInputIsBoundedBeforeParsing
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=22
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=oversizedInputIsBoundedBeforeParsing
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=23
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+ir.hezarzist.OfflineComplianceTest:
+INSTRUMENTATION_STATUS: test=airplaneModeLaunchShowsLearningAndLocalToolsWithoutContactOrLoginGate
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=23
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=airplaneModeLaunchShowsLearningAndLocalToolsWithoutContactOrLoginGate
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=24
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=officialCoverageDoesNotInventPapersOrReplaceThemWithAuthoredQuestions
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=24
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=officialCoverageDoesNotInventPapersOrReplaceThemWithAuthoredQuestions
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=25
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=legacySnapshotsAndRemotePathsCannotOverrideBundledStudyContent
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=25
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=legacySnapshotsAndRemotePathsCannotOverrideBundledStudyContent
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=26
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=everyBundledQuestionExplanationImageAndPersianFontIsReadable
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=26
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=everyBundledQuestionExplanationImageAndPersianFontIsReadable
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=27
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=installedManifestHasNoNetworkContactOrBroadStoragePermissions
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=27
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=installedManifestHasNoNetworkContactOrBroadStoragePermissions
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=28
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+ir.hezarzist.OfflineGameTest:
+INSTRUMENTATION_STATUS: test=practiceAnswersBookmarksAndSettingsSurviveNewStore
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=28
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=practiceAnswersBookmarksAndSettingsSurviveNewStore
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=29
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=resumedTimerCannotGainTimeWhenWallClockMovesBackwards
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=29
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=resumedTimerCannotGainTimeWhenWallClockMovesBackwards
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=30
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=duelHasNineSharedQuestionsAndEqualTimeBudget
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=30
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=duelHasNineSharedQuestionsAndEqualTimeBudget
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=31
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=quickTimeoutCannotBeAnsweredLateAndNoRepeats
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=31
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=quickTimeoutCannotBeAnsweredLateAndNoRepeats
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=32
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=packagedBankIsIndependentAndOfflineModesRemainAvailable
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=32
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=packagedBankIsIndependentAndOfflineModesRemainAvailable
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=33
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=examKeepsOneDeadlineAndEndsOnExpiry
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=33
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=examKeepsOneDeadlineAndEndsOnExpiry
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=34
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=reviewFiltersWrongBlankAndMarkedByGradeAndChapter
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=34
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=reviewFiltersWrongBlankAndMarkedByGradeAndChapter
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=35
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=activeSessionRestoresAnswersTimerAndCompletesOnlyOnce
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=35
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=activeSessionRestoresAnswersTimerAndCompletesOnlyOnce
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=36
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=personalBestSurvivesMoreThanTwoHundredRecentResults
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=36
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=personalBestSurvivesMoreThanTwoHundredRecentResults
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=37
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=timerAfterDeviceRebootCannotExceedItsSavedRemainingBudget
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=37
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=timerAfterDeviceRebootCannotExceedItsSavedRemainingBudget
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.PersianUiTest
+INSTRUMENTATION_STATUS: current=38
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+ir.hezarzist.PersianUiTest:
+INSTRUMENTATION_STATUS: test=persianPracticeShowsExplanationsAndSavesResult
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.PersianUiTest
+INSTRUMENTATION_STATUS: current=38
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=persianPracticeShowsExplanationsAndSavesResult
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.PersianUiTest
+INSTRUMENTATION_STATUS: current=39
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=rotationKeepsQuickSessionAndDeadline
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.PersianUiTest
+INSTRUMENTATION_STATUS: current=39
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=rotationKeepsQuickSessionAndDeadline
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.PersianUiTest
+INSTRUMENTATION_STATUS: current=40
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=darkThemeAndLargeTextCanNavigateAndPersist
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.PersianUiTest
+INSTRUMENTATION_STATUS: current=40
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=darkThemeAndLargeTextCanNavigateAndPersist
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_RESULT: stream=
+
+Time: 124.751
+There were 3 failures:
+1) partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys(ir.hezarzist.LocalBackupTest)
+java.lang.NoSuchMethodError: No virtual method restoreWithFailureForTest$app_debug(Landroid/content/Context;Lir/hezarzist/PreparedLocalBackup;Lkotlin/jvm/functions/Function1;)V in class Lir/hezarzist/LocalBackup; or its super classes (declaration of 'ir.hezarzist.LocalBackup' appears in /data/app/ir.hezarzist-ilZluwX1ANojdfwJFSUuvQ==/base.apk!classes2.dex)
+	at ir.hezarzist.LocalBackupTest.partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys$lambda$32$lambda$31(LocalBackupTest.kt:154)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$6G43bMb7iQ_teol1uAavxesfAfM(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda0.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.LocalBackupTest.rejects(LocalBackupTest.kt:269)
+	at ir.hezarzist.LocalBackupTest.partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys$lambda$32(LocalBackupTest.kt:154)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$ViCGEDsH8bQvA8gS8Y17ipA8M3U(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda26.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.LocalBackupTest.main$lambda$0(LocalBackupTest.kt:29)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$qo0lsAXq3ENiER65mQuxquW4T7c(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda1.run(D8$$SyntheticClass:0)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2207)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+2) selectedLegacyAccountStudyIsPreservedWithoutIdentityOrOtherUsers(ir.hezarzist.LocalBackupTest)
+java.lang.NoSuchMethodError: No virtual method getStores$app_debug()Ljava/util/Map; in class Lir/hezarzist/PreparedLocalBackup; or its super classes (declaration of 'ir.hezarzist.PreparedLocalBackup' appears in /data/app/ir.hezarzist-ilZluwX1ANojdfwJFSUuvQ==/base.apk!classes2.dex)
+	at ir.hezarzist.LocalBackupTest.selectedLegacyAccountStudyIsPreservedWithoutIdentityOrOtherUsers$lambda$44(LocalBackupTest.kt:244)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$KV-LC2I_d48wgaN_2qiBx2ZeZHU(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda3.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.LocalBackupTest.main$lambda$0(LocalBackupTest.kt:29)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$qo0lsAXq3ENiER65mQuxquW4T7c(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda1.run(D8$$SyntheticClass:0)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2207)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+3) anonymousPrototypeProgressMigratesOnlyWhenPublishedProfileHasNoStudy(ir.hezarzist.LocalBackupTest)
+java.lang.NoSuchMethodError: No virtual method getStores$app_debug()Ljava/util/Map; in class Lir/hezarzist/PreparedLocalBackup; or its super classes (declaration of 'ir.hezarzist.PreparedLocalBackup' appears in /data/app/ir.hezarzist-ilZluwX1ANojdfwJFSUuvQ==/base.apk!classes2.dex)
+	at ir.hezarzist.LocalBackupTest.anonymousPrototypeProgressMigratesOnlyWhenPublishedProfileHasNoStudy$lambda$41(LocalBackupTest.kt:223)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$u7xGF7II0_hyiUBXiWCbkm8z7eo(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda27.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.LocalBackupTest.main$lambda$0(LocalBackupTest.kt:29)
+	at ir.hezarzist.LocalBackupTest.$r8$lambda$qo0lsAXq3ENiER65mQuxquW4T7c(Unknown Source:0)
+	at ir.hezarzist.LocalBackupTest$$ExternalSyntheticLambda1.run(D8$$SyntheticClass:0)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2207)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+FAILURES!!!
+Tests run: 40,  Failures: 3
+
+
+INSTRUMENTATION_CODE: -1

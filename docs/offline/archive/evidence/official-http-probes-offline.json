@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://www.sanjesh.org/",
+    "checkedAtUtc": "2026-11-07T21:07:29.820678+00:00",
+    "clientDate": "2026-11-08",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://sanjesh.org/",
+    "checkedAtUtc": "2026-11-07T21:07:29.821409+00:00",
+    "clientDate": "2026-11-08",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://chap.sch.ir/",
+    "checkedAtUtc": "2026-11-07T21:07:29.821826+00:00",
+    "clientDate": "2026-11-08",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://aee.medu.gov.ir/",
+    "checkedAtUtc": "2026-11-07T21:07:29.822389+00:00",
+    "clientDate": "2026-11-08",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://azmoon.medu.gov.ir/",
+    "checkedAtUtc": "2026-11-07T21:07:29.823032+00:00",
+    "clientDate": "2026-11-08",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://developer.myket.ir/",
+    "checkedAtUtc": "2026-11-07T21:07:29.823714+00:00",
+    "clientDate": "2026-11-08",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://myket.ir/kb/",
+    "checkedAtUtc": "2026-11-07T21:07:29.825361+00:00",
+    "clientDate": "2026-11-08",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://myket.ir/",
+    "checkedAtUtc": "2026-11-07T21:07:29.829986+00:00",
+    "clientDate": "2026-11-08",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

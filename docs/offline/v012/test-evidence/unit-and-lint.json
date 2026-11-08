@@ -1,0 +1,42 @@
+{
+  "jvm": [
+    {
+      "name": "ir.hezarzist.QuizLogicTest",
+      "tests": "4",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "time": "0.254",
+      "timestamp": "2026-11-08T13:38:56"
+    },
+    {
+      "name": "ir.hezarzist.StudyCalendarTest",
+      "tests": "4",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "time": "0.143",
+      "timestamp": "2026-11-08T13:38:56"
+    },
+    {
+      "name": "ir.hezarzist.StudyTimeEngineTest",
+      "tests": "7",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "time": "0.073",
+      "timestamp": "2026-11-08T13:38:56"
+    }
+  ],
+  "jvmTests": 15,
+  "jvmFailures": 0,
+  "lint": {
+    "Error": 0,
+    "Warning": 13,
+    "Information": 15
+  },
+  "lintWarningKinds": [
+    "ApplySharedPref"
+  ],
+  "scope": "Unit and lint results, separate from device instrumentation. No claim of a physical-device test."
+}

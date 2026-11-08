@@ -1,0 +1,13 @@
+{
+  "main": 766,
+  "veryDifficult": 0,
+  "shared": 0,
+  "unique": 766,
+  "byGrade": {
+    "10": 160,
+    "11": 314,
+    "12": 292
+  },
+  "chapterTable": "../COUNTS.csv",
+  "sha256": "de2b5c1fa61809ece05d42333c5ea1bc16d681bdffba599648005265f737cd34"
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 3,
+  "appVersion": "0.13.0-content-preview",
+  "mainCount": 766,
+  "veryDifficultCount": 0,
+  "sharedCount": 0,
+  "uniqueQuestionCount": 766,
+  "finalsCount": 72,
+  "bankSha256": "de2b5c1fa61809ece05d42333c5ea1bc16d681bdffba599648005265f737cd34",
+  "finalsSha256": "334b115efa6fef4cb857bfe35c75f0a0281fd8e3e541cac4c56a2b942d8fa992",
+  "fullScientificApproval": false,
+  "qbSelectionComplete": false,
+  "contentReport": "docs/offline/v013/CONTENT_REPORT.fa.md",
+  "historicalSnapshot": "content/legacy/v012/questions.json"
+}

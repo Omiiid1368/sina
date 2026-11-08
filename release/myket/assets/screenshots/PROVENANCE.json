@@ -1,0 +1,35 @@
+{
+  "myketDimensionsOrCountRequirementVerified": false,
+  "captures": [
+    {
+      "file": "01-home.png",
+      "dimensions": [
+        720,
+        1280
+      ],
+      "sha256": "dfde2127cfec629991d0b09754c6cff74e7c47d90a2f8382d9d48009ba369a07",
+      "source": "Unedited screencapture of the signed Release APK on Android10/API29 emulator, airplane mode",
+      "apkSha256": "9012364db913ab1809b48437aa6c8db683d0ee0caa8995d00952835cdbd0316c"
+    },
+    {
+      "file": "02-local-profile.png",
+      "dimensions": [
+        720,
+        1280
+      ],
+      "sha256": "d00d8e92719a81b81683f6d07b00efe7ccb0b7829c2520a068ed4c115745f467",
+      "source": "Unedited screencapture of the signed Release APK on Android10/API29 emulator, airplane mode",
+      "apkSha256": "9012364db913ab1809b48437aa6c8db683d0ee0caa8995d00952835cdbd0316c"
+    },
+    {
+      "file": "03-practice.png",
+      "dimensions": [
+        720,
+        1280
+      ],
+      "sha256": "3c599c23a5e5f012f663bb39e12453d0e2648a582aa8da7684919cf6d872f4d7",
+      "source": "Unedited screencapture of the signed Release APK on Android10/API29 emulator, airplane mode",
+      "apkSha256": "9012364db913ab1809b48437aa6c8db683d0ee0caa8995d00952835cdbd0316c"
+    }
+  ]
+}

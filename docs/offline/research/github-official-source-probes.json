@@ -1,0 +1,370 @@
+{
+  "recordedAt": "2026-11-07T21:23:41.821480+00:00",
+  "purpose": "Limited normal public GitHub repository search for actual official biology Konkur booklets/final keys, 1398–1405; no proxy mirror or bypass. No production archive changes.",
+  "queries": [
+    {
+      "query": "کنکور زیست",
+      "url": "https://api.github.com/search/repositories?q=%DA%A9%D9%86%DA%A9%D9%88%D8%B1+%D8%B2%DB%8C%D8%B3%D8%AA&per_page=5",
+      "startedAt": "2026-11-07T21:23:41.797807+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "query": "konkur biology",
+      "url": "https://api.github.com/search/repositories?q=konkur+biology&per_page=5",
+      "startedAt": "2026-11-07T21:23:41.798468+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "query": "konkoor exams",
+      "url": "https://api.github.com/search/repositories?q=konkoor+exams&per_page=5",
+      "startedAt": "2026-11-07T21:23:41.798833+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "query": "کنکور pdf",
+      "url": "https://api.github.com/search/repositories?q=%DA%A9%D9%86%DA%A9%D9%88%D8%B1+pdf&per_page=5",
+      "startedAt": "2026-11-07T21:23:41.799274+00:00",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    }
+  ],
+  "webSearchFallback": [
+    {
+      "query": "کنکور زیست",
+      "url": "https://github.com/search?q=%DA%A9%D9%86%DA%A9%D9%88%D8%B1+%D8%B2%DB%8C%D8%B3%D8%AA&type=repositories",
+      "startedAt": "2026-11-07T21:23:56.576819+00:00",
+      "status": 200,
+      "finalUrl": "https://github.com/search?q=%DA%A9%D9%86%DA%A9%D9%88%D8%B1+%D8%B2%DB%8C%D8%B3%D8%AA&type=repositories",
+      "bytesRead": 134165,
+      "pageTitle": "Repository search results · GitHub",
+      "repositoryLinks": [
+        "/search/advanced"
+      ],
+      "signInRequired": false
+    },
+    {
+      "query": "konkoor exams",
+      "url": "https://github.com/search?q=konkoor+exams&type=repositories",
+      "startedAt": "2026-11-07T21:23:56.577403+00:00",
+      "status": 200,
+      "finalUrl": "https://github.com/search?q=konkoor+exams&type=repositories",
+      "bytesRead": 167208,
+      "pageTitle": "Repository search results · GitHub",
+      "repositoryLinks": [
+        "/MohammadRezaL/Traditional-model-vs.-tab-transformers",
+        "/nazaninnikqalb/simulater-of-konkoor",
+        "/search/advanced"
+      ],
+      "signInRequired": false
+    }
+  ],
+  "completedAt": "2026-11-07T21:28:15.311813+00:00",
+  "broaderWebQueries": [
+    {
+      "query": "کنکور",
+      "url": "https://github.com/search?q=%DA%A9%D9%86%DA%A9%D9%88%D8%B1&type=repositories",
+      "startedAt": "2026-11-07T21:24:25.387286+00:00",
+      "status": 200,
+      "finalUrl": "https://github.com/search?q=%DA%A9%D9%86%DA%A9%D9%88%D8%B1&type=repositories",
+      "resultCount": null,
+      "results": [],
+      "note": "Initial parser did not descend into blackbirdSearchRoute; use parsedWebResults for the successfully parsed result count."
+    },
+    {
+      "query": "konkoor",
+      "url": "https://github.com/search?q=konkoor&type=repositories",
+      "startedAt": "2026-11-07T21:24:25.388212+00:00",
+      "status": 200,
+      "finalUrl": "https://github.com/search?q=konkoor&type=repositories",
+      "resultCount": 29,
+      "results": [
+        {
+          "fullName": "TheMrHandy/AlirezaGholami",
+          "descriptionHtml": "Moshavere <em>Konkoor</em>",
+          "language": "TypeScript",
+          "updatedAt": "2026-10-17T21:58:15.056Z"
+        },
+        {
+          "fullName": "furycrymax/-ravan",
+          "descriptionHtml": "just <em>konkoor</em>",
+          "language": "TypeScript",
+          "updatedAt": "2026-09-22T23:03:50.018Z"
+        },
+        {
+          "fullName": "ATofighi/konkoor96",
+          "descriptionHtml": null,
+          "language": "HTML",
+          "updatedAt": "2017-08-06T17:55:00.058Z"
+        },
+        {
+          "fullName": "alirezarostami3732-lgtm/KonkoorBot",
+          "descriptionHtml": null,
+          "language": "Python",
+          "updatedAt": "2025-09-07T14:04:28.726Z"
+        },
+        {
+          "fullName": "babak-majd/KonkoorPlus-dashboard",
+          "descriptionHtml": null,
+          "language": "Vue",
+          "updatedAt": "2026-07-13T13:07:31.066Z"
+        },
+        {
+          "fullName": "alirezadigi/KonkoorTime",
+          "descriptionHtml": null,
+          "language": null,
+          "updatedAt": "2022-03-04T16:35:18.801Z"
+        },
+        {
+          "fullName": "Einjim/konkoor",
+          "descriptionHtml": null,
+          "language": "JavaScript",
+          "updatedAt": "2026-09-23T10:18:32.894Z"
+        },
+        {
+          "fullName": "hadimovahedi8484-commits/Konkoor",
+          "descriptionHtml": null,
+          "language": null,
+          "updatedAt": "2026-06-09T12:01:12.463Z"
+        },
+        {
+          "fullName": "miladVR/KONKOOR",
+          "descriptionHtml": null,
+          "language": "JavaScript",
+          "updatedAt": "2026-06-14T18:30:30.778Z"
+        },
+        {
+          "fullName": "TheMrHandy/Konkoor",
+          "descriptionHtml": "Azmoon.alireza",
+          "language": "JavaScript",
+          "updatedAt": "2026-09-13T12:52:35.117Z"
+        }
+      ]
+    }
+  ],
+  "konkoorVerifiedSearchResults": {
+    "url": "https://github.com/search?q=konkoor&type=repositories",
+    "resultCount": 29,
+    "page": 1,
+    "pageCount": 3,
+    "repositories": [
+      {
+        "fullName": "TheMrHandy/AlirezaGholami",
+        "descriptionHtml": "Moshavere <em>Konkoor</em>",
+        "language": "TypeScript",
+        "updatedAt": "2026-10-17T21:58:15.056Z"
+      },
+      {
+        "fullName": "furycrymax/-ravan",
+        "descriptionHtml": "just <em>konkoor</em>",
+        "language": "TypeScript",
+        "updatedAt": "2026-09-22T23:03:50.018Z"
+      },
+      {
+        "fullName": "ATofighi/konkoor96",
+        "descriptionHtml": null,
+        "language": "HTML",
+        "updatedAt": "2017-08-06T17:55:00.058Z"
+      },
+      {
+        "fullName": "alirezarostami3732-lgtm/KonkoorBot",
+        "descriptionHtml": null,
+        "language": "Python",
+        "updatedAt": "2025-09-07T14:04:28.726Z"
+      },
+      {
+        "fullName": "babak-majd/KonkoorPlus-dashboard",
+        "descriptionHtml": null,
+        "language": "Vue",
+        "updatedAt": "2026-07-13T13:07:31.066Z"
+      },
+      {
+        "fullName": "alirezadigi/KonkoorTime",
+        "descriptionHtml": null,
+        "language": null,
+        "updatedAt": "2022-03-04T16:35:18.801Z"
+      },
+      {
+        "fullName": "Einjim/konkoor",
+        "descriptionHtml": null,
+        "language": "JavaScript",
+        "updatedAt": "2026-09-23T10:18:32.894Z"
+      },
+      {
+        "fullName": "hadimovahedi8484-commits/Konkoor",
+        "descriptionHtml": null,
+        "language": null,
+        "updatedAt": "2026-06-09T12:01:12.463Z"
+      },
+      {
+        "fullName": "miladVR/KONKOOR",
+        "descriptionHtml": null,
+        "language": "JavaScript",
+        "updatedAt": "2026-06-14T18:30:30.778Z"
+      },
+      {
+        "fullName": "TheMrHandy/Konkoor",
+        "descriptionHtml": "Azmoon.alireza",
+        "language": "JavaScript",
+        "updatedAt": "2026-09-13T12:52:35.117Z"
+      }
+    ]
+  },
+  "parsedWebResults": [
+    {
+      "query": "کنکور",
+      "url": "https://github.com/search?q=%DA%A9%D9%86%DA%A9%D9%88%D8%B1&type=repositories",
+      "status": 200,
+      "resultCount": 55,
+      "page": 1,
+      "pageCount": 6,
+      "repositories": [
+        {
+          "fullName": "ut-cs-ssa/konkur-archive",
+          "descriptionHtml": "آرشیو سوالات <em>کنکور</em> ارشد علوم کامپیوتر",
+          "language": null
+        },
+        {
+          "fullName": "furycrymax/-",
+          "descriptionHtml": "<em>کنکور</em>",
+          "language": "TypeScript"
+        },
+        {
+          "fullName": "oveist/fullito",
+          "descriptionHtml": "<em>کنکور</em>",
+          "language": null
+        },
+        {
+          "fullName": "The-Dark-Lord2002/Exam",
+          "descriptionHtml": "<em>کنکور</em> دکتری",
+          "language": "Python"
+        },
+        {
+          "fullName": "kamandtem/Mackoskonkor",
+          "descriptionHtml": "شمارش معکوس <em>کنکور</em>",
+          "language": "TypeScript"
+        },
+        {
+          "fullName": "samansalamian/-",
+          "descriptionHtml": "دبیر ریاضی <em>کنکور</em>",
+          "language": null
+        },
+        {
+          "fullName": "tahakaffashbazari/claude",
+          "descriptionHtml": "<em>کنکور</em> و امتحان نهایی",
+          "language": null
+        },
+        {
+          "fullName": "8armin3/telegram-consult-bot2",
+          "descriptionHtml": "ربات مشاوره <em>کنکور</em>",
+          "language": null
+        },
+        {
+          "fullName": "mrshash1/Konkour-MrShash",
+          "descriptionHtml": "داشبورد شخصی <em>کنکور</em>",
+          "language": "HTML"
+        },
+        {
+          "fullName": "ehsanafsharmanesh/honarmedia",
+          "descriptionHtml": "آموزشگاه <em>کنکور</em> هنر مدیا کرمان",
+          "language": null
+        }
+      ]
+    },
+    {
+      "query": "کنکور زیست",
+      "url": "https://github.com/search?q=%DA%A9%D9%86%DA%A9%D9%88%D8%B1+%D8%B2%DB%8C%D8%B3%D8%AA&type=repositories",
+      "status": 200,
+      "resultCount": 0,
+      "page": 1,
+      "pageCount": 0,
+      "repositories": []
+    },
+    {
+      "query": "konkoor exams",
+      "url": "https://github.com/search?q=konkoor+exams&type=repositories",
+      "status": 200,
+      "resultCount": 2,
+      "page": 1,
+      "pageCount": 1,
+      "repositories": [
+        {
+          "fullName": "nazaninnikqalb/simulater-of-konkoor",
+          "descriptionHtml": "simulation of entrance <em>exam</em> regestratin site",
+          "language": "C#"
+        },
+        {
+          "fullName": "MohammadRezaL/Traditional-model-vs.-tab-transformers",
+          "descriptionHtml": "Implementation of state-of-the-art deep learning models for predicting Iranian University Entrance <em>Exam</em> (<em>Konkoor</em>) results. Compares tradi…",
+          "language": "Jupyter Notebook"
+        }
+      ]
+    }
+  ],
+  "readmeQuery": {
+    "query": "کنکور زیست in:readme",
+    "url": "https://github.com/search?q=%DA%A9%D9%86%DA%A9%D9%88%D8%B1+%D8%B2%DB%8C%D8%B3%D8%AA+in%3Areadme&type=repositories",
+    "status": 200,
+    "resultCount": 22,
+    "pageCount": 3,
+    "repositories": [
+      {
+        "fullName": "kgwefvfdjk/konkur-tajrobi-teaching-dataset",
+        "descriptionHtml": "Iranian Konkur (Tajrobi) teaching dataset for LLMs: extracted questions, cropped question images, and verified step-by-step Persian solut…",
+        "language": "Python"
+      },
+      {
+        "fullName": "ArminHills/question-statement-extractor",
+        "descriptionHtml": "A tool to extract statements from exam questions and store them in a database.",
+        "language": "Python"
+      },
+      {
+        "fullName": "amiermhmdibriheme-afk/boostan",
+        "descriptionHtml": null,
+        "language": null
+      },
+      {
+        "fullName": "amiermhmdibriheme-afk/boostan-",
+        "descriptionHtml": null,
+        "language": "HTML"
+      },
+      {
+        "fullName": "velvetender1-ship-it/zist-10-",
+        "descriptionHtml": null,
+        "language": "JavaScript"
+      },
+      {
+        "fullName": "amiramir5/Konkour",
+        "descriptionHtml": null,
+        "language": "HTML"
+      },
+      {
+        "fullName": "amirexim1/sudent",
+        "descriptionHtml": null,
+        "language": "JavaScript"
+      },
+      {
+        "fullName": "alipourmo/stada",
+        "descriptionHtml": null,
+        "language": "TypeScript"
+      },
+      {
+        "fullName": "ingshahid-commits/Kadoma",
+        "descriptionHtml": null,
+        "language": "HTML"
+      },
+      {
+        "fullName": "AmiirPa/MyApp",
+        "descriptionHtml": "MyApp",
+        "language": "Kotlin"
+      }
+    ]
+  },
+  "conclusion": {
+    "githubWebSearchReachable": true,
+    "githubApiSearchReachable": false,
+    "searchIsExhaustive": false,
+    "originalOfficialPdfFinalKeyPairsRetrieved": 0,
+    "verifiedAnnualInventoriesRetrieved": 0,
+    "productionQuestionsImported": 0,
+    "note": "Limited public repository/README searches found a partial community dataset and an extraction tool, neither establishing the required complete official archive. A failed or limited search is not evidence that no relevant repository exists."
+  }
+}

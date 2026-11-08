@@ -1,0 +1,74 @@
+[
+  {
+    "requested_at_utc": "2026-11-07T10:48:56.136154+00:00",
+    "url": "https://myket.ir/",
+    "method": "GET",
+    "tls_verification": true,
+    "proxy": "inherited",
+    "error_type": "URLError",
+    "error": "<urlopen error [Errno 1] Operation not permitted>"
+  },
+  {
+    "requested_at_utc": "2026-11-07T10:48:56.136868+00:00",
+    "url": "https://developer.myket.ir/",
+    "method": "GET",
+    "tls_verification": true,
+    "proxy": "inherited",
+    "error_type": "URLError",
+    "error": "<urlopen error [Errno 1] Operation not permitted>"
+  },
+  {
+    "requested_at_utc": "2026-11-07T10:48:56.137245+00:00",
+    "url": "https://myket.ir/kb/",
+    "method": "GET",
+    "tls_verification": true,
+    "proxy": "inherited",
+    "error_type": "URLError",
+    "error": "<urlopen error [Errno 1] Operation not permitted>"
+  },
+  {
+    "requested_at_utc": "2026-11-07T10:48:56.137656+00:00",
+    "url": "https://www.sanjesh.org/",
+    "method": "GET",
+    "tls_verification": true,
+    "proxy": "inherited",
+    "error_type": "URLError",
+    "error": "<urlopen error [Errno 1] Operation not permitted>"
+  },
+  {
+    "requested_at_utc": "2026-11-07T10:48:56.138298+00:00",
+    "url": "https://sanjesh.org/",
+    "method": "GET",
+    "tls_verification": true,
+    "proxy": "inherited",
+    "error_type": "URLError",
+    "error": "<urlopen error [Errno 1] Operation not permitted>"
+  },
+  {
+    "requested_at_utc": "2026-11-07T10:48:56.139097+00:00",
+    "url": "https://chap.sch.ir/",
+    "method": "GET",
+    "tls_verification": true,
+    "proxy": "inherited",
+    "error_type": "URLError",
+    "error": "<urlopen error [Errno 1] Operation not permitted>"
+  },
+  {
+    "requested_at_utc": "2026-11-07T10:48:56.139783+00:00",
+    "url": "https://aee.medu.gov.ir/",
+    "method": "GET",
+    "tls_verification": true,
+    "proxy": "inherited",
+    "error_type": "URLError",
+    "error": "<urlopen error [Errno 1] Operation not permitted>"
+  },
+  {
+    "requested_at_utc": "2026-11-07T10:48:56.140683+00:00",
+    "url": "https://azmoon.medu.gov.ir/",
+    "method": "GET",
+    "tls_verification": true,
+    "proxy": "inherited",
+    "error_type": "URLError",
+    "error": "<urlopen error [Errno 1] Operation not permitted>"
+  }
+]

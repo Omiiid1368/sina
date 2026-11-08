@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-11-07",
+  "complete": false,
+  "structurallyValid": true,
+  "officialQuestionCount": 0,
+  "scorableQuestionCount": 0,
+  "occurrenceCount": 0,
+  "verifiedExamCount": 0,
+  "verifiedBookletCount": 0,
+  "years": [
+    {
+      "year": 1398,
+      "inventoryStatus": "unknown",
+      "verifiedExamCount": 0,
+      "expectedQuestionOccurrences": null,
+      "importedQuestionOccurrences": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "year": 1399,
+      "inventoryStatus": "unknown",
+      "verifiedExamCount": 0,
+      "expectedQuestionOccurrences": null,
+      "importedQuestionOccurrences": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "year": 1400,
+      "inventoryStatus": "unknown",
+      "verifiedExamCount": 0,
+      "expectedQuestionOccurrences": null,
+      "importedQuestionOccurrences": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "year": 1401,
+      "inventoryStatus": "unknown",
+      "verifiedExamCount": 0,
+      "expectedQuestionOccurrences": null,
+      "importedQuestionOccurrences": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "year": 1402,
+      "inventoryStatus": "unknown",
+      "verifiedExamCount": 0,
+      "expectedQuestionOccurrences": null,
+      "importedQuestionOccurrences": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "year": 1403,
+      "inventoryStatus": "unknown",
+      "verifiedExamCount": 0,
+      "expectedQuestionOccurrences": null,
+      "importedQuestionOccurrences": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "year": 1404,
+      "inventoryStatus": "unknown",
+      "verifiedExamCount": 0,
+      "expectedQuestionOccurrences": null,
+      "importedQuestionOccurrences": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "year": 1405,
+      "inventoryStatus": "unknown",
+      "verifiedExamCount": 0,
+      "expectedQuestionOccurrences": null,
+      "importedQuestionOccurrences": 0,
+      "reviewStatus": "pending"
+    }
+  ],
+  "booklets": [],
+  "errors": [],
+  "blockers": [
+    "1398: authoritative all-held-exams inventory is unknown",
+    "1399: authoritative all-held-exams inventory is unknown",
+    "1400: authoritative all-held-exams inventory is unknown",
+    "1401: authoritative all-held-exams inventory is unknown",
+    "1402: authoritative all-held-exams inventory is unknown",
+    "1403: authoritative all-held-exams inventory is unknown",
+    "1404: authoritative all-held-exams inventory is unknown",
+    "1405: authoritative all-held-exams inventory is unknown",
+    "The authoritative inventory is not declared complete.",
+    "No original official exam PDF/final key pair has been verified and imported."
+  ],
+  "rightsNotice": "User-declared redistribution permission is a declaration, not an independently verified institutional certificate.",
+  "scientificReviewNotice": "Review markers are recorded editorial evidence; automatic validation does not establish scientific correctness.",
+  "questionFileSha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "coverageFileSha256": "9a595e2381fdb27389baef9891b59dae2b23a9ecb71e5766c45abec2a1351c0d"
+}

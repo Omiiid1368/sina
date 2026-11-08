@@ -1,0 +1,107 @@
+/workspace/sina/app/src/main/java/ir/hezarzist/FinalsModels.kt:141: Warning: Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background [ApplySharedPref]
+                prefs.edit().putString("archivedSessions", archive.toString()).remove("session").commit()
+                                                                                                 ~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/FinalsModels.kt:151: Warning: Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background [ApplySharedPref]
+        edit.commit()
+             ~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/FinalsModels.kt:154: Warning: Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background [ApplySharedPref]
+    fun saveFilters(value: JSONObject) { if (isCurrent()) prefs.edit().putString("filters", value.toString()).commit() }
+                                                                                                              ~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/FinalsModels.kt:160: Warning: Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background [ApplySharedPref]
+        if (isCurrent()) prefs.edit().putString("answer:${attempt.key}", attempt.json().toString()).commit()
+                                                                                                    ~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/FinalsModels.kt:163: Warning: Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background [ApplySharedPref]
+        if (isCurrent()) prefs.edit().putBoolean("bookmark:$id", selected).commit()
+                                                                           ~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:33: Warning: Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background [ApplySharedPref]
+            .putString("progress", JSONObject().also { j -> progress.forEach { (id, value) -> j.put(id, progressJson(value)) } }.toString()).putStringSet("bookmarks", bookmarks).commit()
+                                                                                                                                                                                  ~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:46: Warning: Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background [ApplySharedPref]
+            edit.commit()
+                 ~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:50: Warning: Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background [ApplySharedPref]
+    private fun saveProgress() { if(writable()) prefs.edit().putString("progress", JSONObject().also { j -> progress.forEach { (id, value) -> j.put(id, progressJson(value)) } }.toString()).commit() }
+                                                                                                                                                                                             ~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:127: Warning: Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background [ApplySharedPref]
+        if(session == null || session.ended) { prefs.edit().remove("activeSession").commit(); return }
+                                                                                    ~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:140: Warning: Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background [ApplySharedPref]
+        prefs.edit().putString("activeSession", json.toString()).commit()
+                                                                 ~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:156: Warning: Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background [ApplySharedPref]
+        prefs.edit().putStringSet("bookmarks", bookmarks).commit()
+                                                          ~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:162: Warning: Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background [ApplySharedPref]
+        prefs.edit().putBoolean("dark", settings.dark).putBoolean("sound", settings.sound).putFloat("textScale", settings.textScale).commit()
+                                                                                                                                     ~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:176: Warning: Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background [ApplySharedPref]
+        prefs.edit().putString("history", array.toString()).putString("bestScores", best.toString()).putInt("totalScore", totalScore).putInt("bestStreak", bestStreak).remove("activeSession").commit()
+                                                                                                                                                                                               ~~~~~~~~
+
+   Explanation for issues of type "ApplySharedPref":
+   Consider using apply() instead of commit on shared preferences. Whereas
+   commit blocks and writes its data to persistent storage immediately, apply
+   will handle it in the background.
+
+/workspace/sina/app/src/main/java/ir/hezarzist/FinalStudyViewModel.kt:22: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var grade by mutableStateOf(savedFilters.optInt("grade").takeIf { it in 10..12 } ?: 0); private set
+                 ~~~~~~~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/FinalStudyViewModel.kt:23: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var chapter by mutableStateOf(savedFilters.optInt("chapter").takeIf { grade != 0 && it in 1..chapterTitles.getValue(grade).size } ?: 0); private set
+                   ~~~~~~~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/FinalStudyViewModel.kt:28: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var count by mutableStateOf(savedFilters.optInt("count", 10).coerceIn(1, maxOf(1, bank.size))); private set
+                 ~~~~~~~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/FinalStudyViewModel.kt:29: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var minutes by mutableStateOf(savedFilters.optInt("minutes", 10).coerceIn(1, 180)); private set
+                   ~~~~~~~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:184: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var archivedCount by mutableStateOf(store.archivedCount)
+                         ~~~~~~~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:204: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var totalScore by mutableStateOf(store.totalScore)
+                      ~~~~~~~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:206: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var bestStreak by mutableStateOf(store.bestStreak)
+                      ~~~~~~~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:211: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var selectedGrade by mutableStateOf(10)
+                         ~~~~~~~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:212: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var selectedChapter by mutableStateOf(0)
+                           ~~~~~~~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:214: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var selectedCount by mutableStateOf(10)
+                         ~~~~~~~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:215: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var examMinutes by mutableStateOf(15)
+                       ~~~~~~~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:220: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var reviewGrade by mutableStateOf(0)
+                       ~~~~~~~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/GameViewModel.kt:221: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var reviewChapter by mutableStateOf(0)
+                         ~~~~~~~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/StudyTimeScreen.kt:37: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var tab by remember { mutableStateOf(0) }
+                          ~~~~~~~~~~~~~~
+/workspace/sina/app/src/main/java/ir/hezarzist/StudyTimeScreen.kt:38: Information: Prefer mutableIntStateOf instead of mutableStateOf [AutoboxingStateCreation from androidx.compose.runtime]
+    var historyPage by remember { mutableStateOf(0) }
+                                  ~~~~~~~~~~~~~~
+
+   Explanation for issues of type "AutoboxingStateCreation":
+   Calling mutableStateOf<T>() when T is either backed by a primitive type on
+   the JVM or is a value class results in a state implementation that requires
+   all state values to be boxed. This usually causes an additional allocation
+   for each state write, and adds some additional work to auto-unbox values
+   when reading the value of the state. Instead, prefer to use a specialized
+   primitive state implementation for Int, Long, Float, and Double when the
+   state does not need to track null values and does not override the default
+   SnapshotMutationPolicy. See mutableIntStateOf(), mutableLongStateOf(),
+   mutableFloatStateOf(), and mutableDoubleStateOf() for more information.
+
+   Vendor: Jetpack Compose
+   Identifier: androidx.compose.runtime
+   Feedback: https://issuetracker.google.com/issues/new?component=612128
+
+0 errors, 13 warnings

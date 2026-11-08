@@ -1,0 +1,62 @@
+{
+  "apkSha256": "25cf698505d4ad78d4e2fc7706935df9516e540ccaccb41ba4e7a4f8d89fe7f0",
+  "allComparedRegionsPixelIdentical": true,
+  "results": [
+    {
+      "screen": "home",
+      "region": [
+        0,
+        70,
+        720,
+        500
+      ],
+      "pixelIdentical": true,
+      "differenceBounds": null
+    },
+    {
+      "screen": "settings",
+      "region": [
+        0,
+        70,
+        720,
+        700
+      ],
+      "pixelIdentical": true,
+      "differenceBounds": null
+    },
+    {
+      "screen": "study-time",
+      "region": [
+        0,
+        70,
+        720,
+        1210
+      ],
+      "pixelIdentical": true,
+      "differenceBounds": null
+    },
+    {
+      "screen": "about-creator",
+      "region": [
+        0,
+        70,
+        720,
+        1210
+      ],
+      "pixelIdentical": true,
+      "differenceBounds": null
+    },
+    {
+      "screen": "finals",
+      "region": [
+        0,
+        70,
+        720,
+        1210
+      ],
+      "pixelIdentical": true,
+      "differenceBounds": null
+    }
+  ],
+  "scope": "Same API29 emulator, 720x1280, dark theme, 120% text. Home hero/header and settings controls compared separately from intended content/report changes; system clock excluded."
+}

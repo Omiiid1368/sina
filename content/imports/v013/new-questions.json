@@ -1,0 +1,4408 @@
+[
+  {
+    "id": "UP-40777331c047-0006",
+    "grade": 12,
+    "chapter": 1,
+    "topic": "پیوندهای پپتیدی پیش‌انسولین",
+    "difficulty": "unknown",
+    "stem": "کدام مـورد ،مـوقعیت صحیح پیونـد پپتیدی را در سـاخـتار پیشهـورمـون انـسولین نـشان\nمیدهد؟",
+    "options": [
+      "بین انتهای آمین زنجیرة Aو انتهای کربوکسیل زنجیرة C",
+      "بین انتهای کربوکسیل زنجیرة Aو انتهای آمین زنجیرة C",
+      "بین انتهای کربوکسیل زنجیرة Bو انتهای آمین زنجیرة A",
+      "بین انتهای آمین زنجیرة Bو انتهای کربوکسیل زنجیرة A"
+    ],
+    "answer": 0,
+    "explanation": "در پیش‌انسولین ترتیب بخش‌ها از سر آمینی B، سپس C و بعد A است؛ پس کربوکسیل C به آمین A با پیوند پپتیدی متصل است.",
+    "optionExplanations": [
+      "در پیش‌انسولین ترتیب بخش‌ها از سر آمینی B، سپس C و بعد A است؛ پس کربوکسیل C به آمین A با پیوند پپتیدی متصل است.",
+      "انتهای کربوکسیل A انتهای آزاد زنجیرهٔ موردنظر است و به سر آمینی C وصل نمی‌شود؛ جهت اتصال در گزینه وارونه است.",
+      "B و A در پیش‌انسولین به‌طور مستقیم با پیوند پپتیدی به هم وصل نیستند؛ بخش C میان آن‌ها قرار دارد.",
+      "انتهای آمینی B و کربوکسیل A دو انتهای آزاد پیش‌انسولین‌اند؛ پیوند پپتیدی حلقوی میان آن‌ها وجود ندارد."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "section": "میکروطبقه‌بندی کنکور (فصل 1 دهم).pdf؛ صفحهٔ PDF 1، سؤال 6"
+    },
+    "tags": [
+      "پیوندهای پپتیدی پیش‌انسولین"
+    ],
+    "image": "imports/v013/40777331c047/q0006.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "questionNumber": 6
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-40777331c0478aa5",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "40777331c0478aa5dbf1fe653661ee2d09f4316d14c3a97e27a5181c92040801",
+      "sourceFile": "میکروطبقه‌بندی کنکور (فصل 1 دهم).pdf",
+      "pdfPage": 1,
+      "localQuestionNumber": 6,
+      "sourceClaimAsPrinted": ") -6سـراسـری تیر (1402",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-40777331c047-0008",
+    "grade": 12,
+    "chapter": 2,
+    "topic": "مسیر پروتئین‌های یاخته",
+    "difficulty": "unknown",
+    "stem": "چند مورد ،در خصوصِ یک یاختۀ سالم و فعال انسان درست است؟\n• پروتئینهای غیرترشحی پس از ساختهشدن ،بهطور حتم جزیی از ساختار یک اندامک میشوند.\n• آنزیمهای کافندهتن )لیزوزوم( ،حین ساختهشدن از سر آمینی خود به شبکۀ آندوپلاسمی وارد میشوند.\n• پـروتئین خـارجشـده از شـبکۀ آنـدوپـلاسمی زبـر ،بـه سـطحی از دسـتگاه گـلژی وارد میشـود که از غـشای یاخـته\nدورتر است.\n• پـروتئینهـایی که بـه درون مـادة زمینهای سیتوپـلاسـم آزاد میشـونـد ،بـهطـور حـتم ،تـوسـط رنـاتـن)ریبوزوم(هـای\nهمان یاخته ساخته شدهاند.",
+    "options": [
+      "یک",
+      "دو",
+      "سه",
+      "چهار"
+    ],
+    "answer": 1,
+    "explanation": "دوم و سوم درست‌اند. پروتئین غیرترشحی می‌تواند آزاد در سیتوپلاسم باشد و الزاماً جزء اندامک نیست. همچنین پروتئین واردشده به سیتوپلاسمِ یاختهٔ هدف، مانند آنزیم‌های یاختهٔ کشنده، الزاماً ساختهٔ رناتن همان یاخته نیست.",
+    "optionExplanations": [
+      "فقط یک مورد درست نیست؛ آنزیم لیزوزومی از سر آمینی وارد شبکه می‌شود و سطح ورودی گلژی نیز از غشا دورتر است، پس دو مورد درست‌اند.",
+      "دوم و سوم درست‌اند. پروتئین غیرترشحی می‌تواند آزاد در سیتوپلاسم باشد و الزاماً جزء اندامک نیست. همچنین پروتئین واردشده به سیتوپلاسمِ یاختهٔ هدف، مانند آنزیم‌های یاختهٔ کشنده، الزاماً ساختهٔ رناتن همان یاخته نیست.",
+      "سه مورد درست نیست؛ اول وجود پروتئین‌های آزاد سیتوپلاسمی و چهارم امکان ورود پروتئین از یاختهٔ دیگر را نادیده می‌گیرند.",
+      "هر چهار مورد درست نیستند؛ فقط موارد ورود آمینی به شبکه و ورود از سطح دورتر گلژی درست‌اند و دو قید قطعی دیگر پذیرفتنی نیستند."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "section": "میکروطبقه‌بندی کنکور (فصل 1 دهم).pdf؛ صفحهٔ PDF 2، سؤال 8"
+    },
+    "tags": [
+      "مسیر پروتئین‌های یاخته"
+    ],
+    "image": "imports/v013/40777331c047/q0008.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "questionNumber": 8
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-40777331c0478aa5",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "40777331c0478aa5dbf1fe653661ee2d09f4316d14c3a97e27a5181c92040801",
+      "sourceFile": "میکروطبقه‌بندی کنکور (فصل 1 دهم).pdf",
+      "pdfPage": 2,
+      "localQuestionNumber": 8,
+      "sourceClaimAsPrinted": ") -8سراسری (1401",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-40777331c047-0009",
+    "grade": 12,
+    "chapter": 2,
+    "topic": "هدف‌گیری پروتئین در یاختهٔ جانوری",
+    "difficulty": "unknown",
+    "stem": "مـطابـق بـا اطـلاعـات کتاب درسی ،کدام مـورد دربـارة سـرنـوشـت پلیپپتیدهـای\nساختهشده در سیتوپلاسم یاختۀ لوزالمعدة انسان صادق است؟",
+    "options": [
+      "همۀ پلیپپتیدهایی که توسط اندامکی بستهبندی شدهاند ،به خارج از یاخته منتقل خواهند شد.",
+      "بعضی از پلیپپتیدهایی که در خارج از اندامک غشادار ساخته شدهاند ،به اندامکهای دناداری وارد میشوند.",
+      "همۀ پلیپپتیدهای که توسط هر اندامک غشادار ساخته شدهاند ،توسط اندامکی دیگر دستخوش تغییر میشوند.",
+      "اغلب پلیپپتیدهایی که در داخل اندامک غشاداری ساخته شدهاند ،به درون ماده زمینهای سیتوپلاسم منتقل میشوند."
+    ],
+    "answer": 1,
+    "explanation": "برخی پروتئین‌های راکیزه روی رناتن‌های آزاد سیتوپلاسم ساخته و سپس وارد راکیزه می‌شوند؛ پس این گزینه درست است.",
+    "optionExplanations": [
+      "بسته‌بندی در گلژی الزاماً به ترشح بیرون یاخته ختم نمی‌شود؛ برخی پروتئین‌ها به لیزوزوم یا غشا هدایت می‌شوند.",
+      "برخی پروتئین‌های راکیزه روی رناتن‌های آزاد سیتوپلاسم ساخته و سپس وارد راکیزه می‌شوند؛ پس این گزینه درست است.",
+      "پروتئین ساخته‌شده در راکیزه الزاماً توسط اندامک دیگری تغییر نمی‌کند؛ قید «هر اندامک» نادرست است.",
+      "بسیاری از پروتئین‌های ساخته‌شده در مسیر شبکهٔ زبر درون اندامک می‌مانند، به غشا می‌روند یا ترشح می‌شوند؛ انتقال اغلب آن‌ها به مادهٔ زمینه درست نیست."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "section": "میکروطبقه‌بندی کنکور (فصل 1 دهم).pdf؛ صفحهٔ PDF 2، سؤال 9"
+    },
+    "tags": [
+      "هدف‌گیری پروتئین در یاختهٔ جانوری"
+    ],
+    "image": "imports/v013/40777331c047/q0009.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "questionNumber": 9
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-40777331c0478aa5",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "40777331c0478aa5dbf1fe653661ee2d09f4316d14c3a97e27a5181c92040801",
+      "sourceFile": "میکروطبقه‌بندی کنکور (فصل 1 دهم).pdf",
+      "pdfPage": 2,
+      "localQuestionNumber": 9,
+      "sourceClaimAsPrinted": ") -9سـراسـری اردیبهشت (1404",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-40777331c047-0011",
+    "grade": 10,
+    "chapter": 2,
+    "topic": "جذب گلوکز در پرز روده",
+    "difficulty": "unknown",
+    "stem": "در انـسان ،بـهمـنظور عـبور مـولکولهـای گـلوکز از غـشای یاخـتۀ پـوششی پـرز روده ،بـهطـور حـتم\nلازم است تا ..................",
+    "options": [
+      "مولکولهای ویژة پروتئینی ،در امر جابهجا نمودن گلوکز دخالت نمایند.",
+      "یونهای پتاسیم همواره بدون صرف انرژی به درون یاخته منتقل گردند.",
+      "گلوکز با کمک کیسههای غشایی جابهجا گردد.",
+      "گلوکز همراه با سدیم از یاخته خارج گردد."
+    ],
+    "answer": 0,
+    "explanation": "ورود و خروج گلوکز از یاختهٔ پوششی روده به پروتئین‌های غشایی وابسته است؛ ناقل هم‌انتقالی و ناقل انتشار تسهیل‌شده در این مسیر نقش دارند.",
+    "optionExplanations": [
+      "ورود و خروج گلوکز از یاختهٔ پوششی روده به پروتئین‌های غشایی وابسته است؛ ناقل هم‌انتقالی و ناقل انتشار تسهیل‌شده در این مسیر نقش دارند.",
+      "ورود پتاسیم به کمک پمپ سدیم–پتاسیم می‌تواند با مصرف ATP باشد؛ عبارت «همواره بدون صرف انرژی» نادرست است.",
+      "جذب معمول گلوکز از راه ناقل غشایی است و به بسته‌بندی در کیسهٔ غشایی نیاز ندارد.",
+      "هم‌انتقالی سدیم و گلوکز در سمت ورود از روده مطرح است؛ خروج گلوکز به سمت خون الزاماً همراه سدیم نیست."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "section": "میکروطبقه‌بندی کنکور (فصل 1 دهم).pdf؛ صفحهٔ PDF 2، سؤال 11"
+    },
+    "tags": [
+      "جذب گلوکز در پرز روده"
+    ],
+    "image": "imports/v013/40777331c047/q0011.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "questionNumber": 11
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-40777331c0478aa5",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "40777331c0478aa5dbf1fe653661ee2d09f4316d14c3a97e27a5181c92040801",
+      "sourceFile": "میکروطبقه‌بندی کنکور (فصل 1 دهم).pdf",
+      "pdfPage": 2,
+      "localQuestionNumber": 11,
+      "sourceClaimAsPrinted": ") -11خـارج کشور (98",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-40777331c047-0013",
+    "grade": 11,
+    "chapter": 1,
+    "topic": "کانال‌های یونی و پمپ سدیم–پتاسیم",
+    "difficulty": "unknown",
+    "stem": "بـا تـوجـه بـه اطـلاعـات کتاب درسی ،در ارتـباط بـا غـشای یاخـتۀ حـرکتی\nشرکتکننده در انعکاس عقبکشیدن دست انسان ،کدام مورد نادرست است؟",
+    "options": [
+      "فقط بعضی از پروتئینهایی که یونهای پتاسیم را از غشای یاخته عبور میدهند ،نیاز به صرف انرژی زیستی دارند.",
+      "همۀ پروتئینهایی که باعث جابهجا شدن یونهای سدیم میشوند ،از عبور یونهای پتاسیم ممانعت به عمل میآورند.",
+      "فقط بعضی از کانالهای پروتئینی که به یونهای سدیم اجازه عبور میدهند ،به هنگام پتانسیل عمل باز میشوند.",
+      "همۀ پروتئینهایی که به یونهای پتاسیم اجازه عبور میدهند ،در سراسر عرض غشا قرار دارند."
+    ],
+    "answer": 1,
+    "explanation": "پمپ سدیم–پتاسیم هر دو یون را جابه‌جا می‌کند؛ بنابراین همهٔ پروتئین‌های انتقال سدیم، مانع عبور پتاسیم نیستند و این گزینه نادرست است.",
+    "optionExplanations": [
+      "پتاسیم از کانال‌ها به‌طور غیرفعال و از پمپ با مصرف انرژی عبور می‌کند؛ پس تنها بعضی پروتئین‌های عبوردهندهٔ آن انرژی می‌خواهند.",
+      "پمپ سدیم–پتاسیم هر دو یون را جابه‌جا می‌کند؛ بنابراین همهٔ پروتئین‌های انتقال سدیم، مانع عبور پتاسیم نیستند و این گزینه نادرست است.",
+      "بازشدن کانال ولتاژی سدیم با پتانسیل عمل همراه است، درحالی‌که کانال نشت به این رویداد محدود نیست؛ «بازشدن» با بازبودن همیشگی یکی نیست.",
+      "کانال و پمپ برای عبور یون از عرض غشا مسیر پیوستهٔ تراگذری دارند؛ آن‌ها پروتئین‌های سرتاسری غشا هستند."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "section": "میکروطبقه‌بندی کنکور (فصل 1 دهم).pdf؛ صفحهٔ PDF 3، سؤال 13"
+    },
+    "tags": [
+      "کانال‌های یونی و پمپ سدیم–پتاسیم"
+    ],
+    "image": "imports/v013/40777331c047/q0013.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "questionNumber": 13
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-40777331c0478aa5",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "40777331c0478aa5dbf1fe653661ee2d09f4316d14c3a97e27a5181c92040801",
+      "sourceFile": "میکروطبقه‌بندی کنکور (فصل 1 دهم).pdf",
+      "pdfPage": 3,
+      "localQuestionNumber": 13,
+      "sourceClaimAsPrinted": ") -13سـراسـری اردیبهشت (1404",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-40777331c047-0015",
+    "grade": 10,
+    "chapter": 5,
+    "topic": "کپسول کلیه و بافت پیوندی",
+    "difficulty": "unknown",
+    "stem": "در ارتباط با بخش موردنظر در انسان ،کدام مورد یا موارد زیر درست است؟\nالف :دارای مادة زمینهای ،رشتههای کلاژن و کشسان است.\nب :همۀ یاختههای موجود در آن ،در محل استقرار فعلی بهوجود آمدهاند.\nج :توسط یاختههایی با ذخیرة چربی فراوان احاطه شده است.\nد :بعضی از یاختههای آن ،هستۀ کشیدهای دارند.",
+    "options": [
+      "»ب«» ،ج« و »د«",
+      "»الف«» ،ج« و »د«",
+      "»ب« و »د«",
+      "»الف«"
+    ],
+    "answer": 1,
+    "explanation": "شکل کپسول کلیه را نشان می‌دهد. الف، ج و د درست‌اند: کپسول بافت پیوندیِ دارای رشته و مادهٔ زمینه است، چربی پیرامونی دارد و یاخته‌هایی مانند رشته‌ساز هستهٔ کشیده دارند. ب به‌دلیل ورود یاخته‌های ایمنی نادرست است.",
+    "optionExplanations": [
+      "ب نادرست است؛ همهٔ یاخته‌های بافت در محل اقامتشان ایجاد نشده‌اند و یاخته‌های ایمنی می‌توانند از خون وارد شوند. حذف الف نیز درست نیست.",
+      "شکل کپسول کلیه را نشان می‌دهد. الف، ج و د درست‌اند: کپسول بافت پیوندیِ دارای رشته و مادهٔ زمینه است، چربی پیرامونی دارد و یاخته‌هایی مانند رشته‌ساز هستهٔ کشیده دارند. ب به‌دلیل ورود یاخته‌های ایمنی نادرست است.",
+      "وجود ب این ترکیب را نادرست می‌کند و ج و الف نیز از ویژگی‌های بخش مشخص‌شده‌اند؛ فقط ب و د پاسخ نیست.",
+      "الف درست است، اما تنها مورد درست نیست؛ چربی اطراف کلیه و هستهٔ کشیدهٔ برخی یاخته‌های پیوندی، ج و د را نیز تأیید می‌کند."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "section": "میکروطبقه‌بندی کنکور (فصل 1 دهم).pdf؛ صفحهٔ PDF 3، سؤال 15"
+    },
+    "tags": [
+      "کپسول کلیه و بافت پیوندی"
+    ],
+    "image": "imports/v013/40777331c047/q0015.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-40777331c0478aa5",
+      "questionNumber": 15
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-40777331c0478aa5",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "40777331c0478aa5dbf1fe653661ee2d09f4316d14c3a97e27a5181c92040801",
+      "sourceFile": "میکروطبقه‌بندی کنکور (فصل 1 دهم).pdf",
+      "pdfPage": 3,
+      "localQuestionNumber": 15,
+      "sourceClaimAsPrinted": ") -15سراسری تیر (1403",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-81cc603aaa04-0002",
+    "grade": 12,
+    "chapter": 1,
+    "topic": "آزمایش گریفیت و عامل وراثتی",
+    "difficulty": "unknown",
+    "stem": "کدام مورد ،در خصوص آزمایشات یا نتایج کارهای گریفیت ،نادرست است؟",
+    "options": [
+      "به بحثها و پژوهشهای چندساله دربارة ماهیت مادة ژنتیک خاتمه داد.",
+      "دریافت که یک ویژگی ارثی میتواند از نوعی یاختۀ زنده به نوعی یاختۀ دیگر منتقل شود.",
+      "در یکی از آزمایشات خود ملاحظه کرد که تعداد زیادی از باکتریهای فاقد پوشینه ،پوشینهدار شدند.",
+      "در یکی از آزمایشات انجامشده ،باکتریهای پوشینهدار زنده را در محلی غیر از خون موشهای مرده مشاهده کرد."
+    ],
+    "answer": 0,
+    "explanation": "گریفیت پدیدهٔ تغییر در ویژگی ارثی باکتری را نشان داد، اما ماهیت شیمیایی عامل را مشخص نکرد؛ بنابراین پژوهش دربارهٔ ماهیت مادهٔ ژنتیک پایان نیافت.",
+    "optionExplanations": [
+      "گریفیت پدیدهٔ تغییر در ویژگی ارثی باکتری را نشان داد، اما ماهیت شیمیایی عامل را مشخص نکرد؛ بنابراین پژوهش دربارهٔ ماهیت مادهٔ ژنتیک پایان نیافت.",
+      "تبدیل باکتری زندهٔ بدون پوشینه به نوع پوشینه‌دار نشان داد ویژگی ارثی می‌تواند به یاختهٔ زندهٔ دیگر منتقل شود؛ این بیان درست است.",
+      "در آزمایش آمیختهٔ نوع بدون پوشینه و نوع پوشینه‌دارِ کشته‌شده، باکتری‌های پوشینه‌دار زنده بازیابی شدند و قابلیت تکثیر داشتند.",
+      "باکتری پوشینه‌دار زنده در مرحلهٔ آماده‌سازی کشت نیز وجود داشت؛ مشاهدهٔ آن منحصر به خون موش مرده نبود."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "section": "میکروطبقه‌بندی کنکور (فصل 1 دوازدهم).pdf؛ صفحهٔ PDF 1، سؤال 2"
+    },
+    "tags": [
+      "آزمایش گریفیت و عامل وراثتی"
+    ],
+    "image": "imports/v013/81cc603aaa04/q0002.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "questionNumber": 2
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-81cc603aaa04f36b",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "81cc603aaa04f36b2d1e4d07463e7c135aff9d340ae76a3916110fb479a8694f",
+      "sourceFile": "میکروطبقه‌بندی کنکور (فصل 1 دوازدهم).pdf",
+      "pdfPage": 1,
+      "localQuestionNumber": 2,
+      "sourceClaimAsPrinted": ") -2سراسری اردیبهشت (1404",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-81cc603aaa04-0006",
+    "grade": 12,
+    "chapter": 1,
+    "topic": "دقت همانندسازی در یوکاریوت",
+    "difficulty": "unknown",
+    "stem": "کدام مورد زیر ،در ارتباط با »جلبک قهوهای« نادرست است؟",
+    "options": [
+      "تعداد جایگاههای همانندسازی بسته به نیاز جاندار قابل تنظیم است.",
+      "دقت بالای همانندسازی دنا منحصراً به توانایی ویرایش دنابسپاراز وابسته است.",
+      "در یک مرحله از اینترفاز ،هر بخش از دنا جهت همانندسازی ،فقط یکبار باز میشود.",
+      "پیشرفت همانندسازی در بخشهای بازشدة دنای یک فامتن )کروموزوم( میتواند یکسان باشد."
+    ],
+    "answer": 1,
+    "explanation": "دقت همانندسازی فقط از ویرایش حاصل نمی‌شود؛ مکمل‌بودن بازها و گزینش نوکلئوتید مناسب توسط دنابسپاراز نیز نقش دارند. قید «منحصراً» نادرست است.",
+    "optionExplanations": [
+      "جلبک قهوه‌ای یوکاریوت است و استفاده از جایگاه‌های متعدد آغاز می‌تواند تنظیم شود؛ این ویژگی نادرست نیست.",
+      "دقت همانندسازی فقط از ویرایش حاصل نمی‌شود؛ مکمل‌بودن بازها و گزینش نوکلئوتید مناسب توسط دنابسپاراز نیز نقش دارند. قید «منحصراً» نادرست است.",
+      "در یک چرخهٔ عادی، هر ناحیه در مرحلهٔ S یک بار همانندسازی می‌شود؛ تنظیم آغاز از تکرار بی‌رویه جلوگیری می‌کند.",
+      "چنگال‌های همانندسازی در حباب‌های مختلف می‌توانند با آهنگ یکسان پیش بروند؛ یکسان‌بودن سرعت به‌طور کلی ممنوع نیست."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "section": "میکروطبقه‌بندی کنکور (فصل 1 دوازدهم).pdf؛ صفحهٔ PDF 1، سؤال 6"
+    },
+    "tags": [
+      "دقت همانندسازی در یوکاریوت"
+    ],
+    "image": "imports/v013/81cc603aaa04/q0006.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "questionNumber": 6
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-81cc603aaa04f36b",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "81cc603aaa04f36b2d1e4d07463e7c135aff9d340ae76a3916110fb479a8694f",
+      "sourceFile": "میکروطبقه‌بندی کنکور (فصل 1 دوازدهم).pdf",
+      "pdfPage": 1,
+      "localQuestionNumber": 6,
+      "sourceClaimAsPrinted": ") -6سراسری تیر (1404",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-81cc603aaa04-0007",
+    "grade": 12,
+    "chapter": 1,
+    "topic": "همانندسازی و رونویسی در جانداران",
+    "difficulty": "unknown",
+    "stem": "کدام عبارت نادرست است؟",
+    "options": [
+      "در اشرشیاکُلای ،محل باز شدن موضعی دو رشتۀ دنا به هنگام رونویسی ،محل تشکیل پیوند فسفو دیاستر است.",
+      "در آزولا ،به هنگام رشتمان )میتوز( ،دنای مادر و دنای جدید بهطور مساوی بین دو یاختۀ جدید توزیع میشود.",
+      "در استرپتوکوکوس نومونیا ،نقطۀ پایان همانندسازی در مقابل محل آغاز همانندسازی قرار دارد.",
+      "در اسپیروژیر ،فعالیت هلیکاز قبل از جدا شدن هیستونها از مولکول دنا ،رخ میدهد."
+    ],
+    "answer": 3,
+    "explanation": "برای دسترسی به دنای یوکاریوت، بازشدن فامینه و کناررفتن پروتئین‌های همراه لازم است؛ تقدم هلیکاز بر جداشدن هیستون در عبارت نادرست است.",
+    "optionExplanations": [
+      "در حباب رونویسی، دنا موضعی باز می‌شود و رنابسپاراز پیوند فسفودی‌استر رنا را می‌سازد؛ این گزینه درست است.",
+      "با همانندسازی نیمه‌حفاظتی و جدایی برابر فامینه‌های خواهری در میتوز، دنای قدیمی و تازه میان دو یاخته به مقدار برابر توزیع می‌شود.",
+      "در الگوی معمول دنای حلقوی باکتری، همانندسازی از یک مبدأ دوطرفه پیش می‌رود و پایان در سوی مقابل است.",
+      "برای دسترسی به دنای یوکاریوت، بازشدن فامینه و کناررفتن پروتئین‌های همراه لازم است؛ تقدم هلیکاز بر جداشدن هیستون در عبارت نادرست است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "section": "میکروطبقه‌بندی کنکور (فصل 1 دوازدهم).pdf؛ صفحهٔ PDF 1، سؤال 7"
+    },
+    "tags": [
+      "همانندسازی و رونویسی در جانداران"
+    ],
+    "image": "imports/v013/81cc603aaa04/q0007.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "questionNumber": 7
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-81cc603aaa04f36b",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "81cc603aaa04f36b2d1e4d07463e7c135aff9d340ae76a3916110fb479a8694f",
+      "sourceFile": "میکروطبقه‌بندی کنکور (فصل 1 دوازدهم).pdf",
+      "pdfPage": 1,
+      "localQuestionNumber": 7,
+      "sourceClaimAsPrinted": ") -7سراسری تیر (1403",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-81cc603aaa04-0012",
+    "grade": 12,
+    "chapter": 1,
+    "topic": "ساختار دوم پروتئین",
+    "difficulty": "unknown",
+    "stem": "کدام ویژگی ،دربـارة هیچیک از نـمونـههـای مـعروف سـاخـتار دوم پـروتئینهـا صـادق\nنیست؟",
+    "options": [
+      "ایجاد پیوندهای هیدروژنی بین گروههای NHو COدو آمینواسید یک زنجیرة پلیپپتیدی ممکن است.",
+      "برهمکنشهای آبگریز ،نقش اصلی را در تشکیل و پایداری این ساختارها ایفا میکند.",
+      "گروههای Rمربوط به آمینواسیدهای مجاور ،در دو سمتِ ساختار قرار میگیرند.",
+      "تعداد واحدهای سازندة هر زنجیرة پلیپپتیدی بیش از پیوندهای پپتیدی است."
+    ],
+    "answer": 1,
+    "explanation": "پایداری نمونه‌های ساختار دوم عمدتاً به پیوند هیدروژنی ستون اصلی وابسته است؛ نقش اصلی برهم‌کنش آب‌گریز به سازمان‌یابی سطوح بالاتر مربوط است و این توصیف برای هیچ‌یک پاسخ درست نیست.",
+    "optionExplanations": [
+      "در مارپیچ آلفا، پیوند هیدروژنی میان NH و CO آمینواسیدهای همان زنجیره تشکیل می‌شود؛ پس این ویژگی برای دست‌کم یک نمونه صادق است.",
+      "پایداری نمونه‌های ساختار دوم عمدتاً به پیوند هیدروژنی ستون اصلی وابسته است؛ نقش اصلی برهم‌کنش آب‌گریز به سازمان‌یابی سطوح بالاتر مربوط است و این توصیف برای هیچ‌یک پاسخ درست نیست.",
+      "در صفحهٔ بتا، گروه‌های R آمینواسیدهای متوالی می‌توانند به دو سوی صفحه قرار گیرند؛ بنابراین این ویژگی نمونهٔ معتبر دارد.",
+      "در زنجیرهٔ خطی با n آمینواسید، n−1 پیوند پپتیدی وجود دارد؛ پس بیشتر بودن تعداد واحدها از پیوندها ویژگی درست است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "section": "میکروطبقه‌بندی کنکور (فصل 1 دوازدهم).pdf؛ صفحهٔ PDF 2، سؤال 12"
+    },
+    "tags": [
+      "ساختار دوم پروتئین"
+    ],
+    "image": "imports/v013/81cc603aaa04/q0012.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "questionNumber": 12
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-81cc603aaa04f36b",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "81cc603aaa04f36b2d1e4d07463e7c135aff9d340ae76a3916110fb479a8694f",
+      "sourceFile": "میکروطبقه‌بندی کنکور (فصل 1 دوازدهم).pdf",
+      "pdfPage": 2,
+      "localQuestionNumber": 12,
+      "sourceClaimAsPrinted": ") -12سـراسـری اردیبهشت (1404",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-81cc603aaa04-0023",
+    "grade": 12,
+    "chapter": 1,
+    "topic": "اختصاصی‌بودن و شرایط فعالیت پپسین",
+    "difficulty": "unknown",
+    "stem": "مـقدار مشخصی پپسین از بـدن مـوجـود زنـده اسـتخراج شـده و بـه صـورت خـالـص درآمـده و\nفـعالیت آن در محیط آزمـایشگاه مـورد بـررسیهـای مکرر قـرار گـرفـته اسـت .کدام مـورد ،دربـارة این آنـزیم درسـت\nاست؟",
+    "options": [
+      "پیشمادههایی دارد که از نظر نوع ،ترتیب و تعداد واحدهای سازنده میتوانند متفاوت باشند.",
+      "تحت هر شرایط ،حداکثر سرعت انجام واکنش را به مقدار یکسانی میرساند.",
+      "میتواند واکنشهای انجام نشدنی را با کاهش انرژی فعالسازی تسریع کند.",
+      "در محیط قلیایی میتواند به حداکثر فعالیت خود برسد."
+    ],
+    "answer": 0,
+    "explanation": "پپسین می‌تواند پیوندهای مناسب را در پروتئین‌های غذایی متفاوت بشکند؛ پس پروتئین‌های پیش‌ماده می‌توانند از نظر نوع، تعداد و ترتیب آمینواسیدها متفاوت باشند.",
+    "optionExplanations": [
+      "پپسین می‌تواند پیوندهای مناسب را در پروتئین‌های غذایی متفاوت بشکند؛ پس پروتئین‌های پیش‌ماده می‌توانند از نظر نوع، تعداد و ترتیب آمینواسیدها متفاوت باشند.",
+      "سرعت فعالیت آنزیم به شرایطی مانند دما، pH و مقدار پیش‌ماده وابسته است؛ خالص‌بودن آن حداکثر سرعت یکسان در هر شرایط را تضمین نمی‌کند.",
+      "آنزیم سد فعال‌سازی واکنش ممکن را کم می‌کند؛ واکنشی را که از نظر ترمودینامیکی انجام‌شدنی نیست با این کار ممکن نمی‌سازد.",
+      "پپسین برای محیط اسیدی معده سازگار است؛ بیشینهٔ فعالیت آن در محیط قلیایی نیست."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "section": "میکروطبقه‌بندی کنکور (فصل 1 دوازدهم).pdf؛ صفحهٔ PDF 4، سؤال 23"
+    },
+    "tags": [
+      "اختصاصی‌بودن و شرایط فعالیت پپسین"
+    ],
+    "image": "imports/v013/81cc603aaa04/q0023.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "questionNumber": 23
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-81cc603aaa04f36b",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "81cc603aaa04f36b2d1e4d07463e7c135aff9d340ae76a3916110fb479a8694f",
+      "sourceFile": "میکروطبقه‌بندی کنکور (فصل 1 دوازدهم).pdf",
+      "pdfPage": 4,
+      "localQuestionNumber": 23,
+      "sourceClaimAsPrinted": ") -23سـراسـری تیر (1404",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-81cc603aaa04-0024",
+    "grade": 12,
+    "chapter": 7,
+    "topic": "پلاسمین و تجزیهٔ لخته",
+    "difficulty": "unknown",
+    "stem": "چند مورد دربارة پلاسمین درست است؟\n• در تبدیل فیبرینوژن به فیبرین نقش اساسی دارد.\n• با کمک پرتوهای ایکس ،جایگاه هر اتم آن مشخص میشود.\n• میتواند در مقادیر اندک ،بر مقدار زیادی فیبرین تأثیر بگذارد.\n• فعالیت پلاسمایی خود را در مدت زمان طولانی به انجام میرساند.",
+    "options": [
+      "یک",
+      "دو",
+      "سه",
+      "چهار"
+    ],
+    "answer": 1,
+    "explanation": "دوم و سوم درست‌اند. پلاسمین فیبرین را تجزیه می‌کند و عامل تبدیل فیبرینوژن به فیبرین ترومبین است؛ فعالیت آنزیمی نیز به آهستگیِ مورد چهارم توصیف نمی‌شود.",
+    "optionExplanations": [
+      "تنها یک مورد درست نیست؛ تعیین ساختار با پرتو ایکس و اثر مقدار اندک آنزیم بر مقدار زیاد پیش‌ماده، هر دو از موارد درست‌اند.",
+      "دوم و سوم درست‌اند. پلاسمین فیبرین را تجزیه می‌کند و عامل تبدیل فیبرینوژن به فیبرین ترومبین است؛ فعالیت آنزیمی نیز به آهستگیِ مورد چهارم توصیف نمی‌شود.",
+      "سه مورد درست نیست؛ مورد اول کار ترومبین را به پلاسمین نسبت داده و مورد چهارم اثر سریع آنزیمی را طولانی معرفی کرده است.",
+      "هر چهار مورد درست نیستند؛ اول و چهارم نادرست‌اند و فقط دو مورد می‌ماند."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "section": "میکروطبقه‌بندی کنکور (فصل 1 دوازدهم).pdf؛ صفحهٔ PDF 4، سؤال 24"
+    },
+    "tags": [
+      "پلاسمین و تجزیهٔ لخته"
+    ],
+    "image": "imports/v013/81cc603aaa04/q0024.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-81cc603aaa04f36b",
+      "questionNumber": 24
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-81cc603aaa04f36b",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "81cc603aaa04f36b2d1e4d07463e7c135aff9d340ae76a3916110fb479a8694f",
+      "sourceFile": "میکروطبقه‌بندی کنکور (فصل 1 دوازدهم).pdf",
+      "pdfPage": 4,
+      "localQuestionNumber": 24,
+      "sourceClaimAsPrinted": ") -24سراسری (1401",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-a101e5b46444-0018",
+    "grade": 10,
+    "chapter": 2,
+    "topic": "ساختار پرز و مویرگ لنفی",
+    "difficulty": "unknown",
+    "stem": "در پرز رودة انسان ،نخستین رگی که مولکولهای حاصل از گوارش نهایی تریگلیسریدها را دریافت میکند،\nبه کدام یاختهها نزدیکتر از سایرین است؟",
+    "options": [
+      "ترشحکنندة سکرتین",
+      "تولیدکنندة شیرة روده",
+      "تک‌لایه‌ای با ظاهری پهن",
+      "استوانهای با هستهای نزدیک به قاعده"
+    ],
+    "answer": 2,
+    "explanation": "نخستین مسیر اصلی چربی‌های جذب‌شدهٔ موردنظر مویرگ لنفی پرز است. پوشش رگ از یاخته‌های تک‌لایه و پهن ساخته شده و مستقیماً کنار محتویات آن قرار دارد.",
+    "optionExplanations": [
+      "یاختهٔ ترشح‌کنندهٔ سکرتین از یاخته‌های پوششی روده است و جایگاه آن را نباید با پوشش نزدیک و پهن رگ مرکزی یکی دانست.",
+      "یاخته‌های سازندهٔ شیرهٔ روده در پوشش و غدد آن‌اند؛ پوشش خود رگ لنفی به محتویات رگ نزدیک‌تر است.",
+      "نخستین مسیر اصلی چربی‌های جذب‌شدهٔ موردنظر مویرگ لنفی پرز است. پوشش رگ از یاخته‌های تک‌لایه و پهن ساخته شده و مستقیماً کنار محتویات آن قرار دارد.",
+      "یاخته‌های استوانه‌ایِ پوشش بیرونی پرز از محتویات رگ مرکزی به اندازهٔ پوشش خود رگ نزدیک نیستند."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-a101e5b46444caaa",
+      "section": "میکروطبقه‌بندی کنکور (فصل 2 دهم).pdf؛ صفحهٔ PDF 3، سؤال 18"
+    },
+    "tags": [
+      "ساختار پرز و مویرگ لنفی"
+    ],
+    "image": "imports/v013/a101e5b46444/q0018.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-a101e5b46444caaa",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-a101e5b46444caaa",
+      "questionNumber": 18
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-a101e5b46444caaa",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "a101e5b46444caaa1511e14a90bea83e190648ab8d454d1db7309c29b4678c52",
+      "sourceFile": "میکروطبقه‌بندی کنکور (فصل 2 دهم).pdf",
+      "pdfPage": 3,
+      "localQuestionNumber": 18,
+      "sourceClaimAsPrinted": "( -18اردیبهشت )1404",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-a101e5b46444-0020",
+    "grade": 10,
+    "chapter": 2,
+    "topic": "ترشحات و اندام‌های دستگاه گوارش",
+    "difficulty": "unknown",
+    "stem": "در انسان کدام عبارت در ارتباط با اندامهای دستگاه گوارش موجود در شکم درست است؟",
+    "options": [
+      "فقط بعضی از اندامهایی که به دیافراگم نزدیک هستند میتوانند نوعی ترکیب یونی بسازند.",
+      "هر اندامی که توانایی تولید نوعی پلیساکارید ذخیرهای دارد ،نوعی آنزیم را به شیرة گوارشی میافزاید.",
+      "هر یاخته از اندامی که توانایی تولید بیکربنات دارد ،نوعی گلیکوپروتئین سازندة مادة مخاطی تولید میکند.",
+      "فقط بعضی از اندامهایی که ماهیچۀ حلقوی جهت تنظیم عبور مواد دارند ،میتوانند نوعی آنزیم گوارشی ترشح کنند."
+    ],
+    "answer": 3,
+    "explanation": "در میان اندام‌های دارای بنداره، بعضی مانند معده آنزیم گوارشی ترشح می‌کنند و بعضی مانند مری چنین ترشحی ندارند؛ پس این گزینه درست است.",
+    "optionExplanations": [
+      "معده اسید و کبد نمک‌های صفراوی می‌سازد؛ محدودکردن تولید ترکیب یونی به فقط بعضی از این اندام‌های نزدیک میانبند درست نیست.",
+      "کبد توان ذخیرهٔ گلیکوژن دارد، اما آنزیم گوارشی به صفرا نمی‌افزاید؛ بنابراین قید «هر اندام» نادرست است.",
+      "در اندام سازندهٔ بیکربنات، همهٔ یاخته‌ها مخاط تولید نمی‌کنند؛ برای مثال یاخته‌های درون‌ریز لوزالمعده ترشح مخاطی ندارند.",
+      "در میان اندام‌های دارای بنداره، بعضی مانند معده آنزیم گوارشی ترشح می‌کنند و بعضی مانند مری چنین ترشحی ندارند؛ پس این گزینه درست است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-a101e5b46444caaa",
+      "section": "میکروطبقه‌بندی کنکور (فصل 2 دهم).pdf؛ صفحهٔ PDF 3، سؤال 20"
+    },
+    "tags": [
+      "ترشحات و اندام‌های دستگاه گوارش"
+    ],
+    "image": "imports/v013/a101e5b46444/q0020.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-a101e5b46444caaa",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-a101e5b46444caaa",
+      "questionNumber": 20
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-a101e5b46444caaa",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "a101e5b46444caaa1511e14a90bea83e190648ab8d454d1db7309c29b4678c52",
+      "sourceFile": "میکروطبقه‌بندی کنکور (فصل 2 دهم).pdf",
+      "pdfPage": 3,
+      "localQuestionNumber": 20,
+      "sourceClaimAsPrinted": "( -20تیر )1404",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-07295b99098c-0004",
+    "grade": 10,
+    "chapter": 3,
+    "topic": "تیغهٔ آبششی و تبادل گاز",
+    "difficulty": "unknown",
+    "stem": "کدام مورد ،در ارتباط با تیغههای آبششی یک ماهی استخوانی صحیح است؟",
+    "options": [
+      "محل انجام تبادالت گازهای تنفسی هستند.",
+      "آب را از درون خود عبور میدهند.",
+      "جهت حرکت خون و آب در آنها یکسان میباشد.",
+      "دارای تعداد زیادی رشتۀ آبششی هستند."
+    ],
+    "answer": 0,
+    "explanation": "تیغه‌های نازک آبششی با شبکهٔ مویرگی محل تبادل گاز میان آب و خون‌اند؛ این گزینه درست است.",
+    "optionExplanations": [
+      "تیغه‌های نازک آبششی با شبکهٔ مویرگی محل تبادل گاز میان آب و خون‌اند؛ این گزینه درست است.",
+      "آب از میان تیغه‌ها عبور می‌کند و خون درون مویرگ آن‌هاست؛ آب از داخل بافت تیغه جریان نمی‌یابد.",
+      "جهت جریان آب و خون در محل تبادل، مخالف هم است؛ جریان هم‌جهت توصیف درست این سازوکار نیست.",
+      "رشتهٔ آبششی دارای تیغه‌های متعدد است؛ گزینه رابطهٔ رشته و تیغه را وارونه بیان کرده است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "section": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf؛ صفحهٔ PDF 1، سؤال 4"
+    },
+    "tags": [
+      "تیغهٔ آبششی و تبادل گاز"
+    ],
+    "image": "imports/v013/07295b99098c/q0004.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "questionNumber": 4
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-07295b99098c0f5b",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "07295b99098c0f5b7072bfe793f3fd6bfa04baff6988e0cc8634e2474e9cba37",
+      "sourceFile": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf",
+      "pdfPage": 1,
+      "localQuestionNumber": 4,
+      "sourceClaimAsPrinted": "( .4داخل و خارج )99",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-07295b99098c-0005",
+    "grade": 10,
+    "chapter": 3,
+    "topic": "کیسه‌های هوادار پرندگان",
+    "difficulty": "unknown",
+    "stem": "چند مورد،دربارۀ پرندگان درست است؟\n*همۀ کیسههای هوادار جلویی همانند اغلب کیسههای هوادار عقبی ،بهصورت جفت وجود دارند.\n*همۀ کیسههای هوادار عقبی همانند همۀ کیسههای هوادار جلویی ،به تبادل گازهای تنفسی کمک میکنند.\n*همۀ کیسههای هوادار عقبی همانند اغلب کیسههای هوادار جلویی ،در محل دو شاخهشدن نای قرار دارند.\n*همۀ کیسههای هوادار جلویی همانند همۀ کیسههای هوادار عقبی ،در پی حرکات میانبند (دیافراگم) تغییر حجم میدهند.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "فقط مورد دوم درست است: همهٔ کیسه‌ها به تهویهٔ شش کمک می‌کنند. نخست نادرست است چون کیسهٔ جلوییِ بی‌جفت وجود دارد؛ سوم جایگاه همهٔ عقبی‌ها را یکسان فرض کرده و چهارم برای پرنده میانبند در نظر گرفته است.",
+    "optionExplanations": [
+      "فقط مورد دوم درست است: همهٔ کیسه‌ها به تهویهٔ شش کمک می‌کنند. نخست نادرست است چون کیسهٔ جلوییِ بی‌جفت وجود دارد؛ سوم جایگاه همهٔ عقبی‌ها را یکسان فرض کرده و چهارم برای پرنده میانبند در نظر گرفته است.",
+      "دو مورد درست نیست؛ افزون بر نداشتن میانبند، همهٔ کیسه‌های جلویی نیز جفت نیستند. تنها نقش همگانی آن‌ها در کمک به تهویه درست می‌ماند.",
+      "سه مورد درست نیست؛ اول، سوم و چهارم خطا دارند و تنها گزارهٔ دوم باقی می‌ماند.",
+      "هر چهار مورد درست نیستند؛ پرندگان میانبند ندارند، کیسهٔ بی‌جفت دارند و همهٔ عقبی‌ها در محل دوشاخه‌شدن نای نیستند."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "section": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf؛ صفحهٔ PDF 1، سؤال 5"
+    },
+    "tags": [
+      "کیسه‌های هوادار پرندگان"
+    ],
+    "image": "imports/v013/07295b99098c/q0005.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "questionNumber": 5
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-07295b99098c0f5b",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "07295b99098c0f5b7072bfe793f3fd6bfa04baff6988e0cc8634e2474e9cba37",
+      "sourceFile": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf",
+      "pdfPage": 1,
+      "localQuestionNumber": 5,
+      "sourceClaimAsPrinted": "( .5داخل و خارج )1401",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-07295b99098c-0010",
+    "grade": 10,
+    "chapter": 5,
+    "topic": "لولهٔ مالپیگی حشرات",
+    "difficulty": "unknown",
+    "stem": "سامانۀ دفعی در زنبور برخالف سامانۀ دفعی در بیشتر بیمهرگان چه مشخصهای دارد؟",
+    "options": [
+      "به روده تخلیه میشود.",
+      "در دو انتها باز است.",
+      "نزدیک به انتها بهصورت مثانه در آمده است.",
+      "در بخشی از طول با شبکۀ مویرگی ارتباط دارد."
+    ],
+    "answer": 0,
+    "explanation": "لوله‌های مالپیگی حشره مواد دفعی را به روده تخلیه می‌کنند؛ مسیر دفعی با دستگاه گوارش مرتبط است.",
+    "optionExplanations": [
+      "لوله‌های مالپیگی حشره مواد دفعی را به روده تخلیه می‌کنند؛ مسیر دفعی با دستگاه گوارش مرتبط است.",
+      "لولهٔ مالپیگی در سمت همولنف انتهای بسته دارد و دو سر آن باز نیست.",
+      "ساختار مثانه‌مانند توصیف عمومی لولهٔ مالپیگی نیست و به الگوهای دفعی دیگر تعلق دارد.",
+      "گردش خون حشره باز است و لولهٔ مالپیگی در تماس با همولنف قرار دارد؛ شبکهٔ مویرگیِ مجاور در طول لوله وجود ندارد."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "section": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf؛ صفحهٔ PDF 2، سؤال 10"
+    },
+    "tags": [
+      "لولهٔ مالپیگی حشرات"
+    ],
+    "image": "imports/v013/07295b99098c/q0010.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "questionNumber": 10
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-07295b99098c0f5b",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "07295b99098c0f5b7072bfe793f3fd6bfa04baff6988e0cc8634e2474e9cba37",
+      "sourceFile": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf",
+      "pdfPage": 2,
+      "localQuestionNumber": 10,
+      "sourceClaimAsPrinted": "( .10داخل و خارج )98",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-07295b99098c-0014",
+    "grade": 11,
+    "chapter": 8,
+    "topic": "تولیدمثل و سازگاری جانداران",
+    "difficulty": "unknown",
+    "stem": "به طور معمول ،در خصوص بعضی از جاندارانی که توانایی انجام تولیدمثل جنسی را دارند ،کدام\nموارد زیر ،درست است؟\nالف :میتوانند یاختههای جنسی خود را بارور کنند.\nب :در تولید زادههایی بارور با عدد فامتنی (کروموزومی) متفاوت نقش دارند.\nج :از رشد و نمو دو تخم در پیکر آنها ،ساختارهای متفاوتی ایجاد میشود.\nد :در شرایطی ،مصرف اکسیژن و سوختوساز خود را به حداقل میرسانند.",
+    "options": [
+      "«الف»« ،ب» و «د»",
+      "«الف»« ،ب»« ،ج» و «د»",
+      "«ب» و «ج»",
+      "«الف»« ،ب» و «ج»"
+    ],
+    "answer": 1,
+    "explanation": "هر چهار مورد درست‌اند: برخی گیاهان خودلقاحی دارند؛ تغییر شمار مجموعه‌های فام‌تنی می‌تواند زادهٔ چندلادِ بارور ایجاد کند؛ دو لقاح نهاندانگان رویان و بافت ذخیره‌ای می‌دهد؛ و جانوران خواب‌زمستانی مصرف انرژی را کاهش می‌دهند.",
+    "optionExplanations": [
+      "سه مورد کافی نیست؛ ج نیز با دو لقاح در نهاندانگان و رشد تخم اصلی و تخم ضمیمه سازگار است.",
+      "هر چهار مورد درست‌اند: برخی گیاهان خودلقاحی دارند؛ تغییر شمار مجموعه‌های فام‌تنی می‌تواند زادهٔ چندلادِ بارور ایجاد کند؛ دو لقاح نهاندانگان رویان و بافت ذخیره‌ای می‌دهد؛ و جانوران خواب‌زمستانی مصرف انرژی را کاهش می‌دهند.",
+      "ب و ج درست‌اند، اما الف و د نیز نمونهٔ واقعی دارند؛ این ترکیب همهٔ موارد درست را شامل نمی‌شود.",
+      "الف، ب و ج درست‌اند، ولی د هم دربارهٔ جانوران دارای خواب زمستانی درست است؛ بنابراین حذف آن پاسخ را ناقص می‌کند."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "section": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf؛ صفحهٔ PDF 3، سؤال 14"
+    },
+    "tags": [
+      "تولیدمثل و سازگاری جانداران"
+    ],
+    "image": "imports/v013/07295b99098c/q0014.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "questionNumber": 14
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-07295b99098c0f5b",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "07295b99098c0f5b7072bfe793f3fd6bfa04baff6988e0cc8634e2474e9cba37",
+      "sourceFile": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf",
+      "pdfPage": 3,
+      "localQuestionNumber": 14,
+      "sourceClaimAsPrinted": "( .14تیر و خارج )1402",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-07295b99098c-0020",
+    "grade": 12,
+    "chapter": 8,
+    "topic": "نقش‌پذیری جوجه‌غاز",
+    "difficulty": "unknown",
+    "stem": "مطابق با اطالعات کتاب درسی ،نوعی رفتار فقط در دورۀ خاصی از زندگی جوجه غازها (تازه از تخم\nدرآمده) ،دیده میشود .کدام عبارت در مورد این رفتار ،درست است؟",
+    "options": [
+      "میتواند باعث افزایش موفقیت تولیدمثلی مادر شود.",
+      "باعث میشود تا جوجهها تنها با پرندۀ همگونۀ خود ارتباط برقرار کنند.",
+      "بهطور کامل هنگام تولد در جوجهها ایجادشده و رفتاری کامالً غریزی است.",
+      "نوعی رفتار خوگیری است و امکان سازگار شدن جوجهها را با محیط فراهم میآورد."
+    ],
+    "answer": 0,
+    "explanation": "دنبال‌کردن مادر در دورهٔ حساس می‌تواند بقای جوجه‌ها را افزایش دهد و از این راه موفقیت تولیدمثلی مادر را بیشتر کند.",
+    "optionExplanations": [
+      "دنبال‌کردن مادر در دورهٔ حساس می‌تواند بقای جوجه‌ها را افزایش دهد و از این راه موفقیت تولیدمثلی مادر را بیشتر کند.",
+      "جوجه می‌تواند به نخستین محرک متحرک مناسب، حتی غیرهم‌گونه یا یک جسم، نقش بپذیرد؛ ارتباط منحصر به پرندهٔ هم‌گونه نیست.",
+      "نقش‌پذیری به تجربه در دورهٔ حساس وابسته است و رفتار کاملِ ازپیش‌آماده در لحظهٔ تولد نیست.",
+      "نقش‌پذیری با خوگیری فرق دارد؛ خوگیری کاهش پاسخ به محرک تکراری بی‌اهمیت است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "section": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf؛ صفحهٔ PDF 4، سؤال 20"
+    },
+    "tags": [
+      "نقش‌پذیری جوجه‌غاز"
+    ],
+    "image": "imports/v013/07295b99098c/q0020.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "questionNumber": 20
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-07295b99098c0f5b",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "07295b99098c0f5b7072bfe793f3fd6bfa04baff6988e0cc8634e2474e9cba37",
+      "sourceFile": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf",
+      "pdfPage": 4,
+      "localQuestionNumber": 20,
+      "sourceClaimAsPrinted": "( .20تیر و خارج )1404",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-07295b99098c-0027",
+    "grade": 12,
+    "chapter": 8,
+    "topic": "دگرخواهی و انتخاب طبیعی",
+    "difficulty": "unknown",
+    "stem": "کدام عبارت ،در ارتباط با رفتار دگرخواهی نادرست است؟",
+    "options": [
+      "فقط به نفع سایر افراد گروه است.",
+      "ممکن است مربوط به افرادی باشد که نازا هستند.",
+      "میتواند در بین افرادی رخ دهد که خویشاوند هستند.",
+      "بهطور حتم بر اساس انتخاب طبیعی برگزیده شده است."
+    ],
+    "answer": 0,
+    "explanation": "دگرخواهی فقط به سود دیگران نیست؛ کمک‌کننده می‌تواند تجربه یا قلمرو به دست آورد و یا با کمک به خویشاوندان، انتقال ژن‌های مشترک را افزایش دهد.",
+    "optionExplanations": [
+      "دگرخواهی فقط به سود دیگران نیست؛ کمک‌کننده می‌تواند تجربه یا قلمرو به دست آورد و یا با کمک به خویشاوندان، انتقال ژن‌های مشترک را افزایش دهد.",
+      "کارگران نازای زنبورعسل نمونهٔ رفتار دگرخواهانه‌اند؛ نازابودن مانع این رفتار نیست.",
+      "کمک به خویشاوندان یکی از نمونه‌های مطرح‌شده است و در موفقیت ژن‌های مشترک نقش دارد؛ این گزینه درست است.",
+      "در تبیین تکاملی کتاب، سود ژنی مستقیم یا غیرمستقیم می‌تواند ماندگاری این رفتار را با انتخاب طبیعی توضیح دهد؛ این عبارت پاسخ نادرست سؤال نیست."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "section": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf؛ صفحهٔ PDF 5، سؤال 27"
+    },
+    "tags": [
+      "دگرخواهی و انتخاب طبیعی"
+    ],
+    "image": "imports/v013/07295b99098c/q0027.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "questionNumber": 27
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-07295b99098c0f5b",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "07295b99098c0f5b7072bfe793f3fd6bfa04baff6988e0cc8634e2474e9cba37",
+      "sourceFile": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf",
+      "pdfPage": 5,
+      "localQuestionNumber": 27,
+      "sourceClaimAsPrinted": "( .27داخل و خارج )98",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-07295b99098c-0029",
+    "grade": 10,
+    "chapter": 5,
+    "topic": "دفع مواد در کرم‌های پهن",
+    "difficulty": "unknown",
+    "stem": "در نوعی کرم ،هیچیک از چهار روش اصلی تنفس مشاهده نمیگردد؛ کدام مورد ،دربارۀ این\nجاندار صادق است؟",
+    "options": [
+      "در شرایطی میتواند با نوعی تولیدمثل ،موجودی تکالد (هاپلوئید) را به وجود آورد.",
+      "لولۀ گوارش آن ،عالوه بر گوارش ،وظیفۀ گردش مواد را بر عهده دارد.",
+      "فاقد لولههای مالپیگی برای تنظیم اسمزی مایعات بدن است.",
+      "همولنف مستقیماً در مجاورت یاختههای بدن آن ،جریان مییابد."
+    ],
+    "answer": 2,
+    "explanation": "لولهٔ مالپیگی ساختار دفعی حشره است و این کرم آن را ندارد؛ بنابراین این گزینه درست است.",
+    "optionExplanations": [
+      "در کرم‌های موردنظر، تولیدمثل معمول جنسی یا غیرجنسی زادهٔ چندیاخته‌ای تک‌لادِ مورد ادعا را ایجاد نمی‌کند؛ این توصیف به زنبور نر مربوط است.",
+      "حفرهٔ گوارشی را نباید لولهٔ گوارشی کامل نامید؛ در برخی کرم‌های انگل نیز دستگاه گوارش کاهش یافته است. عبارت گزینه توصیف عمومی درست این جاندار نیست.",
+      "لولهٔ مالپیگی ساختار دفعی حشره است و این کرم آن را ندارد؛ بنابراین این گزینه درست است.",
+      "این کرم دستگاه گردش بازِ حشرات و همولنفِ جاری کنار یاخته‌ها ندارد؛ گزینهٔ چهارم نادرست است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "section": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf؛ صفحهٔ PDF 5، سؤال 29"
+    },
+    "tags": [
+      "دفع مواد در کرم‌های پهن"
+    ],
+    "image": "imports/v013/07295b99098c/q0029.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "questionNumber": 29
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-07295b99098c0f5b",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "07295b99098c0f5b7072bfe793f3fd6bfa04baff6988e0cc8634e2474e9cba37",
+      "sourceFile": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf",
+      "pdfPage": 5,
+      "localQuestionNumber": 29,
+      "sourceClaimAsPrinted": "( .29داخل و خارج )1400",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-07295b99098c-0045",
+    "grade": 12,
+    "chapter": 8,
+    "topic": "رفتار اجتماعی زنبورعسل",
+    "difficulty": "unknown",
+    "stem": "کدام عبارت در خصوصِ زندگی گروهی زنبورهای عسل درست است؟",
+    "options": [
+      "همۀ زنبورهای کارگر ،از تخمک بارور نشدۀ ملکه بهوجود میآیند.",
+      "زنبورهایی که در جمعآوری شهد و گردۀ گلها نقش دارند ،ماده هستند.",
+      "زنبور یابنده همواره محل دقیق منبع غذایی را به زنبورهای کارگر اطالع میدهد.",
+      "گیرندههای نوری زنبورهای کارگر ،منحصراً پرتوهای فرابنفش را دریافت میکنند."
+    ],
+    "answer": 1,
+    "explanation": "زنبورهای کارگرِ گردآورندهٔ شهد و گرده ماده‌اند؛ این گزینه درست است.",
+    "optionExplanations": [
+      "کارگران ماده و دیپلوئیدند و از تخمک بارورشده پدید می‌آیند؛ تخمک بارورنشده معمولاً زنبور نر می‌دهد.",
+      "زنبورهای کارگرِ گردآورندهٔ شهد و گرده ماده‌اند؛ این گزینه درست است.",
+      "اطلاعات زنبور یابنده بسته به فاصله و نوع رقص متفاوت است؛ رقص گرد همواره جهت و محل دقیق را مشخص نمی‌کند.",
+      "زنبور فقط فرابنفش نمی‌بیند و بخش‌هایی از نور مرئی را هم دریافت می‌کند؛ قید «منحصراً» نادرست است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "section": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf؛ صفحهٔ PDF 7، سؤال 45"
+    },
+    "tags": [
+      "رفتار اجتماعی زنبورعسل"
+    ],
+    "image": "imports/v013/07295b99098c/q0045.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_compilation",
+      "label": "مجموعهٔ میکروطبقه‌بندی ارسالی",
+      "sourceId": "UPLOAD-07295b99098c0f5b",
+      "questionNumber": 45
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-07295b99098c0f5b",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "07295b99098c0f5b7072bfe793f3fd6bfa04baff6988e0cc8634e2474e9cba37",
+      "sourceFile": "میکروطبقه‌بندی کنکور (مبحث جانوری).pdf",
+      "pdfPage": 7,
+      "localQuestionNumber": 45,
+      "sourceClaimAsPrinted": "( .45تیر و خارج )1404",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0005",
+    "grade": 11,
+    "chapter": 5,
+    "topic": "دفاع ذاتی و یاخته‌های بیگانه‌خوار",
+    "difficulty": "unknown",
+    "stem": "کدام عبارت دربارة »درشتخوارهای حبابکی انسان« ،نادرست است؟",
+    "options": [
+      "همانند یاختههای دارینهای ،از یاختههای بنیادی میلوئیدی منشأ میگیرند.",
+      "همانند ماستوسیتها ،در واکنشهای عمومی امّا سریع بدن شرکت میکنند.",
+      "همانند یاختههای دارینهای ،بیشتر در گرههای لنفاوی حضور دارند.",
+      "همانند ماستوسیتها ،توانایی تولید پیک شیمیایی را دارند."
+    ],
+    "answer": 2,
+    "explanation": "درشت‌خوار حبابکی در حبابک شش مستقر است؛ نمی‌توان محل اصلی آن را مانند یاخته‌های مقیم گره لنفی، گره‌های لنفاوی دانست. این گزینه نادرست است.",
+    "optionExplanations": [
+      "در تقسیم‌بندی خون‌سازی کتاب، درشت‌خوار و یاختهٔ دارینه‌ای از دودمان بنیادی میلوئیدی پدید می‌آیند؛ این اشتراک درست است.",
+      "درشت‌خوار و ماستوسیت در دفاع ذاتی مشارکت دارند؛ این پاسخ‌ها سریع و عمومی‌اند و نیازمند شناسایی اختصاصی قبلی نیستند.",
+      "درشت‌خوار حبابکی در حبابک شش مستقر است؛ نمی‌توان محل اصلی آن را مانند یاخته‌های مقیم گره لنفی، گره‌های لنفاوی دانست. این گزینه نادرست است.",
+      "درشت‌خوارها و ماستوسیت‌ها پیک‌های شیمیایی مؤثر در پاسخ ایمنی آزاد می‌کنند؛ پس توانایی تولید پیک شیمیایی در هر دو وجود دارد."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 2، سؤال 5"
+    },
+    "tags": [
+      "دفاع ذاتی و یاخته‌های بیگانه‌خوار"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0005.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 5,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 2,
+      "localQuestionNumber": 5,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0006",
+    "grade": 11,
+    "chapter": 2,
+    "topic": "یاخته‌های مژک‌دار حلزون گوش",
+    "difficulty": "unknown",
+    "stem": "با توجه به مقطع عرضی حلزون گوش انسان ،کدام مورد دربارة گیرندة مژکداری صدق میکند که با فاصله بیشتری از سایر\nگیرندههای مژکدار دیده میشود؟",
+    "options": [
+      "زوائد )مژکهای( آن نسبت به زوائد سایر گیرندهها ،به نوک مادة ژلاتینی نزدیکتر است.",
+      "نسبت به گیرندههای مژکدار دیگر ،به بخش متورم عصب شنوایی نزدیکتر است.",
+      "ناقلهای عصبی آن ،پس از انتقال پیام ،جذب یاختة پسهمایهای میشوند.",
+      "در اثر باز شدن کانالهای یونی غشای آن ،مژکهایش خم میشود."
+    ],
+    "answer": 1,
+    "explanation": "گیرندهٔ داخلی که از ردیف‌های دیگر فاصله دارد در سمت بخش مرکزی حلزون و نزدیک‌تر به بخش متورم رشته‌های شنوایی است؛ این گزینه درست است.",
+    "optionExplanations": [
+      "گیرندهٔ منفردِ ردیف داخلی را نباید با ردیف‌های بیرونیِ نزدیک به نوک غشای ژلاتینی یکسان گرفت؛ این توصیف برای جایگاه آن درست نیست.",
+      "گیرندهٔ داخلی که از ردیف‌های دیگر فاصله دارد در سمت بخش مرکزی حلزون و نزدیک‌تر به بخش متورم رشته‌های شنوایی است؛ این گزینه درست است.",
+      "انتقال پیام در این همايه با جذب ناقل به یاختهٔ پس‌همایه‌ای تعریف نمی‌شود؛ ناقل به گیرندهٔ آن متصل می‌شود و سپس از فضای همايه‌ای حذف می‌شود.",
+      "در گیرندهٔ مکانیکی، خم‌شدن مژک‌ها سبب بازشدن کانال‌های یونی می‌شود؛ گزینه ترتیب علت و معلول را وارونه بیان کرده است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 3، سؤال 6"
+    },
+    "tags": [
+      "یاخته‌های مژک‌دار حلزون گوش"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0006.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 6,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 3,
+      "localQuestionNumber": 6,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0007",
+    "grade": 11,
+    "chapter": 9,
+    "topic": "خفتگی دانه",
+    "difficulty": "unknown",
+    "stem": "کدام مورد در ارتباط با دانة تازه تشکیلشدة لوبیا که از گیاه مادر جدا شده ،درست است؟",
+    "options": [
+      "تحتتأثیر نوعی تنظیمکنندة رشد ،آنزیم گوارشی دانه ترشح شده است.",
+      "بهتدریج ،ساقه و ریشة رویانی در دو انتهای رویان آن تشکیل میشود.",
+      "یاختههای مریستمی آن در یکی از مراحل اینترفاز متوقف شدهاند.",
+      "خارجیترین بخش دانه ،هنوز به حالت سخت درنیامده است."
+    ],
+    "answer": 2,
+    "explanation": "در دانهٔ خفته، تقسیم یاخته‌های مریستمی متوقف است و یاخته‌ها در مرحله‌ای از اینترفاز می‌مانند؛ با فراهم‌شدن شرایط، فعالیت از سر گرفته می‌شود.",
+    "optionExplanations": [
+      "ترشح آنزیم‌های بسیج‌کنندهٔ ذخایر دانه با آغاز رویش و اثر تنظیم‌کننده‌های رشد همراه است؛ صرف جداشدن دانهٔ تازه از مادر به معنی آغاز این فرایند نیست.",
+      "ریشه و ساقهٔ رویانی در رویانِ دانه تشکیل شده‌اند؛ تشکیل تدریجی آن‌ها پس از جداشدن دانه، توصیف درستی از دانهٔ موردنظر نیست.",
+      "در دانهٔ خفته، تقسیم یاخته‌های مریستمی متوقف است و یاخته‌ها در مرحله‌ای از اینترفاز می‌مانند؛ با فراهم‌شدن شرایط، فعالیت از سر گرفته می‌شود.",
+      "در دانهٔ بالغی که از گیاه جدا می‌شود، پوستهٔ محافظ شکل گرفته است؛ نمی‌توان سفت‌نشدن خارجی‌ترین بخش را ویژگی این دانه دانست."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 3، سؤال 7"
+    },
+    "tags": [
+      "خفتگی دانه"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0007.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 7,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 3,
+      "localQuestionNumber": 7,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0011",
+    "grade": 12,
+    "chapter": 3,
+    "topic": "وراثت وابسته به فام‌تن X",
+    "difficulty": "unknown",
+    "stem": "در انسان کوررنگی ،یک بیماری وابسته به فامتن )کروموزوم( xو نهفته است .با فرض ازدواج خانمی که از نظر هر دو صفت\nکوررنگی و هموفیلی ناخالص است با مردی که فقط از نظر یک صفت بیمار است ،تولد کدام فرزند دختر در این خانواده\nغیرممکن است؟ )احتمال وقوع چلیپایی شدن )کراسینگاور( وجود دارد(.",
+    "options": [
+      "سالم و از نظر هر دو صفت خالص",
+      "سالم و از نظر هر دو صفت ناخالص",
+      "از نظر یک صفت بیمار و از نظر صفت دیگر سالم و خالص",
+      "از نظر یک صفت بیمار و از نظر صفت دیگر سالم و ناخالص"
+    ],
+    "answer": 0,
+    "explanation": "پدر در یکی از دو صفت بیمار است و X حامل آن دگره را به همهٔ دختران می‌دهد؛ بنابراین دخترِ سالم و خالص در هر دو صفت ممکن نیست.",
+    "optionExplanations": [
+      "پدر در یکی از دو صفت بیمار است و X حامل آن دگره را به همهٔ دختران می‌دهد؛ بنابراین دخترِ سالم و خالص در هر دو صفت ممکن نیست.",
+      "مادر می‌تواند گامتی بدهد که با X پدری، برای هر دو صفت حالت ناخالص و سالم ایجاد کند؛ فرض وقوع چلیپایی‌شدن این ترکیب را ممنوع نمی‌کند.",
+      "با دریافت دگرهٔ بیماری از هر دو والد در یک جایگاه و دگرهٔ سالم در جایگاه دیگر، دختر می‌تواند در یک صفت بیمار و در صفت دیگر سالم و خالص باشد.",
+      "دختر می‌تواند در جایگاه بیماری پدر، دو دگرهٔ بیماری داشته باشد و در جایگاه دیگر ناخالصِ سالم باشد؛ این ترکیب با داده‌های سؤال سازگار است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 3، سؤال 11"
+    },
+    "tags": [
+      "وراثت وابسته به فام‌تن X"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0011.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 11,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 3,
+      "localQuestionNumber": 11,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0013",
+    "grade": 10,
+    "chapter": 2,
+    "topic": "یاختهٔ کناری غدهٔ معده",
+    "difficulty": "unknown",
+    "stem": "در غدة معدة انسان ،یاختههایی وجود دارد که بخشی از غشای سیتوپلاسمی آنها به سمت داخل چینخوردگی دائمی دارد.\nکدام مورد دربارة این یاختهها ،صادق نیست؟",
+    "options": [
+      "در لابهلای یاختههای پوششی سطحی قرار گرفتهاند.",
+      "در مجاورت هستة گرد آنها ،تعدادی راکیزه )میتوکندری( وجود دارد.",
+      "میتوانند بر میزان ترشح مولکولی که پیامی را منتقل میکند ،تأثیرگذار باشد.",
+      "میتوانند با تأثیر بر پیوندهای شیمیایی نوعی بسپار ،میزان فعالیت آن را تغییر دهند."
+    ],
+    "answer": 0,
+    "explanation": "یاختهٔ کناریِ ترشح‌کنندهٔ اسید در دیوارهٔ غدهٔ معده قرار دارد؛ عبارت قرارگرفتن آن در لابه‌لای یاخته‌های پوششی سطحی درست نیست.",
+    "optionExplanations": [
+      "یاختهٔ کناریِ ترشح‌کنندهٔ اسید در دیوارهٔ غدهٔ معده قرار دارد؛ عبارت قرارگرفتن آن در لابه‌لای یاخته‌های پوششی سطحی درست نیست.",
+      "ترشح اسید به انرژی نیاز دارد و یاختهٔ کناری دارای راکیزه‌های فراوان است؛ وجود آن‌ها نزدیک هسته با ساختار این یاخته سازگار است.",
+      "تغییر اسیدیتهٔ محتویات معده بر تنظیم ترشح گاسترین اثر می‌گذارد؛ بنابراین ترشح یاختهٔ کناری می‌تواند بر مقدار پیک شیمیایی اثر بگذارد.",
+      "اسید معده به فعال‌شدن پپسینوژن و تغییر ساختار پروتئین‌ها کمک می‌کند؛ پس اثرگذاری بر پیوندها و فعالیت یک بسپار پروتئینی برای ترشح این یاخته قابل بیان است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 4، سؤال 13"
+    },
+    "tags": [
+      "یاختهٔ کناری غدهٔ معده"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0013.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 13,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 4,
+      "localQuestionNumber": 13,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0015",
+    "grade": 12,
+    "chapter": 3,
+    "topic": "وراثت رنگ چشم مگس سرکه",
+    "difficulty": "unknown",
+    "stem": "در مگس سرکه ،دگره )الل( رنگ چشم بر روی فامتن )کروموزوم( xقرار دارد و دگرة Rو rبهترتیب مربوط به رنگ قرمز و\nسفید چشم و بین آنها رابطة بارز و نهفتگی برقرار است .فرض کنید که دو مگس سرکه با ژننمود )ژنوتیپ( xR yو xRxr\nبا یکدیگر لقاح نمایند و در فرزندان این خانواده ،تمام ژننمودهای ممکن ظاهر شوند )نسل اول( .درصورتیکه هر مگس مذکر\nنسل اول بتواند با هر مگس مؤنث این نسل لقاح پیدا کند تا زادههای دیگری متولد شوند )نسل دوم( ،با درنظر گرفتن همة\nحالات ممکن ،تولد کدام مگس سرکه در نسل دوم در هر حالت محتمل است؟",
+    "options": [
+      "XʳY",
+      "XᴿY",
+      "XᴿXʳ",
+      "XᴿXᴿ"
+    ],
+    "answer": 1,
+    "explanation": "هر دو نوع مادهٔ نسل اول دست‌کم یک Xᴿ دارند و هر نر Y می‌دهد؛ بنابراین پسر XᴿY در هر چهار ترکیب والدین نسل اول ممکن است.",
+    "optionExplanations": [
+      "اگر مادهٔ نسل اول XᴿXᴿ باشد، هیچ پسر سفیدچشم XʳY تولید نمی‌کند؛ پس این ژن‌نمود در همهٔ تلاقی‌ها ممکن نیست.",
+      "هر دو نوع مادهٔ نسل اول دست‌کم یک Xᴿ دارند و هر نر Y می‌دهد؛ بنابراین پسر XᴿY در هر چهار ترکیب والدین نسل اول ممکن است.",
+      "از تلاقی نر XᴿY با مادهٔ XᴿXᴿ دختر XᴿXʳ به دست نمی‌آید؛ پس این ژن‌نمود در همهٔ حالات ممکن نیست.",
+      "از تلاقی نر XʳY با مادهٔ XᴿXᴿ، دختران XᴿXʳ خواهند بود؛ در این حالت دختر XᴿXᴿ به وجود نمی‌آید."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 4، سؤال 15"
+    },
+    "tags": [
+      "وراثت رنگ چشم مگس سرکه"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0015.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 15,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 4,
+      "localQuestionNumber": 15,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0016",
+    "grade": 10,
+    "chapter": 3,
+    "topic": "هوای فضای مرده و حجم‌های تنفسی",
+    "difficulty": "unknown",
+    "stem": "بهطور معمول ،درخصوص نخستین هوایی که به هنگام بازدم عمیق یک فرد خارج میشود ،چند مورد زیر درست است؟\nالف :غنی از اکسیژن است.\nب :بخشی از نوعی حجم تنفسی است که مقدار آن ،در دوران حیات یک فرد کاملاً سالم ،دستخوش تغییر میشود.\nج :جزئی از هوایی است که جهت محاسبة حجم تنفسی در دقیقه استفاده میشود.\nد :همان هوایی است که ششها میتوانند بیشتر از ظرفیت حیاتی ،در خود جای دهند.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "الف، ب و ج درست‌اند: هوای مجاری هادی در محاسبهٔ حجم هوای جابه‌جاشده منظور می‌شود و با رشد بدن حجم‌ها تغییر می‌کنند. د نادرست است؛ هوای بیشتر از ظرفیت حیاتی، حجم باقی‌مانده است و نخستین هوای خارج‌شده نیست.",
+    "optionExplanations": [
+      "نخستین هوای بازدم از مجاری هادی خارج می‌شود و در تبادل گاز حبابکی شرکت نکرده است؛ الف درست، اما تنها مورد درست نیست.",
+      "الف و ب درست‌اند: هوای مجاری هادی اکسیژن بیشتری دارد و حجم‌های تنفسی با ویژگی‌های بدن و سن تغییر می‌کنند؛ ج نیز درست است و شمار به دو محدود نمی‌شود.",
+      "الف، ب و ج درست‌اند: هوای مجاری هادی در محاسبهٔ حجم هوای جابه‌جاشده منظور می‌شود و با رشد بدن حجم‌ها تغییر می‌کنند. د نادرست است؛ هوای بیشتر از ظرفیت حیاتی، حجم باقی‌مانده است و نخستین هوای خارج‌شده نیست.",
+      "چهار مورد درست نیست؛ د هوای باقی‌مانده پس از بازدم عمیق را توصیف می‌کند که با نخستین هوای بازدم فرق دارد."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 4، سؤال 16"
+    },
+    "tags": [
+      "هوای فضای مرده و حجم‌های تنفسی"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0016.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 16,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 4,
+      "localQuestionNumber": 16,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0017",
+    "grade": 12,
+    "chapter": 2,
+    "topic": "پردازش رنا و همانندسازی دنا",
+    "difficulty": "unknown",
+    "stem": "مطابق با اطلاعات کتاب درسی ،کدام مورد نادرست است؟",
+    "options": [
+      "رنای گونرا می تواند در حین یا پس از رونویسی ،دستخوش تغییرات دیگری غیر از پیرایش شود.",
+      "درصورت جفت شدن باز پورین با پورین در دنای ریزوبیوم ،ضخامت دنا در این بخش بیشتر میشود.",
+      "به هنگام رونویسی ،راهانداز مشخص میکند که کدام رشته از دنای آزولا بهعنوان الگو استفاده شود.",
+      "در پی تغییرات ساختاری رنای ناقل پس از رونویسی ،در نهایت همة حلقههای آن با فاصله یکسانی از یکدیگر قرار میگیرند."
+    ],
+    "answer": 3,
+    "explanation": "رنای ناقل پس از تاخوردگی سه‌بعدی، حلقه‌هایی با فاصلهٔ یکسان ندارد؛ نمایش شبدرمانند دوبعدی را نباید به فاصله‌های برابر در ساختار واقعی تعبیر کرد.",
+    "optionExplanations": [
+      "گونرا یوکاریوت است و رنای آن می‌تواند افزون بر پیرایش، تغییرات دیگری مانند تغییر دو سر رنای پیک داشته باشد؛ این گزینه درست است.",
+      "دو باز پورینی نسبت به یک جفت پورین–پیریمیدین فضای بیشتری می‌گیرند؛ جفت‌شدن نادرست آن‌ها ضخامت موضعی دنا را افزایش می‌دهد.",
+      "آرایش راه‌انداز و اتصال رنابسپاراز جهت رونویسی و رشتهٔ الگو را تعیین می‌کند؛ این موضوع برای دنای آزولا نیز صادق است.",
+      "رنای ناقل پس از تاخوردگی سه‌بعدی، حلقه‌هایی با فاصلهٔ یکسان ندارد؛ نمایش شبدرمانند دوبعدی را نباید به فاصله‌های برابر در ساختار واقعی تعبیر کرد."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 4، سؤال 17"
+    },
+    "tags": [
+      "پردازش رنا و همانندسازی دنا"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0017.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 17,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 4,
+      "localQuestionNumber": 17,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0018",
+    "grade": 10,
+    "chapter": 4,
+    "topic": "نوار قلب و تأخیر گره دهلیزی–بطنی",
+    "difficulty": "unknown",
+    "stem": "با توجه به نوار قلب یک فرد سالم، کدام مورد برای تکمیل عبارت زیر مناسب است؟\n«AB در منحنی زیر، معرف فاصلهٔ زمانی است تا پیام الکتریکی از .................... .»",
+    "options": [
+      "گره پیشاهنگ به گره دهلیزی–بطنی هدایت شود",
+      "گره دهلیزی–بطنی (با تأخیر) به بخشی از بطن‌ها فرستاده شود",
+      "طریق شبکهٔ هادی به همهٔ یاخته‌های حفرات بزرگ قلب انتقال یابد",
+      "طریق دو مسیر چپ و راستِ بافتی منحصراً پیوندی، به نوک قلب برسد"
+    ],
+    "answer": 1,
+    "explanation": "بازهٔ AB بین پایان موج P و شروع مجموعهٔ QRS قرار دارد؛ این بازه با تأخیر در ناحیهٔ گره دهلیزی–بطنی پیش از شروع تحریک بطن‌ها مرتبط است.",
+    "optionExplanations": [
+      "انتشار تحریک از گره پیشاهنگ در دهلیزها با موج P ارتباط دارد؛ بازهٔ علامت‌خورده پس از این موج است.",
+      "بازهٔ AB بین پایان موج P و شروع مجموعهٔ QRS قرار دارد؛ این بازه با تأخیر در ناحیهٔ گره دهلیزی–بطنی پیش از شروع تحریک بطن‌ها مرتبط است.",
+      "انتقال تحریک به همهٔ یاخته‌های بطن با مجموعهٔ QRS ارتباط دارد؛ AB پیش از آغاز این مجموعه مشخص شده است.",
+      "شبکهٔ هادی از یاخته‌های ماهیچه‌ای تخصص‌یافته ساخته شده است؛ وصف «منحصراً پیوندی» نادرست است و این مسیر را توضیح نمی‌دهد."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 4، سؤال 18"
+    },
+    "tags": [
+      "نوار قلب و تأخیر گره دهلیزی–بطنی"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0018.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 18,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 4,
+      "localQuestionNumber": 18,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0019",
+    "grade": 11,
+    "chapter": 4,
+    "topic": "هورمون‌های تیروئید",
+    "difficulty": "unknown",
+    "stem": "چند مورد دربارة یک کودک شیرخوار درست است؟\nالف :با ترشح مستمر هورمون محرک تیروئید ،اندازة غدة سپردیس کوچک میشود.\nب :تحتتأثیر هورمونهای یددار تیروئیدی ،اثر هورمون رشد بر استخوانها تقویت میشود.\nج :ترشح هورمون محرک غدة سپردیس )تیروئید( ،تحتتأثیر گرمای زیاد محیط افزایش مییابد.\nد :با افزایش غیرطبیعی و مستمر هورمونهای T3و ، T4میزان مادة نیتروژندار ادرار زیاد میشود.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "ب و د درست‌اند. هورمون‌های تیروئیدی رشد را پشتیبانی می‌کنند و افزایش بیش‌ازحد آن‌ها سوخت‌وساز و تجزیهٔ پروتئین را بالا می‌برد. تحریک مداوم TSH غده را کوچک نمی‌کند و گرمای محیط محرک افزایش ترشح آن نیست.",
+    "optionExplanations": [
+      "تنها یک مورد درست نیست؛ ب دربارهٔ تقویت اثر هورمون رشد و د دربارهٔ افزایش دفع مواد نیتروژن‌دار در پرکاری تیروئید درست‌اند.",
+      "ب و د درست‌اند. هورمون‌های تیروئیدی رشد را پشتیبانی می‌کنند و افزایش بیش‌ازحد آن‌ها سوخت‌وساز و تجزیهٔ پروتئین را بالا می‌برد. تحریک مداوم TSH غده را کوچک نمی‌کند و گرمای محیط محرک افزایش ترشح آن نیست.",
+      "سه مورد درست نیست؛ الف کوچک‌شدن غده در اثر تحریک مستمر و ج افزایش تحریک در گرما را به‌اشتباه بیان کرده‌اند.",
+      "الف و ج نادرست‌اند؛ بنابراین نمی‌توان هر چهار مورد را درست شمرد."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 4، سؤال 19"
+    },
+    "tags": [
+      "هورمون‌های تیروئید"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0019.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 19,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 4,
+      "localQuestionNumber": 19,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0020",
+    "grade": 12,
+    "chapter": 3,
+    "topic": "وراثت Rh و گردش خون جفت",
+    "difficulty": "unknown",
+    "stem": "خانم جوانی را درنظر بگیرید که در ماه آخر بارداری قرار دارد .در منطقة جفت ،گویچة قرمزی یافت شده که دارای پروتئین D\nاست .بهطور معمول کدام مورد را میتوان بیان نمود؟",
+    "options": [
+      "ممکن است گویچههای قرمز درون باریکترین رگهای بندناف ،فاقد پروتئین Dباشند.",
+      "بهطور حتم گویچههای قرمز درون سرخرگهای زوائد انگشتی ،دارای پروتئین Dهستند.",
+      "بهطور حتم در غشای گویچههای قرمز پدر ،پروتئین Dوجود دارد.",
+      "ممکن است گویچههای قرمز بالغ جنین ،دارای دگره )الل( dباشند."
+    ],
+    "answer": 0,
+    "explanation": "گویچهٔ دارای D می‌تواند متعلق به مادر Rh مثبت باشد، درحالی‌که جنین Rh منفی است؛ پس گویچه‌های رگ‌های بندناف ممکن است D نداشته باشند.",
+    "optionExplanations": [
+      "گویچهٔ دارای D می‌تواند متعلق به مادر Rh مثبت باشد، درحالی‌که جنین Rh منفی است؛ پس گویچه‌های رگ‌های بندناف ممکن است D نداشته باشند.",
+      "وجود یک گویچهٔ دارای D در ناحیهٔ جفت مشخص نمی‌کند که آن گویچه مادری است یا جنینی؛ Rh مثبت‌بودن همهٔ گویچه‌های جنینی قطعی نیست.",
+      "مادر می‌تواند D داشته باشد و پدر Rh منفی باشد؛ بنابراین وجود D روی گویچهٔ مشاهده‌شده، مثبت‌بودن پدر را ثابت نمی‌کند.",
+      "گویچهٔ قرمز بالغ انسان هسته ندارد و حامل دگرهٔ ژنی d نیست؛ داشتن یا نداشتن پروتئین غشایی را نباید با وجود ژن در این یاخته یکی دانست."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 5، سؤال 20"
+    },
+    "tags": [
+      "وراثت Rh و گردش خون جفت"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0020.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 20,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 5,
+      "localQuestionNumber": 20,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0021",
+    "grade": 12,
+    "chapter": 4,
+    "topic": "انتخاب طبیعی و گونه‌زایی",
+    "difficulty": "unknown",
+    "stem": "مطابق با اطلاعات کتاب درسی ،دانشمندان بر روی عاملی که به رفتارها )مثل رفتار پرندة کاکایی در خارج کردن پوستههای\nتخم از لانه( شکل میدهد ،پژوهش میکنند .کدام مورد دربارة این عامل صحیح است؟",
+    "options": [
+      "میتواند به عنوان تنها عامل تغییردهندة تصادفی فراوانی دگره )الل(های جمعیت مطرح شود.",
+      "میتواند دگره )الل(های نامطلوب مغلوب را به سرعت از هر جمعیت حذف نماید.",
+      "میتواند به جدایی تولیدمثلی افراد یک جمعیت کمک نماید.",
+      "میتواند دگره )الل(های جدیدی را در جمعیت خلق کند."
+    ],
+    "answer": 2,
+    "explanation": "انتخاب متفاوت در محیط‌ها می‌تواند واگرایی جمعیت‌ها و در نهایت جدایی تولیدمثلی را تقویت کند؛ این گزینه درست است.",
+    "optionExplanations": [
+      "انتخاب طبیعی بر تفاوت بقا و تولیدمثل مبتنی است و عامل تصادفی تغییر فراوانی دگره‌ها نیست؛ این وصف بیشتر با رانش ژنی ارتباط دارد.",
+      "دگرهٔ مغلوب زیان‌بار می‌تواند در افراد ناخالص پنهان بماند؛ حذف سریع آن از هر جمعیت نتیجهٔ الزامی انتخاب طبیعی نیست.",
+      "انتخاب متفاوت در محیط‌ها می‌تواند واگرایی جمعیت‌ها و در نهایت جدایی تولیدمثلی را تقویت کند؛ این گزینه درست است.",
+      "انتخاب طبیعی بر تنوع موجود عمل می‌کند؛ ایجاد دگرهٔ تازه حاصل جهش است و به انتخاب طبیعی نسبت داده نمی‌شود."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 5، سؤال 21"
+    },
+    "tags": [
+      "انتخاب طبیعی و گونه‌زایی"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0021.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 21,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 5,
+      "localQuestionNumber": 21,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0026",
+    "grade": 12,
+    "chapter": 7,
+    "topic": "مهندسی ژنتیک و فراوردهٔ درمانی",
+    "difficulty": "unknown",
+    "stem": "در ارتباط با مهندسی ژنتیک ،کدام مورد صحیح است؟",
+    "options": [
+      "تولید نسخههای متعدد همة ژنهای نوترکیب ،در محیط کشتی با دمای یکسان صورت میگیرد.",
+      "جهت جداسازی یاختههای تراژنی ،استفاده از دیسک دارای ژن مقاومت به پادزیست الزامی است.",
+      "با ایجاد جهش در توالی دنای خارجی ،میتوان محصولی پایدار به منظور اهداف درمانی ساخت.",
+      "دنای نوترکیب همواره پس از استخراج از یاختة یک میزبان ،به میزبان دیگری منتقل میشود."
+    ],
+    "answer": 2,
+    "explanation": "تغییر هدفمند توالی ژن می‌تواند ویژگی پروتئین ساخته‌شده، از جمله پایداری آن را تغییر دهد؛ تولید فراوردهٔ درمانی پایدار از این راه ممکن است.",
+    "optionExplanations": [
+      "تکثیر دنا می‌تواند به روش‌های متفاوت انجام شود؛ PCR نیز چرخه‌های دمایی دارد. قید «همه» و الزام محیط کشت با دمای یکسان درست نیست.",
+      "ژن مقاومت به پادزیست یکی از نشانگرهای قابل استفاده است؛ وجود دیسک دارای این نشانگر تنها راه ممکن جداسازی یاخته‌های تراژنی نیست.",
+      "تغییر هدفمند توالی ژن می‌تواند ویژگی پروتئین ساخته‌شده، از جمله پایداری آن را تغییر دهد؛ تولید فراوردهٔ درمانی پایدار از این راه ممکن است.",
+      "دنای نوترکیب می‌تواند در بیرون یاخته ساخته و سپس وارد میزبان شود؛ پیش از هر انتقال، الزاماً از میزبان دیگری استخراج نشده است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 6، سؤال 26"
+    },
+    "tags": [
+      "مهندسی ژنتیک و فراوردهٔ درمانی"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0026.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 26,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 6,
+      "localQuestionNumber": 26,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0028",
+    "grade": 11,
+    "chapter": 7,
+    "topic": "توان تمایز و بافت‌های خارج‌جنینی",
+    "difficulty": "unknown",
+    "stem": "کدام مورد نمیتواند به یاختههای خارج جنینی متمایز شود؟",
+    "options": [
+      "یاختههای ترشحکنندة آنزیم تخریبکنندة یاختههای لایة داخلی دیوارة رحم",
+      "گروهی از یاختههای رهاشده از درون پوشش لقاحی",
+      "یاختههای بنیادی موجود در مغز استخوان جنین",
+      "لایة بیرونی بلاستوسیست"
+    ],
+    "answer": 2,
+    "explanation": "یاخته‌های بنیادی مغز استخوان دامنهٔ تمایز محدودتری از یاخته‌های آغازین رویان دارند و بافت‌های خارج‌جنینی را ایجاد نمی‌کنند؛ این گزینه پاسخ است.",
+    "optionExplanations": [
+      "یاخته‌های تروفوبلاست با ترشح آنزیم به لانه‌گزینی کمک می‌کنند و در تشکیل بخش‌های خارج‌جنینی نیز نقش دارند؛ این مورد ممنوع نیست.",
+      "پس از خروج بلاستوسیست از پوشش، در مجموعهٔ یاخته‌های آن تروفوبلاست هم حضور دارد؛ گروهی از این یاخته‌ها قابلیت تشکیل بافت خارج‌جنینی دارند.",
+      "یاخته‌های بنیادی مغز استخوان دامنهٔ تمایز محدودتری از یاخته‌های آغازین رویان دارند و بافت‌های خارج‌جنینی را ایجاد نمی‌کنند؛ این گزینه پاسخ است.",
+      "لایهٔ بیرونی بلاستوسیست همان تروفوبلاست است و در تشکیل پرده و اجزای خارج‌جنینی شرکت می‌کند."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 6، سؤال 28"
+    },
+    "tags": [
+      "توان تمایز و بافت‌های خارج‌جنینی"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0028.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 28,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 6,
+      "localQuestionNumber": 28,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0029",
+    "grade": 12,
+    "chapter": 5,
+    "topic": "شیب پروتون و ساخت ATP",
+    "difficulty": "unknown",
+    "stem": "ترکیباتی وجود دارند که پروتونهای موجود در فضای بین دو غشای راکیزه )میتوکندری( را از غشای داخلی آن عبور میدهند و\nشیب پروتون را به هم میریزند .درصورت استفاده از این ترکیبات در یک زنجیرة انتقال الکترون فعال و طبیعی ،کدام مورد قبل از\nسایرین در ارتباط با این زنجیره متوقف میشود؟",
+    "options": [
+      "تولید H2Oدر غشای خارجی راکیزه",
+      "تولید NAD⁺",
+      "مصرف FADH₂",
+      "مصرف ADP"
+    ],
+    "answer": 3,
+    "explanation": "مصرف ADP برای ساخت ATP توسط ATPساز به شیب پروتون وابسته است؛ پخش‌شدن پروتون‌ها این اتصال را از کار می‌اندازد، درحالی‌که انتقال الکترون می‌تواند ادامه یابد.",
+    "optionExplanations": [
+      "تشکیل آب در زنجیرهٔ تنفسی در سمت غشای درونی انجام می‌شود؛ فرایندی به نام تولید آب در غشای خارجی در این زنجیره وجود ندارد که نخست متوقف شود.",
+      "با ازبین‌رفتن شیب پروتون، انتقال الکترون و اکسایش NADH الزاماً متوقف نمی‌شود؛ بنابراین تولید NAD⁺ می‌تواند ادامه یابد.",
+      "الکترون‌دهی FADH₂ به زنجیره نیز می‌تواند با وجود ازبین‌رفتن شیب ادامه پیدا کند؛ توقف مستقیمِ وابسته به شیب در ساخت ATP است.",
+      "مصرف ADP برای ساخت ATP توسط ATPساز به شیب پروتون وابسته است؛ پخش‌شدن پروتون‌ها این اتصال را از کار می‌اندازد، درحالی‌که انتقال الکترون می‌تواند ادامه یابد."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 6، سؤال 29"
+    },
+    "tags": [
+      "شیب پروتون و ساخت ATP"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0029.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 29,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 6,
+      "localQuestionNumber": 29,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0030",
+    "grade": 10,
+    "chapter": 3,
+    "topic": "دستگاه‌های بدن ملخ",
+    "difficulty": "unknown",
+    "stem": "در کتاب درسی ،به حشرة گیاهخواری اشاره شده است که با استفاده از آروارهها ،مواد غذایی را خرد و به دهان منتقل و در\nبخشی حجیم از لوله گوارش خود ،بهطور موقت ذخیره و نرم میکند .کدام مورد را نمیتوان دربارة این حشره بیان نمود؟",
+    "options": [
+      "یاختههای دیوارة راستروده نسبت به سایر یاختههای روده ،طولهای متفاوتی دارند.",
+      "محتویات غدد بزاقی از طریق یک مجرای واحد به محیط بیرون بدن ریخته میشود.",
+      "تبادلات گازی از طریق منافذ موجود در پشت جانور ممکن میشود.",
+      "رشتههای عصبی از مغز به سمت شاخکها کشیده شده است."
+    ],
+    "answer": 2,
+    "explanation": "منافذ تنفسی ملخ در پهلوهای بدن قرار دارند، نه سطح پشتی آن؛ بنابراین این عبارت نادرست است.",
+    "optionExplanations": [
+      "در راسترودهٔ ملخ، بخش‌های تخصص‌یافته در بازجذب آب و یون وجود دارند و پوشش این بخش‌ها با پوشش سادهٔ دیگر بخش‌های روده یکسان نیست؛ این گزینه با شکل کتاب سازگار است.",
+      "مجاری غدد بزاقی به مسیر خروجی مشترکی می‌پیوندند و ترشح به دهان، یعنی فضای مرتبط با بیرون بدن، وارد می‌شود؛ این توصیف درست است.",
+      "منافذ تنفسی ملخ در پهلوهای بدن قرار دارند، نه سطح پشتی آن؛ بنابراین این عبارت نادرست است.",
+      "از مغز ملخ رشته‌های عصبی به ساختارهای حسی سر از جمله شاخک‌ها می‌روند؛ این مورد با دستگاه عصبی آن سازگار است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 6، سؤال 30"
+    },
+    "tags": [
+      "دستگاه‌های بدن ملخ"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0030.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 30,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 6,
+      "localQuestionNumber": 30,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0031",
+    "grade": 12,
+    "chapter": 2,
+    "topic": "رمزهٔ آغاز و پایان ترجمه",
+    "difficulty": "unknown",
+    "stem": "در زیر بخشهایی از مولکول دنا )رشته الگو( نشان داده شده است .با فرض اینکه رونویسی از چپ به راست و از محل صحیح\nخود آغاز شود ،به منظور تولید رشتة پپتیدی در کدام مورد زیر ،بیشترین انرژی زیستی به مصرف خواهد رسید؟",
+    "options": [
+      "A G G T A C T T C G C A A T C T T C",
+      "A A A A C G T A C T T T A C T C C G",
+      "A T T T A C T A C A T C C C G A T G",
+      "T A G T T C T A C A T T C G C A T A"
+    ],
+    "answer": 0,
+    "explanation": "رونویسی این الگو رنای UCC AUG AAG CGU UAG AAG می‌دهد؛ از نخستین AUG تا UAG سه آمینواسید ساخته می‌شود و در میان گزینه‌ها بیشترین انرژی ترجمه را نیاز دارد.",
+    "optionExplanations": [
+      "رونویسی این الگو رنای UCC AUG AAG CGU UAG AAG می‌دهد؛ از نخستین AUG تا UAG سه آمینواسید ساخته می‌شود و در میان گزینه‌ها بیشترین انرژی ترجمه را نیاز دارد.",
+      "رنای حاصل UUU UGC AUG AAA UGA GGC است؛ پس از AUG فقط یک رمزهٔ آمینواسید دیگر پیش از UGA قرار دارد و پپتید دوآمینواسیدی است.",
+      "رنای حاصل UAA AUG AUG UAG GGC UAC است؛ نخستین رمز پایانِ پیش از آغاز ترجمه شمرده نمی‌شود، ولی از AUG تا UAG فقط دو آمینواسید ساخته می‌شود.",
+      "رنای حاصل AUC AAG AUG UAA GCG UAU است؛ بلافاصله پس از AUG رمز پایان قرار دارد و تنها آمینواسید آغازین وارد پپتید می‌شود."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 6، سؤال 31"
+    },
+    "tags": [
+      "رمزهٔ آغاز و پایان ترجمه"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0031.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 31,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 6,
+      "localQuestionNumber": 31,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0032",
+    "grade": 10,
+    "chapter": 4,
+    "topic": "گردش خون آبشش ماهی",
+    "difficulty": "unknown",
+    "stem": "مطابق با شکل زیر ،کدام مورد درست است؟",
+    "options": [
+      "بخش Cبرخلاف بخش ،Dنوعی سرخرگ است.",
+      "بخش Aنسبت به بخش ،Bدارای اکسیژن بیشتری است.",
+      "بخش Aهمانند بخش ،Bاز مویرگهای عمومی بدن است.",
+      "بخش Cنسبت به بخش ،Dخونی دارد که به خون درون بطن شبیهتر است."
+    ],
+    "answer": 3,
+    "explanation": "خون واردشونده از C مانند خون بطن ماهی کم‌اکسیژن است؛ خون D پس از تبادل گاز اکسیژن بیشتری دارد، پس خون C به خون بطن شبیه‌تر است.",
+    "optionExplanations": [
+      "C مسیر ورود خون کم‌اکسیژن و D مسیر خروج خون از آبشش است؛ در گردش یک‌گانهٔ ماهی، هر دو مسیر به دستگاه سرخرگی تعلق دارند و «برخلاف» درست نیست.",
+      "A بخش کم‌اکسیژن‌تر مویرگ‌های آبششی و B بخش پر‌اکسیژن‌تر آن‌هاست؛ مقایسهٔ مقدار اکسیژن در گزینه وارونه است.",
+      "A و B مویرگ‌های تنفسی آبشش‌اند و نباید آن‌ها را مویرگ‌های عمومی اندام‌های بدن نامید.",
+      "خون واردشونده از C مانند خون بطن ماهی کم‌اکسیژن است؛ خون D پس از تبادل گاز اکسیژن بیشتری دارد، پس خون C به خون بطن شبیه‌تر است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 6، سؤال 32"
+    },
+    "tags": [
+      "گردش خون آبشش ماهی"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0032.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 32,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 6,
+      "localQuestionNumber": 32,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0033",
+    "grade": 11,
+    "chapter": 7,
+    "topic": "بکرزایی در جانوران",
+    "difficulty": "unknown",
+    "stem": "با توجه به انواع روشهای تولیدمثلی در زنبورعسل و بعضی مارها ،کدام مورد نادرست است؟",
+    "options": [
+      "بعضی از یاختههای جنسی ،میتوانند با نوعی تقسیم کاهشی ایجاد شوند.",
+      "یاختة پیکری هر زادة پُریاخته ،از نظر ژننمود )ژنوتیپ( هر صفت ،با یاختة مادر تفاوت دارد.",
+      "بعضی از یاختههای جنسی ،پس از تشکیل میتوانند مراحل مختلف چرخة یاختهای را طی کنند.",
+      "به وجود آمدن هر زادة پُریاخته ،وابسته به یاختهای است که نیمی از تعداد فامتن )کروموزوم(های یاختة جانور ماده\nرا دریافت کرده است."
+    ],
+    "answer": 1,
+    "explanation": "تفاوت در ژن‌نمودِ هر صفت الزامی نیست؛ در جایگاهی که مادر خالص است، زاده نیز می‌تواند همان دگره را داشته باشد و در بکرزاییِ دیپلوئید ژن‌نمود آن صفت حفظ شود.",
+    "optionExplanations": [
+      "در جانوران موردنظر، تخمک می‌تواند از میوز حاصل شود؛ بکرزایی به معنی حذف همیشگی میوز از ساخته‌شدن گامت نیست.",
+      "تفاوت در ژن‌نمودِ هر صفت الزامی نیست؛ در جایگاهی که مادر خالص است، زاده نیز می‌تواند همان دگره را داشته باشد و در بکرزاییِ دیپلوئید ژن‌نمود آن صفت حفظ شود.",
+      "تخمک لقاح‌نیافته می‌تواند رشد رویانی را با چرخه‌ها و تقسیم‌های یاخته‌ای آغاز کند؛ گامتِ ساخته‌شده الزاماً بدون فعالیت چرخه‌ای نمی‌ماند.",
+      "در این نمونه‌ها آغاز رشد به تخمک وابسته است؛ این تخمک در میوز نیمی از فام‌تن‌های یاختهٔ دیپلوئید جانور ماده را دریافت کرده است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 7، سؤال 33"
+    },
+    "tags": [
+      "بکرزایی در جانوران"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0033.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 33,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 7,
+      "localQuestionNumber": 33,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0035",
+    "grade": 12,
+    "chapter": 6,
+    "topic": "گیاهان CAM و اندامک‌های انرژی‌ساز",
+    "difficulty": "unknown",
+    "stem": "در یاختة نوعی از گیاهان ،ترکیبی وجود دارد که CO 2را برای مرحلة دوم تثبیت کربن تأمین میکند .این ترکیب لازم است\nمدتی در گیاه ذخیره شود تا در زمان مناسب در همان یاخته به مصرف برسد .بهطور معمول ،کدام مورد فقط درخصوصِ یک\nنوع از اندامکهای دوغشایی )دارای زنجیرة انتقال الکترون( این یاختة گیاه درست است؟",
+    "options": [
+      "هنگام روز ،نوعی ترکیب نوکلئوتیدی در آنها اکسایش مییابد.",
+      "هنگام بسته بودن روزنهها ،در آنها مولکول ششکربنی ساخته میشود.",
+      "هنگام شب ،در آنها آنزیمی با دو عمل کربوکسیلازی و اکسیژنازی فعال است.",
+      "هنگام باز بودن روزنهها ،همزمان با تولید مولکول چهارکربنی CO2 ،آزاد میشود."
+    ],
+    "answer": 3,
+    "explanation": "در شب که روزنه‌های CAM بازند، چرخهٔ کربس راکیزه می‌تواند هم‌زمان با تبدیل ترکیب پنج‌کربنی به چهارکربنی CO₂ آزاد کند؛ این توصیف برای راکیزه درست است.",
+    "optionExplanations": [
+      "روزها در راکیزه NADH و در سبزدیسه طی چرخهٔ کالوین NADPH اکسایش می‌یابد؛ بنابراین اکسایش ترکیب نوکلئوتیدی منحصر به یکی از دو اندامک نیست.",
+      "هنگام بسته‌بودن روزنه‌های گیاه CAM در روز، هم چرخهٔ کالوین و هم چرخهٔ کربس می‌توانند ترکیب شش‌کربنی بسازند؛ این وصف تنها یکی از آن‌ها نیست.",
+      "فعالیت روبیسکو با دو عمل کربوکسیلازی و اکسیژنازی به سبزدیسه مربوط است، اما نسبت‌دادن فعالیت مرحلهٔ دوم تثبیت کربنِ این گیاه به شب با تفکیک زمانی CAM سازگار نیست.",
+      "در شب که روزنه‌های CAM بازند، چرخهٔ کربس راکیزه می‌تواند هم‌زمان با تبدیل ترکیب پنج‌کربنی به چهارکربنی CO₂ آزاد کند؛ این توصیف برای راکیزه درست است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 7، سؤال 35"
+    },
+    "tags": [
+      "گیاهان CAM و اندامک‌های انرژی‌ساز"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0035.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 35,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 7,
+      "localQuestionNumber": 35,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0037",
+    "grade": 12,
+    "chapter": 1,
+    "topic": "اشباع آنزیم با پیش‌ماده",
+    "difficulty": "unknown",
+    "stem": "نمودار تغییرات سرعت واکنش نسبت به غلظت پیشماده با فرض ثابت بودن مقدار آنزیم ،بهصورت زیر نشان داده شده است.\nدر ارتباط با این نمودار ،کدام مورد را میتوان بهطور حتم بیان نمود؟",
+    "options": [
+      "در نقطه ،cآنزیمها در pHو دمای بهینه قرار دارند.",
+      "در نقطه ،aهیچ آنزیمی هنوز به مرحلة تولید فراورده نرسیده است.",
+      "در نقطه aنسبت به نقطه ،bمیزان تولید فراورده در واحد زمان ثابت است.",
+      "در نقطه ،dتمامی جایگاههای فعال آنزیمها با پیشماده اشغال شده است."
+    ],
+    "answer": 3,
+    "explanation": "در بخش تخت نمودار مانند d، آنزیم از پیش‌ماده اشباع است و افزایش پیش‌ماده سرعت را بیشتر نمی‌کند؛ در مدل کتاب جایگاه‌های فعال اشغال شده‌اند.",
+    "optionExplanations": [
+      "نمودار وابستگی سرعت به غلظت پیش‌ماده را نشان می‌دهد؛ از آن نمی‌توان بهینه‌بودن دما و pH را نتیجه گرفت.",
+      "در نقطهٔ a سرعت واکنش مثبت است؛ بنابراین تولید فراورده از پیش آغاز شده و عبارت «هیچ آنزیمی» درست نیست.",
+      "سرعت در b از a بیشتر است؛ پس تولید فراورده در واحد زمان بین این دو نقطه ثابت نیست.",
+      "در بخش تخت نمودار مانند d، آنزیم از پیش‌ماده اشباع است و افزایش پیش‌ماده سرعت را بیشتر نمی‌کند؛ در مدل کتاب جایگاه‌های فعال اشغال شده‌اند."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 7، سؤال 37"
+    },
+    "tags": [
+      "اشباع آنزیم با پیش‌ماده"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0037.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 37,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 7,
+      "localQuestionNumber": 37,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0038",
+    "grade": 11,
+    "chapter": 3,
+    "topic": "انقباض سارکومر و انرژی ماهیچه",
+    "difficulty": "unknown",
+    "stem": "کدام عبارت در ارتباط با ماهیچة ذوزنقهای انسان نادرست است؟",
+    "options": [
+      "برای کوتاه شدن هر سارکومر لازم است ،سرهای میوزین به هر بخشی از آن که به رنگ روشن دیده میشود ،نفوذ کند.",
+      "به هنگام کوتاه شدن هر واحد تکراری در تارچه ،بعضی سرهای میوزین آزاد هستند و بعضی به مولکول اکتین اتصال دارند.",
+      "برای شروع انقباض هر یاخته ماهیچهای لازم است ،انواعی از یونها به مادة زمینة سیتوپلاسم آن وارد شوند.",
+      "هنگام انقباض هر تار ماهیچهای ،کراتین میتواند آزاد شود."
+    ],
+    "answer": 0,
+    "explanation": "کوتاه‌شدن سارکومر به معنی نفوذ سرهای میوزین به هر بخش روشن نیست؛ ناحیهٔ روشن مرکزی با بخش‌های روشن حاوی اکتین یکسان نیست و نوار I نیز الزاماً تماماً حذف نمی‌شود.",
+    "optionExplanations": [
+      "کوتاه‌شدن سارکومر به معنی نفوذ سرهای میوزین به هر بخش روشن نیست؛ ناحیهٔ روشن مرکزی با بخش‌های روشن حاوی اکتین یکسان نیست و نوار I نیز الزاماً تماماً حذف نمی‌شود.",
+      "چرخهٔ اتصال و جدایی سرهای میوزین هم‌زمانِ کامل نیست؛ هنگام کوتاه‌شدن، گروهی متصل و گروهی جدا هستند تا کشش پیوسته بماند.",
+      "ورود یون‌ها به مادهٔ زمینه، از جمله آزادشدن کلسیم از شبکهٔ سارکوپلاسمی، در آغاز فرایند انقباض نقش دارد؛ این گزینه درست است.",
+      "در انتقال فسفات از فسفوکراتین به ADP، کراتین آزاد می‌شود؛ این واکنش می‌تواند در تأمین ATP انقباض نقش داشته باشد."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 7، سؤال 38"
+    },
+    "tags": [
+      "انقباض سارکومر و انرژی ماهیچه"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0038.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 38,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 7,
+      "localQuestionNumber": 38,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0039",
+    "grade": 10,
+    "chapter": 7,
+    "topic": "چرخهٔ نیتروژن و تغذیهٔ گیاه",
+    "difficulty": "unknown",
+    "stem": "در ارتباط با تغییرات مواد نیتروژندار و چگونگی جذب آنها از خاک ،کدام مورد را میتوان بیان نمود؟",
+    "options": [
+      "گیاهان قبل از تولید مادة آلی نیتروژن دار ،آمونیوم را به نیترات تبدیل میکنند.",
+      "آمونیوم قابل استفادة گیاهان ،تماماً توسط دو گروه از پروکاریوتهای خاک تأمین میشود.",
+      "گروهی از قدیمیترین جانداران روی زمین ،در تأمین نیتروژن مورد استفادة گیاهان نقش دارند.",
+      "همة جاندارانی که از آب بهعنوان منبع الکترون برای تولید ماده آلی استفاده میکنند ،میتوانند مستقیم ًا از نیتروژن جو استفاده کنند."
+    ],
+    "answer": 2,
+    "explanation": "سیانوباکتری‌های تثبیت‌کنندهٔ نیتروژن از گروه‌های بسیار قدیمی جانداران‌اند و می‌توانند نیتروژن قابل استفاده را در چرخه فراهم کنند.",
+    "optionExplanations": [
+      "گیاه می‌تواند آمونیوم را مستقیماً در ساخت ترکیب آلی مصرف کند؛ تبدیل آمونیوم به نیترات شرط همیشگی تولید مادهٔ آلی نیتروژن‌دار نیست.",
+      "آمونیوم می‌تواند از منابعی مانند تجزیهٔ مواد آلی، دفع جانداران و کود تأمین شود؛ تأمین آن منحصر به دو گروه پروکاریوت نیست.",
+      "سیانوباکتری‌های تثبیت‌کنندهٔ نیتروژن از گروه‌های بسیار قدیمی جانداران‌اند و می‌توانند نیتروژن قابل استفاده را در چرخه فراهم کنند.",
+      "بسیاری از گیاهان و جلبک‌ها در فتوسنتز از آب الکترون می‌گیرند، اما N₂ هوا را مستقیماً تثبیت نمی‌کنند؛ توانایی تثبیت نیتروژن همگانی نیست."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 8، سؤال 39"
+    },
+    "tags": [
+      "چرخهٔ نیتروژن و تغذیهٔ گیاه"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0039.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 39,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 8,
+      "localQuestionNumber": 39,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0040",
+    "grade": 11,
+    "chapter": 5,
+    "topic": "گره لنفی و فعال‌شدن ایمنی",
+    "difficulty": "unknown",
+    "stem": "در انسان ،اگر رگهای لنفی که به گرة لنفی وارد میشوند ،رگهای لنفی آوران و رگهای لنفی که از این گره خارج میشوند،\nرگهای لنفی وابران بنامیم ،مطابق با اطلاعات کتاب درسی ،کدام مورد درخصوص گرة لنفی موجود در ناحیة شکم نادرست است؟",
+    "options": [
+      "فقط در درون رگهای لنفی وابران ،یاختههای ایمنی غیرفعال بهصورت فعال درمیآیند.",
+      "لنف از طریق رگهای لنفی وابران از سطح فرورفتة گره خارج میشود.",
+      "در درون رگهای لنفی آوران و وابران دریچههایی وجود دارد.",
+      "رگهای لنفی آوران به سطح برجستة گره اتصال دارند."
+    ],
+    "answer": 0,
+    "explanation": "فعال‌شدن یاخته‌های ایمنی در بافت گره و در اثر برخورد با پادگن رخ می‌دهد؛ محدودکردن آن به درون رگ‌های لنفی وابران نادرست است.",
+    "optionExplanations": [
+      "فعال‌شدن یاخته‌های ایمنی در بافت گره و در اثر برخورد با پادگن رخ می‌دهد؛ محدودکردن آن به درون رگ‌های لنفی وابران نادرست است.",
+      "رگ‌های وابران از نافِ واقع در بخش فرورفتهٔ گره خارج می‌شوند؛ این توصیف درست است.",
+      "دریچه‌ها به جهت‌داربودن حرکت لنف کمک می‌کنند و در مسیرهای لنفی آوران و وابران حضور دارند.",
+      "رگ‌های آوران از سطح برجستهٔ گره وارد می‌شوند؛ این گزینه با ساختمان گره سازگار است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 8، سؤال 40"
+    },
+    "tags": [
+      "گره لنفی و فعال‌شدن ایمنی"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0040.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 40,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 8,
+      "localQuestionNumber": 40,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0041",
+    "grade": 12,
+    "chapter": 5,
+    "topic": "نخستین فسفریلاسیون در سطح پیش‌ماده در قندکافت",
+    "difficulty": "unknown",
+    "stem": "مطابق با اطلاعات کتاب درسی ،فرایند تجزیة گلوکز که تماماً در مادة زمینة سیتوپلاسم یک یاختة عضلانی رخ میدهد را\nدرنظر بگیرید .واکنشی از این فرایند که نخستین ATPدر سطح پیشماده ساخته میشود ،موردنظر است .اگر این پیشماده\nرا xو فراوردة آن را yبنامیم ،وجه تمایز ترکیب xاز ترکیب yکدام است؟",
+    "options": [
+      "به همراه ترکیبی پرانرژی تولید شده است.",
+      "همراه با مصرف نوعی ترکیب غیرآلی تولید شده است.",
+      "از ترکیبی غیرقندی و فسفاتدار بهوجود آمده است.",
+      "از ترکیبی با تعداد گروه فسفات بیشتر از خود بهوجود آمده است."
+    ],
+    "answer": 1,
+    "explanation": "x همان ۱،۳-بیس‌فسفوگلیسرات است که در واکنش اکسایش گلیسرآلدهیدفسفات با مصرف فسفات معدنی ساخته می‌شود؛ تولید y در مرحلهٔ بعد این مصرف را ندارد.",
+    "optionExplanations": [
+      "x هنگام تولید با NADH همراه است و y هنگام تولید با ATP؛ پس همراهی با یک ترکیب پرانرژی وجه تمایز x از y نیست.",
+      "x همان ۱،۳-بیس‌فسفوگلیسرات است که در واکنش اکسایش گلیسرآلدهیدفسفات با مصرف فسفات معدنی ساخته می‌شود؛ تولید y در مرحلهٔ بعد این مصرف را ندارد.",
+      "پیش‌ساز x یک ترکیب قندیِ فسفات‌دار است؛ در مقابل y از بیس‌فسفوگلیسرات حاصل می‌شود. این گزینه ویژگی x را درست بیان نمی‌کند.",
+      "x از ترکیبی تک‌فسفاته به ترکیب دوفُسفاته می‌رسد؛ y با جداشدن یک فسفات از x ساخته می‌شود. پس داشتن پیش‌سازِ پُرفسفات ویژگی y است."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 8، سؤال 41"
+    },
+    "tags": [
+      "نخستین فسفریلاسیون در سطح پیش‌ماده در قندکافت"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0041.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 41,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 8,
+      "localQuestionNumber": 41,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0042",
+    "grade": 11,
+    "chapter": 2,
+    "topic": "جوانهٔ چشایی و ارتباط عصبی",
+    "difficulty": "unknown",
+    "stem": "کدام مورد دربارة جوانههای چشایی زبان انسان ،صادق است؟",
+    "options": [
+      "منافذ آنها بهطور یکنواخت در سراسر برجستگی روی زبان توزیع شدهاند.",
+      "یاختة گیرندة چشایی ممکن است بیش از یک انشعاب از رشتة عصبی مغزی را دریافت کند.",
+      "یاختههای حاوی ریزکیسههای ناقل عصبی در آنها ،نسبت به سایر یاختههایش طول بیشتری دارند.",
+      "گیرندههای چشایی آنها ،در بالاترین بخش برجستگی زبان و نزدیکترین موقعیت نسبت به سقف حفرة دهان قرار گرفتهاند."
+    ],
+    "answer": 1,
+    "explanation": "یاختهٔ گیرندهٔ چشایی می‌تواند با بیش از یک پایانهٔ عصبی ارتباط داشته باشد؛ محدودیت یک یاخته به یک انشعاب از صورت سؤال نتیجه نمی‌شود و این گزینه درست است.",
+    "optionExplanations": [
+      "جوانه‌ها و منافذ چشایی در سراسر سطح هر برجستگی به‌طور یکنواخت توزیع نشده‌اند؛ محل آن‌ها به نوع برجستگی وابسته است.",
+      "یاختهٔ گیرندهٔ چشایی می‌تواند با بیش از یک پایانهٔ عصبی ارتباط داشته باشد؛ محدودیت یک یاخته به یک انشعاب از صورت سؤال نتیجه نمی‌شود و این گزینه درست است.",
+      "یاخته‌های پشتیبان جوانه نیز کشیده‌اند؛ وجود ریزکیسهٔ ناقل عصبی دلیل بلندتربودن از تمام یاخته‌های دیگر نیست.",
+      "جوانه‌های چشایی می‌توانند در کنارهٔ برجستگی‌ها نیز قرار گیرند؛ همهٔ گیرنده‌ها در بالاترین نقطه و نزدیک‌ترین محل به سقف دهان نیستند."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 8، سؤال 42"
+    },
+    "tags": [
+      "جوانهٔ چشایی و ارتباط عصبی"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0042.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 42,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 8,
+      "localQuestionNumber": 42,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0043",
+    "grade": 10,
+    "chapter": 1,
+    "topic": "نگرش سامانه‌ای در زیست‌شناسی",
+    "difficulty": "unknown",
+    "stem": "کدام مورد دربارة آنچه که در زیستشناسی نوین بهعنوان سامانه درنظر گرفته میشود ،نادرست است؟",
+    "options": [
+      "میتواند در سطح پنجم سازمانیابی حیات قرار گیرد.",
+      "نگرش بینرشتهای ،به شناخت هر چه بیشتر آن کمک میکند.",
+      "فقط با مطالعة دقیق اجزای آن است که میتوان ویژگیهای آن را توضیح داد.",
+      "فقط از بخشی از انرژی دریافتی ،برای انجام فعالیتهای زیستی خود استفاده میکند."
+    ],
+    "answer": 2,
+    "explanation": "شناخت جزءها به‌تنهایی برای توضیح ویژگی کل کافی نیست؛ ارتباط و برهم‌کنش اجزا نیز باید بررسی شود. بنابراین قید «فقط» این عبارت را نادرست می‌کند.",
+    "optionExplanations": [
+      "سامانه می‌تواند یک جاندار یا مجموعه‌ای از اجزای مرتبط در سطح سازمان‌یابی موردنظر باشد؛ محدود به یک مولکول یا یاخته نیست.",
+      "شناخت سامانه‌های زیستی از ترکیب دانش رشته‌هایی مانند فیزیک، شیمی و ریاضی نیز بهره می‌گیرد؛ نگرش بین‌رشته‌ای با آن سازگار است.",
+      "شناخت جزءها به‌تنهایی برای توضیح ویژگی کل کافی نیست؛ ارتباط و برهم‌کنش اجزا نیز باید بررسی شود. بنابراین قید «فقط» این عبارت را نادرست می‌کند.",
+      "بخشی از انرژی دریافتی در فرایندهای تبدیل و انتقال به شکل گرما پراکنده می‌شود؛ همهٔ انرژی صرف فعالیت زیستی مفید نمی‌شود."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 8، سؤال 43"
+    },
+    "tags": [
+      "نگرش سامانه‌ای در زیست‌شناسی"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0043.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 43,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 8,
+      "localQuestionNumber": 43,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  },
+  {
+    "id": "UP-9ba2aeb98098-0044",
+    "grade": 12,
+    "chapter": 3,
+    "topic": "وراثت هموفیلی",
+    "difficulty": "unknown",
+    "stem": "با درنظر گرفتن صفت هموفیلی در انسان ،در کدام مورد همه فرزندان دختر از نظر رخنمود )فنوتیپ( به مادر شباهت دارند و\nفقط بعضی از پسرها ممکن است ژننمود )ژنوتیپ( متفاوت با پدر داشته باشند؟",
+    "options": [
+      "مادر سالم و پدر سالم",
+      "پدر سالم و مادر بیمار",
+      "مادر بیمار و پدر بیمار",
+      "پدر بیمار و مادر سالم"
+    ],
+    "answer": 0,
+    "explanation": "مادر سالمِ ناقل و پدر سالم، دخترانی همگی سالم و پسرانی سالم یا بیمار دارند؛ فقط بعضی پسرها می‌توانند X بیماری‌زا و ژن‌نمود متفاوت با پدر داشته باشند.",
+    "optionExplanations": [
+      "مادر سالمِ ناقل و پدر سالم، دخترانی همگی سالم و پسرانی سالم یا بیمار دارند؛ فقط بعضی پسرها می‌توانند X بیماری‌زا و ژن‌نمود متفاوت با پدر داشته باشند.",
+      "پدر سالم و مادر بیمار، دختران ناقل و سالم می‌دهند؛ این دخترها از نظر رخ‌نمود شبیه مادر بیمار نیستند.",
+      "از دو والد بیمار، پسران نیز بیمار و از نظر این صفت مانند پدرند؛ شرط متفاوت‌بودن فقط بعضی پسرها برقرار نمی‌شود.",
+      "اگر مادر ناقل باشد همهٔ دخترها سالم نیستند؛ اگر خالص سالم باشد همهٔ پسرها با پدر بیمار متفاوت‌اند. هیچ‌یک شرط «همهٔ دخترها و فقط بعضی پسرها» را یک‌جا تأمین نمی‌کند."
+    ],
+    "optionAnalysisKinds": [
+      "educational_generated",
+      "educational_generated",
+      "educational_generated",
+      "educational_generated"
+    ],
+    "reference": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "section": "کنکور سراسری 1405.pdf؛ صفحهٔ PDF 8، سؤال 44"
+    },
+    "tags": [
+      "وراثت هموفیلی"
+    ],
+    "image": "imports/v013/9ba2aeb98098/q0044.webp",
+    "requiresImage": true,
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "solutionImage": null,
+    "imageSource": {
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "licenseId": "uploaded-owner-declaration",
+      "method": "Faithful source PDF rendering; essential figures retained without inferred content."
+    },
+    "origin": {
+      "kind": "user_supplied_exam_booklet",
+      "label": "دفترچهٔ ارسالی آزمون ۱۴۰۵",
+      "sourceId": "UPLOAD-9ba2aeb980985e3a",
+      "questionNumber": 44,
+      "examYear": 1405,
+      "examSession": "صبح پنجشنبه، مطابق سربرگ"
+    },
+    "answerSource": {
+      "kind": "educational_answer",
+      "label": "پاسخ و تحلیل آموزشی",
+      "suppliedKey": false,
+      "officialKeyVerified": false
+    },
+    "sourceId": "UPLOAD-9ba2aeb980985e3a",
+    "licenseId": "uploaded-owner-declaration",
+    "license": {
+      "id": "uploaded-owner-declaration",
+      "status": "user_declared_permission",
+      "distributionAllowed": true,
+      "evidence": "docs/v2/USER_LICENSE_DECLARATION.md"
+    },
+    "trap": "",
+    "provenance": {
+      "pdfSha256": "9ba2aeb980985e3a7965a1ac1645a986cbce128c68ae7d068cbaae27b0156b93",
+      "sourceFile": "کنکور سراسری 1405.pdf",
+      "pdfPage": 8,
+      "localQuestionNumber": 44,
+      "sourceClaimAsPrinted": "",
+      "officialOriginalIndependentlyVerified": false
+    },
+    "review": {
+      "status": "educational_answer_and_source_reviewed",
+      "singleAnswerApproved": true,
+      "allFourAnalysesApproved": true,
+      "independentHumanEditorialApproval": false
+    },
+    "collections": [
+      "main"
+    ]
+  }
+]

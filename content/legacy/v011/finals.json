@@ -1,0 +1,3579 @@
+[
+  {
+    "id": "V2-FINAL-10-1-01",
+    "grade": 10,
+    "chapter": 1,
+    "topic": "هم‌ایستایی",
+    "type": "true_false",
+    "stem": "درستی عبارت را تعیین کنید و اگر نادرست است آن را اصلاح کنید: «در هم‌ایستایی، همهٔ کمیت‌های محیط درونی در تمام لحظه‌ها بدون کوچک‌ترین نوسان ثابت می‌مانند.»",
+    "answer": "نادرست است. هم‌ایستایی حفظ ثبات نسبی محیط درونی در محدودهٔ مناسب است؛ تغییرات محدود و پاسخ‌های تنظیمی می‌توانند وجود داشته باشند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تشخیص نادرست‌بودن عبارت",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "جایگزینی ثبات مطلق با ثبات نسبی در محدودهٔ مناسب",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 1: دنیای زنده؛ هم‌ایستایی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "truth": false
+  },
+  {
+    "id": "V2-FINAL-10-1-02",
+    "grade": 10,
+    "chapter": 1,
+    "topic": "سازمان‌یابی زیستی",
+    "type": "definition_comparison",
+    "stem": "«جمعیت» و «بوم‌سازگان» را مقایسه کنید و توضیح دهید چرا بررسی هم‌زمان ماهی‌ها، گیاهان و دمای یک برکه فقط بررسی یک جمعیت نیست.",
+    "answer": "جمعیت گروهی از افراد یک گونه در زمان و مکان مشخص است. بوم‌سازگان جانداران یک ناحیه، عوامل غیرزنده و ارتباط آن‌ها را دربرمی‌گیرد. مثال برکه چند گروه جاندار و عامل غیرزندهٔ دما را شامل می‌شود.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تعریف جمعیت با افراد یک گونه و زمان/مکان مشخص",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "ذکر جانداران و عوامل غیرزنده و ارتباط‌ها در بوم‌سازگان",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "استفاده از تنوع جانداران و دمای برکه در استدلال",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 1: دنیای زنده؛ سازمان‌یابی زیستی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-10-1-03",
+    "grade": 10,
+    "chapter": 1,
+    "topic": "طراحی پژوهش",
+    "type": "essay",
+    "stem": "می‌خواهیم اثر شوری آب بر درصد جوانه‌زنی بذر تربچه را بررسی کنیم. طرح کوتاهی بنویسید که گروه شاهد، عامل تغییریافته، دو عامل ثابت، روش گزارش نتیجه و یک راه افزایش اعتبار مقایسه را روشن کند.",
+    "answer": "دو یا چند گروه بذر هم‌نوع با شرایط اولیهٔ مشابه انتخاب می‌کنیم. شاهد آب بدون نمک افزوده دریافت می‌کند و گروه آزمایشی محلول با شوری مشخص. دما، نور، تعداد و نوع بذر و مدت بررسی یکسان می‌مانند. درصد جوانه‌زنی از تقسیم تعداد بذر جوانه‌زده بر کل بذرها و ضرب در صد محاسبه و پس از زمان یکسان مقایسه می‌شود؛ تکرار آزمایش اعتبار را بیشتر می‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "شاهد و شوری مشخص در گروه آزمایشی",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "ذکر دست‌کم دو عامل ثابت مناسب",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "شمارش و محاسبه/گزارش درصد پس از زمان یکسان",
+        "points": 0.5
+      },
+      {
+        "id": "p4",
+        "criterion": "تکرار یا استفاده از چند بذر برای کاهش اثر تفاوت فردی",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 2.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 1: دنیای زنده؛ طراحی پژوهش"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-10-2-01",
+    "grade": 10,
+    "chapter": 2,
+    "topic": "گوارش و جذب",
+    "type": "fill_blank",
+    "stem": "جاهای خالی را کامل کنید: شکستن مولکول‌های غذا به واحدهای کوچک‌تر را .......... و ورود مواد گوارش‌یافته از پوشش روده به محیط درونی را .......... می‌نامیم.",
+    "answer": "گوارش شیمیایی؛ جذب.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "گوارش شیمیایی برای شکستن مولکول‌ها",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "جذب برای ورود از سد پوششی به محیط درونی",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 2: گوارش و جذب مواد؛ گوارش و جذب"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-10-2-02",
+    "grade": 10,
+    "chapter": 2,
+    "topic": "سطح جذب",
+    "type": "short",
+    "stem": "چرا کاهش سطح پرزهای رودهٔ باریک، حتی با ترشح کافی آنزیم‌ها، می‌تواند جذب مواد غذایی را کم کند؟",
+    "answer": "آنزیم‌ها گوارش شیمیایی را انجام می‌دهند، اما عبور فرآورده‌ها به محیط درونی به سطح جذب نیاز دارد. پرزها سطح تماس را افزایش می‌دهند و آسیب آن‌ها سطح مؤثر جذب را کم می‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تفکیک گوارش شیمیایی از جذب",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "ارتباط پرز و افزایش سطح مؤثر جذب",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 2: گوارش و جذب مواد؛ سطح جذب"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-10-2-03",
+    "grade": 10,
+    "chapter": 2,
+    "topic": "اجزای گوارش",
+    "type": "matching",
+    "stem": "هر مورد را به نقش مناسب وصل کنید؛ هر نقش یک‌بار استفاده شود. موارد: الف) صفرا، ب) لیپاز، پ) حرکات کرمی. نقش‌ها: ۱) پیش‌رانی محتویات لوله، ۲) شکستن شیمیایی چربی، ۳) ریزکردن و پخش قطره‌های چربی.",
+    "answer": "الف–۳؛ ب–۲؛ پ–۱. صفرا آنزیم نیست و با افزایش سطح تماس به عمل لیپاز کمک می‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تطبیق صفرا با پخش قطره‌ها",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "تطبیق لیپاز با گوارش شیمیایی چربی",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "تطبیق حرکات کرمی با پیش‌رانی",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 2: گوارش و جذب مواد؛ اجزای گوارش"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "promptParts": [
+      {
+        "id": "a",
+        "text": "صفرا"
+      },
+      {
+        "id": "b",
+        "text": "لیپاز"
+      },
+      {
+        "id": "c",
+        "text": "حرکات کرمی"
+      }
+    ]
+  },
+  {
+    "id": "V2-FINAL-10-3-01",
+    "grade": 10,
+    "chapter": 3,
+    "topic": "انتشار گاز",
+    "type": "diagram_label",
+    "stem": "با استفاده از نمودار فشار نسبی اکسیژن در A و B، جهت حرکت خالص اکسیژن را در صورت وجود یک سطح نازک نفوذپذیر بین آن‌ها بنویسید و توضیح دهید آیا همهٔ مولکول‌ها فقط در همان جهت حرکت می‌کنند. آیا این انتشار به مصرف مستقیم ATP نیاز دارد؟",
+    "answer": "حرکت خالص از A با فشار نسبی ۸۰ به B با فشار نسبی ۲۵ است. مولکول‌ها در هر دو جهت حرکت می‌کنند، اما در این شرایط تعداد عبوری از A به B بیشتر است. انتشار مستقیم به مصرف مستقیم ATP نیاز ندارد.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "جهت خالص A به B با اشاره به اختلاف فشار نسبی",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "تفکیک حرکت دوطرفهٔ مولکول‌ها از حرکت خالص",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "نداشتن نیاز مستقیم به ATP برای انتشار",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 3: تبادلات گازی؛ انتشار گاز"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "image": "diagrams/oxygen.png",
+    "imageDescription": "دو ستون با برچسب‌های A و B و فشار نسبی اکسیژن به‌ترتیب ۸۰ و ۲۵، در واحد فرضی یکسان.",
+    "imageSource": {
+      "sourceId": "hezarzist-v2-authored",
+      "licenseId": "project-authored-v2",
+      "kind": "original_diagram",
+      "caption": "دو ستون با برچسب‌های A و B و فشار نسبی اکسیژن به‌ترتیب ۸۰ و ۲۵، در واحد فرضی یکسان."
+    }
+  },
+  {
+    "id": "V2-FINAL-10-3-02",
+    "grade": 10,
+    "chapter": 3,
+    "topic": "مکانیک تنفس",
+    "type": "true_false",
+    "stem": "درستی عبارت را تعیین کنید و دلیل بیاورید؛ اگر نادرست است اصلاح کنید: «در دم آرام، انقباض دیافراگم با افزایش حجم قفسهٔ سینه و کاهش فشار هوای شش نسبت به بیرون همراه است.»",
+    "answer": "درست است. دیافراگم منقبض و مسطح‌تر می‌شود؛ افزایش حجم به افت فشار نسبت به بیرون و ورود هوا کمک می‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تشخیص درست‌بودن عبارت",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "پیوند افزایش حجم با افت فشار و ورود هوا",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 3: تبادلات گازی؛ مکانیک تنفس"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "truth": true
+  },
+  {
+    "id": "V2-FINAL-10-3-03",
+    "grade": 10,
+    "chapter": 3,
+    "topic": "آبشش و نای",
+    "type": "definition_comparison",
+    "stem": "نقش گردش خون را در انتقال اکسیژن ماهی و حشره مقایسه کنید؛ نام سطح یا دستگاه تبادل را نیز بنویسید.",
+    "answer": "در ماهی، آبشش اکسیژن را از آب به خون می‌رساند و خون آن را به بافت‌ها منتقل می‌کند. در حشره، دستگاه نایی هوا را به نزدیکی یاخته‌ها می‌رساند و مایع گردش بدن مسیر اصلی انتقال گازهای تنفسی نیست.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "آبشش و انتقال اکسیژن با خون در ماهی",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "نای‌ها و رساندن هوا به نزدیکی یاخته‌های حشره",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "تصریح تفاوت نقش گردش در انتقال گاز",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 3: تبادلات گازی؛ آبشش و نای"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-10-4-01",
+    "grade": 10,
+    "chapter": 4,
+    "topic": "گردش عمومی و ششی",
+    "type": "diagram_label",
+    "stem": "در طرح گردش خون، A دهلیز راست، B بطن راست، C دهلیز چپ و D بطن چپ است. مسیر بازگشت خون از شش تا خروج به بدن را با حروف بنویسید و نقش دریچه‌های قلب را در این مسیر توضیح دهید.",
+    "answer": "شش‌ها → C → D → بدن. خون ششی ابتدا به دهلیز چپ و سپس بطن چپ وارد می‌شود؛ بطن چپ آن را به گردش عمومی می‌فرستد. دریچه‌ها در پاسخ به اختلاف فشار باز و بسته می‌شوند و از بازگشت نامناسب خون جلوگیری می‌کنند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "ترتیب شش‌ها، C، D و بدن",
+        "points": 1
+      },
+      {
+        "id": "p2",
+        "criterion": "کارکرد یک‌طرفه‌کردن عبور و جلوگیری از برگشت",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "ارتباط باز و بسته‌شدن با اختلاف فشار",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 2.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 4: گردش مواد در بدن؛ گردش عمومی و ششی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "image": "diagrams/circulation.png",
+    "imageDescription": "طرح غیرتشریحی مسیر دو گردش با چهار حفرهٔ A تا D، شش‌ها و بدن.",
+    "imageSource": {
+      "sourceId": "hezarzist-v2-authored",
+      "licenseId": "project-authored-v2",
+      "kind": "original_diagram",
+      "caption": "طرح غیرتشریحی مسیر دو گردش با چهار حفرهٔ A تا D، شش‌ها و بدن."
+    }
+  },
+  {
+    "id": "V2-FINAL-10-4-02",
+    "grade": 10,
+    "chapter": 4,
+    "topic": "لنف",
+    "type": "short",
+    "stem": "در ناحیه‌ای، تخلیهٔ لنف کم شده ولی ورود مایع از مویرگ‌ها به فضای میان‌بافتی ادامه دارد. علت ایجاد تورم را توضیح دهید.",
+    "answer": "بخشی از مایع میان‌بافتی به‌طور معمول از راه رگ‌های لنفی به خون بازمی‌گردد. کاهش تخلیهٔ لنف باعث می‌شود ورود مایع از خروج آن بیشتر و مایع در فضای میان یاخته‌ها جمع شود.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "نقش لنف در بازگرداندن مایع میان‌بافتی",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "ارتباط کاهش خروج و تجمع مایع با تورم",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 4: گردش مواد در بدن؛ لنف"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-10-4-03",
+    "grade": 10,
+    "chapter": 4,
+    "topic": "رگ‌های خونی",
+    "type": "matching",
+    "stem": "رگ‌ها را با ویژگی مناسب تطبیق دهید: الف) سرخرگ، ب) سیاهرگ، پ) مویرگ. ویژگی‌ها: ۱) دیوارهٔ بسیار نازک برای تبادل، ۲) بازگرداندن خون به قلب، ۳) بردن خون از قلب با دیوارهٔ متناسب با فشار بالاتر.",
+    "answer": "الف–۳؛ ب–۲؛ پ–۱. ملاک نام‌گذاری سرخرگ و سیاهرگ جهت حرکت نسبت به قلب است، نه مقدار اکسیژن.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "سرخرگ و خروج از قلب",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "سیاهرگ و بازگشت به قلب",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "مویرگ و تبادل از دیوارهٔ نازک",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 4: گردش مواد در بدن؛ رگ‌های خونی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "promptParts": [
+      {
+        "id": "a",
+        "text": "سرخرگ"
+      },
+      {
+        "id": "b",
+        "text": "سیاهرگ"
+      },
+      {
+        "id": "c",
+        "text": "مویرگ"
+      }
+    ]
+  },
+  {
+    "id": "V2-FINAL-10-5-01",
+    "grade": 10,
+    "chapter": 5,
+    "topic": "فرایندهای نفرون",
+    "type": "definition_comparison",
+    "stem": "بازجذب و ترشح را از نظر جهت جابه‌جایی ماده میان خون و لولهٔ نفرون مقایسه کنید و تفاوت آن‌ها را با تراوش کلافکی بنویسید.",
+    "answer": "بازجذب بازگشت ماده از مایع لوله به خون است؛ ترشح ورود ماده از خون به لوله است. تراوش کلافکی عبور بخشی از مایع خون و مواد کوچک از صافی کلافک به درون کپسول است و به این محل ویژه مربوط می‌شود.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "جهت صحیح بازجذب",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "جهت صحیح ترشح",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "محل و جهت تراوش کلافکی",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 5: تنظیم اسمزی و دفع مواد زائد؛ فرایندهای نفرون"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-10-5-02",
+    "grade": 10,
+    "chapter": 5,
+    "topic": "تنظیم آب",
+    "type": "fill_blank",
+    "stem": "پس از کم‌آبی، افزایش هورمون .......... معمولاً بازجذب آب را بیشتر می‌کند؛ در نتیجه حجم ادرار معمولاً .......... می‌یابد.",
+    "answer": "ضدادراری؛ کاهش.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "هورمون ضدادراری/ADH",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "کاهش حجم ادرار",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 5: تنظیم اسمزی و دفع مواد زائد؛ تنظیم آب"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-10-5-03",
+    "grade": 10,
+    "chapter": 5,
+    "topic": "ادرار نهایی",
+    "type": "essay",
+    "stem": "در فرد سالم، گلوکز می‌تواند در مایع تراوش‌شده وجود داشته باشد، ولی در ادرار نهایی مقدار قابل توجهی از آن دیده نمی‌شود. این وضعیت را با دو مرحلهٔ نفرون توضیح دهید؛ آیا از نبود گلوکز در ادرار می‌توان نبود آن در خون را نتیجه گرفت؟",
+    "answer": "گلوکز مادهٔ کوچکی است و می‌تواند از صافی کلافک عبور کند. در شرایط طبیعی، گلوکز تراوش‌شده در طول نفرون تقریباً به‌طور کامل به خون بازجذب می‌شود. بنابراین نبود مقدار قابل توجه آن در ادرار به معنی نبود گلوکز در خون یا تراوش‌نشدن آن نیست.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "عبور گلوکز در تراوش",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "بازجذب تقریباً کامل در شرایط طبیعی",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "رد استنتاج نبود گلوکز در خون از ادرار",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 5: تنظیم اسمزی و دفع مواد زائد؛ ادرار نهایی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-10-6-01",
+    "grade": 10,
+    "chapter": 6,
+    "topic": "یاختهٔ گیاهی",
+    "type": "true_false",
+    "stem": "درستی عبارت را تعیین و اصلاح کنید: «دیوارهٔ یاختهٔ گیاهی چون از ترکیدن یاخته جلوگیری می‌کند، کاملاً مانع ورود آب به آن می‌شود.»",
+    "answer": "نادرست است. آب از دیواره و غشای یاختهٔ گیاهی عبور می‌کند. ورود آب فشار تورژسانس ایجاد می‌کند و مقاومت دیواره افزایش نامحدود حجم را محدود می‌سازد؛ جلوگیری از ترکیدن به معنی جلوگیری کامل از ورود آب نیست.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تشخیص نادرست‌بودن",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "امکان ورود آب و نقش مقاومت دیواره/تورژسانس",
+        "points": 1
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 6: از یاخته تا گیاه؛ یاختهٔ گیاهی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "truth": false
+  },
+  {
+    "id": "V2-FINAL-10-6-02",
+    "grade": 10,
+    "chapter": 6,
+    "topic": "بافت نگهدارنده",
+    "type": "definition_comparison",
+    "stem": "کلانشیم و اسکلرانشیم را از نظر زنده‌بودن معمول یاختهٔ بالغ و ویژگی دیواره مقایسه کنید و بگویید کدام‌یک برای پشتیبانی اندام در حال رشد مناسب‌تر است.",
+    "answer": "کلانشیم معمولاً یاخته‌های زنده با دیوارهٔ نخستین نامساوی‌ضخیم دارد و همراه رشد اندام انعطاف بیشتری نشان می‌دهد. یاخته‌های اسکلرانشیم در بلوغ معمولاً مرده و دارای دیوارهٔ پسین ضخیم و اغلب چوبی‌اند. برای پشتیبانی بخش جوانِ در حال رشد، کلانشیم مناسب‌تر است.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "زنده‌بودن و دیوارهٔ نخستین کلانشیم",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "مرگ معمول و دیوارهٔ پسین ضخیم اسکلرانشیم",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "انتخاب کلانشیم با دلیل سازگاری با رشد",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 6: از یاخته تا گیاه؛ بافت نگهدارنده"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-10-6-03",
+    "grade": 10,
+    "chapter": 6,
+    "topic": "ارتباط یاخته‌ای",
+    "type": "short",
+    "stem": "چرا وجود دیواره میان دو یاختهٔ گیاهی به معنی قطع کامل ارتباط سیتوپلاسمی آن‌ها نیست؟ نام راه ارتباطی را بنویسید.",
+    "answer": "پلاسمودسم‌ها راه‌های باریکی از میان دیواره‌اند که ارتباط سیتوپلاسمی یاخته‌های مجاور را برقرار می‌کنند؛ بنابراین وجود دیواره ارتباط را به‌طور کامل قطع نمی‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "نام پلاسمودسم",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "توضیح ارتباط سیتوپلاسمی از میان دیواره",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 6: از یاخته تا گیاه؛ ارتباط یاخته‌ای"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-10-7-01",
+    "grade": 10,
+    "chapter": 7,
+    "topic": "انتقال شیره",
+    "type": "fill_blank",
+    "stem": "برگ بالغِ صادرکنندهٔ قند یک .......... و میوهٔ در حال رشدِ دریافت‌کنندهٔ آن یک .......... است؛ مسیر عمدهٔ انتقال قند آوند .......... است.",
+    "answer": "منبع؛ مخزن؛ آبکش.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "منبع برای برگ صادرکننده",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "مخزن برای میوهٔ دریافت‌کننده",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "آبکش برای انتقال قند",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 7: جذب و انتقال مواد در گیاهان؛ انتقال شیره"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-10-7-02",
+    "grade": 10,
+    "chapter": 7,
+    "topic": "جذب اسمزی",
+    "type": "essay",
+    "stem": "چرا یک گیاه می‌تواند در خاک مرطوبِ بسیار شور پژمرده شود؟ پاسخ را با حرکت اسمزی آب و وضعیت یاخته‌های ریشه مرتبط کنید.",
+    "answer": "وجود آب در خاک به‌تنهایی جذب آن را تضمین نمی‌کند. افزایش زیاد غلظت محلول بیرونی می‌تواند اختلاف اسمزیِ مساعد ورود آب را کم کند یا موجب خروج آب از یاخته‌های ریشه شود. کاهش آب و فشار تورژسانس در بافت‌ها به پژمردگی می‌انجامد.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تفکیک وجود آب از امکان جذب",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "کاهش ورود یا خروج اسمزی آب در شوری زیاد",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "پیوند کاهش آب/تورژسانس با پژمردگی",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 7: جذب و انتقال مواد در گیاهان؛ جذب اسمزی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-10-7-03",
+    "grade": 10,
+    "chapter": 7,
+    "topic": "نوار کاسپاری",
+    "type": "short",
+    "stem": "آبی که در مسیر دیواره‌ای پوست ریشه پیش می‌رود، در درون‌پوست چگونه تحت گزینش غشایی قرار می‌گیرد؟",
+    "answer": "نوار کاسپاری مسیر دیواره‌ای را مسدود می‌کند. آب و مواد این مسیر برای ادامه به استوانهٔ آوندی باید از غشای یاختهٔ درون‌پوست عبور کنند؛ تراوایی انتخابی غشا امکان کنترل ورود مواد را فراهم می‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "مسدودشدن مسیر دیواره‌ای توسط نوار کاسپاری",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "لزوم عبور از غشا و نقش گزینشی آن",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 10",
+      "section": "فصل 7: جذب و انتقال مواد در گیاهان؛ نوار کاسپاری"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-1-01",
+    "grade": 11,
+    "chapter": 1,
+    "topic": "رمزکردن شدت محرک",
+    "type": "true_false",
+    "stem": "شدت محرک پایدارِ مؤثر بر یک گیرندهٔ حسی را در مدت برابر و محدودهٔ غیرآسیب‌زا بیشتر می‌کنیم. درستی عبارت را تعیین و اصلاح کنید و روش معمول رمزکردن شدت را بنویسید: «در نورون حسی، ارتفاع هر پتانسیل عمل به نسبت شدت محرک بیشتر می‌شود.»",
+    "answer": "نادرست است. پتانسیل عمل از قانون همه یا هیچ پیروی می‌کند و دامنهٔ آن در شرایط یکسان تقریباً ثابت است. افزایش شدت محرک پایدار می‌تواند با افزایش بسامد پیام‌های نورون حسی در محدودهٔ توان آن رمز شود.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "نادرست‌بودن و ثابت‌بودن نسبی دامنه",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "نقش بسامد در رمزکردن شدت",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 1: تنظیم عصبی؛ رمزکردن شدت محرک"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "truth": false
+  },
+  {
+    "id": "V2-FINAL-11-1-02",
+    "grade": 11,
+    "chapter": 1,
+    "topic": "پتانسیل عمل",
+    "type": "diagram_label",
+    "stem": "در نمودار پتانسیل عمل، P بخش صعودی و R بخش نزولی است. در هر بخش، جهت حرکت عمدهٔ یون مؤثر را بنویسید و تفاوت آن را با نقش پمپ سدیم‌ـ‌پتاسیم بیان کنید.",
+    "answer": "در P، ورود سدیم از دریچه‌های وابسته به ولتاژ در مثبت‌ترشدن درون نقش عمده دارد. در R، خروج پتاسیم به منفی‌ترشدن مجدد کمک می‌کند. پمپ سدیم‌ـ‌پتاسیم با مصرف ATP در حفظ اختلاف غلظت یون‌ها نقش دارد و با باز و بسته‌شدن سریع این دریچه‌ها یکی نیست.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "ورود سدیم در P",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "خروج پتاسیم در R",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "تمایز نقش پمپ در حفظ شیب‌ها با دریچه‌ها و مصرف ATP",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 1: تنظیم عصبی؛ پتانسیل عمل"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "image": "diagrams/neuron.png",
+    "imageDescription": "منحنی تغییر پتانسیل غشا برحسب زمان؛ P روی بخش بالارونده و R روی بخش پایین‌رونده است.",
+    "imageSource": {
+      "sourceId": "hezarzist-v2-authored",
+      "licenseId": "project-authored-v2",
+      "kind": "original_diagram",
+      "caption": "منحنی تغییر پتانسیل غشا برحسب زمان؛ P روی بخش بالارونده و R روی بخش پایین‌رونده است."
+    }
+  },
+  {
+    "id": "V2-FINAL-11-1-03",
+    "grade": 11,
+    "chapter": 1,
+    "topic": "انعکاس",
+    "type": "short",
+    "stem": "آیا شروع دورکردن دست از جسم داغ پیش از آگاهی کامل از درد، به معنی دخالت‌نداشتن دستگاه عصبی مرکزی است؟ دلیل بیاورید.",
+    "answer": "خیر. نخاع بخشی از دستگاه عصبی مرکزی است و مدار انعکاسی می‌تواند پاسخ حرکتی را در آن آغاز کند. هم‌زمان پیام حسی به مغز نیز می‌رسد و ادراک درد رخ می‌دهد.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "نخاع به‌عنوان بخشی از دستگاه مرکزی",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "شروع پاسخ نخاعی همراه امکان رسیدن پیام به مغز",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 1: تنظیم عصبی؛ انعکاس"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-2-01",
+    "grade": 11,
+    "chapter": 2,
+    "topic": "تطابق چشم",
+    "type": "fill_blank",
+    "stem": "در دید نزدیک، ماهیچهٔ مژگانی .......... می‌شود، کشش تارهای آویزی .......... و انحنای عدسی .......... می‌یابد.",
+    "answer": "منقبض؛ کاهش می‌یابد؛ افزایش.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "انقباض ماهیچهٔ مژگانی",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "کاهش کشش تارهای آویزی",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "افزایش انحنای عدسی",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 2: حواس؛ تطابق چشم"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-2-02",
+    "grade": 11,
+    "chapter": 2,
+    "topic": "بینایی",
+    "type": "definition_comparison",
+    "stem": "گیرنده‌های استوانه‌ای و مخروطی شبکیه را از نظر کارایی در نور کم و نقش در دید رنگی مقایسه کنید.",
+    "answer": "استوانه‌ای‌ها در نور کم حساس‌ترند و در دید کم‌نور نقش مهم دارند، اما تشخیص رنگ را به شکل مخروطی‌ها انجام نمی‌دهند. مخروطی‌ها برای عملکرد مناسب نور بیشتری می‌خواهند و در دید رنگی و جزئیات نقش دارند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "حساسیت بیشتر استوانه‌ای‌ها در نور کم",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "نقش مخروطی‌ها در دید رنگی و نیاز به نور بیشتر",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 2: حواس؛ بینایی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-2-03",
+    "grade": 11,
+    "chapter": 2,
+    "topic": "گوش و تعادل",
+    "type": "matching",
+    "stem": "ساختار را به نقش مناسب وصل کنید: الف) حلزون، ب) مجاری نیم‌دایره‌ای، پ) استخوانچه‌های گوش میانی. نقش‌ها: ۱) انتقال و تقویت ارتعاش، ۲) دریافت تغییر حرکت چرخشی سر، ۳) دخالت در دریافت پیام شنوایی.",
+    "answer": "الف–۳؛ ب–۲؛ پ–۱.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "حلزون و شنوایی",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "مجاری و حرکت چرخشی",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "استخوانچه‌ها و انتقال/تقویت ارتعاش",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 2: حواس؛ گوش و تعادل"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "promptParts": [
+      {
+        "id": "a",
+        "text": "حلزون"
+      },
+      {
+        "id": "b",
+        "text": "مجاری نیم‌دایره‌ای"
+      },
+      {
+        "id": "c",
+        "text": "استخوانچه‌ها"
+      }
+    ]
+  },
+  {
+    "id": "V2-FINAL-11-3-01",
+    "grade": 11,
+    "chapter": 3,
+    "topic": "لغزش رشته‌ها",
+    "type": "true_false",
+    "stem": "درستی عبارت را تعیین و اصلاح کنید: «کوتاه‌شدن سارکومر هنگام انقباض معمول، نتیجهٔ کوتاه‌شدن طول تک‌تک رشته‌های اکتین و میوزین است.»",
+    "answer": "نادرست است. طول خود رشته‌ها در انقباض معمول تغییر عمده‌ای نمی‌کند؛ با لغزش و افزایش هم‌پوشانی آن‌ها، خطوط Z به هم نزدیک و سارکومر کوتاه می‌شود.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تشخیص نادرست‌بودن",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "ثابت‌بودن طول رشته‌ها و افزایش هم‌پوشانی",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "نزدیک‌شدن خطوط Z",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 3: دستگاه حرکتی؛ لغزش رشته‌ها"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "truth": false
+  },
+  {
+    "id": "V2-FINAL-11-3-02",
+    "grade": 11,
+    "chapter": 3,
+    "topic": "ماهیچه‌های مخالف",
+    "type": "short",
+    "stem": "چرا برای خم‌کردن و بازکردن ساعد از ماهیچه‌های مخالف استفاده می‌شود؟ پاسخ را به نوع نیروی انقباض مربوط کنید.",
+    "answer": "ماهیچهٔ اسکلتی در انقباض نیروی کششی ایجاد می‌کند و استخوان را فعالانه در جهت مخالف هل نمی‌دهد. انقباض هماهنگ ماهیچهٔ مخالف می‌تواند حرکت بازگشت را در جهت مقابل ایجاد کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "کششی‌بودن نیروی انقباض",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "لزوم کشش ماهیچهٔ مخالف برای جهت مقابل",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 3: دستگاه حرکتی؛ ماهیچه‌های مخالف"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-3-03",
+    "grade": 11,
+    "chapter": 3,
+    "topic": "ساختار استخوان",
+    "type": "essay",
+    "stem": "در آزمایشی، مواد معدنی یک قطعهٔ استخوان کاهش می‌یابد ولی رشته‌های آلی باقی می‌مانند. پیش‌بینی کنید سختی و انعطاف‌پذیری نسبی آن چه تغییری می‌کند و هر تغییر را به یک جزء ساختاری مربوط کنید.",
+    "answer": "با کاهش مواد معدنی، سختی و مقاومت فشاری کاهش می‌یابد و قطعه نسبت به استخوان طبیعی انعطاف‌پذیرتر می‌شود. رشته‌های آلی، از جمله کلاژن، هنوز در مقاومت کششی و انعطاف‌پذیری نقش دارند. استخوان طبیعی از همکاری این دو بخش استحکام مناسب می‌گیرد.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "کاهش سختی/مقاومت فشاری با کاهش مواد معدنی",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "باقی‌بودن نقش بخش آلی در انعطاف و کشش",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "ارتباط ترکیب دو جزء با ویژگی استخوان طبیعی",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 3: دستگاه حرکتی؛ ساختار استخوان"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-4-01",
+    "grade": 11,
+    "chapter": 4,
+    "topic": "یاختهٔ هدف",
+    "type": "definition_comparison",
+    "stem": "فرق «رسیدن هورمون با خون به یک یاخته» و «هدف‌بودن آن یاخته» چیست؟ نقش گیرنده را توضیح دهید.",
+    "answer": "هورمون درون‌ریز ممکن است با خون در معرض یاخته‌های زیادی قرار بگیرد. یاختهٔ هدف گیرندهٔ مناسب و توان پاسخ به آن هورمون را دارد؛ بنابراین تماس یا حضور هورمون به‌تنهایی پاسخ اختصاصی را تضمین نمی‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "توزیع خونی به یاخته‌های متعدد",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "گیرندهٔ مناسب و پاسخ اختصاصی یاختهٔ هدف",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 4: تنظیم شیمیایی؛ یاختهٔ هدف"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-4-02",
+    "grade": 11,
+    "chapter": 4,
+    "topic": "قند خون",
+    "type": "matching",
+    "stem": "هورمون‌ها را به اثر معمول مناسب وصل کنید: الف) انسولین، ب) گلوکاگون، پ) محرک تیروئید. اثرها: ۱) تحریک فعالیت تیروئید، ۲) کمک به کاهش قند خون، ۳) کمک به افزایش قند خون.",
+    "answer": "الف–۲؛ ب–۳؛ پ–۱. اثرها به یاخته‌های هدف و شرایط تنظیمی وابسته‌اند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "انسولین و کاهش قند",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "گلوکاگون و افزایش قند",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "محرک تیروئید و تحریک غده",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 4: تنظیم شیمیایی؛ قند خون"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "promptParts": [
+      {
+        "id": "a",
+        "text": "انسولین"
+      },
+      {
+        "id": "b",
+        "text": "گلوکاگون"
+      },
+      {
+        "id": "c",
+        "text": "محرک تیروئید"
+      }
+    ]
+  },
+  {
+    "id": "V2-FINAL-11-4-03",
+    "grade": 11,
+    "chapter": 4,
+    "topic": "بازخورد منفی",
+    "type": "essay",
+    "stem": "وقتی هورمون‌های تیروئیدی خون از حد مناسب بیشتر شوند، بازخورد منفی چگونه می‌تواند از افزایش بیشتر آن‌ها جلوگیری کند؟ مسیر را در حد کتاب توضیح دهید.",
+    "answer": "افزایش هورمون‌های تیروئیدی بر مراکز تنظیمی بالادست اثر مهاری می‌گذارد و ترشح محرک تیروئید از هیپوفیز کاهش می‌یابد. تحریک کمتر تیروئید، تولید و ترشح بیشتر هورمون را محدود می‌کند. جهت پاسخ با تغییر اولیه مخالفت می‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "کاهش تحریک بالادست/محرک تیروئید",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "کاهش تحریک تیروئید و محدودشدن ترشح",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "توضیح مخالفت پاسخ با افزایش اولیه",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 4: تنظیم شیمیایی؛ بازخورد منفی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-5-01",
+    "grade": 11,
+    "chapter": 5,
+    "topic": "خاطرهٔ ایمنی",
+    "type": "true_false",
+    "stem": "درستی عبارت را تعیین و اصلاح کنید: «دریافت پادتن آماده الزاماً همان خاطرهٔ ایمنی پایدارِ حاصل از پاسخ فعال بدن را ایجاد می‌کند.»",
+    "answer": "نادرست است. دریافت پادتن آماده ایمنی غیرفعال می‌دهد و به‌خودی‌خود ایجاد یاختهٔ خاطره در گیرنده را تضمین نمی‌کند. در ایمنی فعال، پاسخ خود بدن می‌تواند با ایجاد یاخته‌های خاطره همراه شود.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تشخیص نادرست‌بودن",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "تفاوت ایمنی غیرفعال با ایجاد خاطره در ایمنی فعال",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 5: ایمنی؛ خاطرهٔ ایمنی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "truth": false
+  },
+  {
+    "id": "V2-FINAL-11-5-02",
+    "grade": 11,
+    "chapter": 5,
+    "topic": "دفاع اختصاصی",
+    "type": "fill_blank",
+    "stem": "لنفوسیت B فعال می‌تواند به یاختهٔ .......... تبدیل شود و پروتئین دفاعی .......... ترشح کند؛ لنفوسیت T کشنده می‌تواند یاختهٔ .......... را هدف قرار دهد.",
+    "answer": "پادتن‌ساز/پلاسما؛ پادتن؛ آلوده (یا یاختهٔ هدف شناسایی‌شده، مانند یاختهٔ آلوده به ویروس).",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "یاختهٔ پادتن‌ساز/پلاسما",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "پادتن",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "یاختهٔ آلوده/هدف مناسب T کشنده",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 5: ایمنی؛ دفاع اختصاصی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-5-03",
+    "grade": 11,
+    "chapter": 5,
+    "topic": "التهاب",
+    "type": "essay",
+    "stem": "پس از آسیب سطحی پوست، قرمزی و تورم ایجاد می‌شود. این دو نشانه را به تغییر رگ‌های موضع و دسترسی عوامل دفاعی مرتبط کنید؛ چرا این پاسخ به‌تنهایی نشانهٔ ایجاد خاطرهٔ اختصاصی نیست؟",
+    "answer": "گشادشدن رگ‌ها خون‌رسانی را بیشتر و قرمزی ایجاد می‌کند. افزایش نفوذپذیری، خروج مایع و دسترسی یاخته‌ها و عوامل دفاعی را تسهیل می‌کند و می‌تواند تورم بدهد. التهاب بخشی از دفاع غیراختصاصی است؛ ایجاد خاطره به فعال‌شدن و تمایز لنفوسیت‌های اختصاصی مربوط است و صرف التهاب آن را ثابت نمی‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "افزایش خون‌رسانی و قرمزی",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "نفوذپذیری/خروج مایع و تورم/دسترسی دفاعی",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "تفکیک التهاب غیراختصاصی از خاطرهٔ اختصاصی",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 5: ایمنی؛ التهاب"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-6-01",
+    "grade": 11,
+    "chapter": 6,
+    "topic": "دنا و فام‌تن",
+    "type": "diagram_label",
+    "stem": "در نمودار مقدار نسبی دنا، A پیش از همانندسازی، B پس از آن و C برای یک دختر پس از میتوز است. توضیح دهید چرا مقدار B دو برابر A است ولی لزوماً تعداد فام‌تن‌های B دو برابر نشده است. بازگشت مقدار دنا در C به سطح A را نیز تفسیر کنید.",
+    "answer": "در همانندسازی، هر فام‌تن دارای دو کروماتید خواهری می‌شود و هر کروماتید یک مولکول دنا دارد؛ پس مقدار دنا دو برابر می‌شود. تا پیش از جدایی کروماتیدها، شمار سانترومرها و در نتیجه شمار فام‌تن‌ها همان است. بعد از تقسیم طبیعی، هر دختر مقدار دنا مشابه A دریافت می‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "دو برابرشدن دنا با دوکروماتیدی‌شدن",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "ثبات تعداد فام‌تن پیش از جدایی با معیار سانترومر",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "تفسیر بازگشت مقدار هر دختر در C",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 6: تقسیم یاخته؛ دنا و فام‌تن"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "image": "diagrams/cell_dna.png",
+    "imageDescription": "نمودار مقدار نسبی دنا در سه وضعیت A=۲، B=۴ و C=۲.",
+    "imageSource": {
+      "sourceId": "hezarzist-v2-authored",
+      "licenseId": "project-authored-v2",
+      "kind": "original_diagram",
+      "caption": "نمودار مقدار نسبی دنا در سه وضعیت A=۲، B=۴ و C=۲."
+    }
+  },
+  {
+    "id": "V2-FINAL-11-6-02",
+    "grade": 11,
+    "chapter": 6,
+    "topic": "دو تقسیم میوز",
+    "type": "definition_comparison",
+    "stem": "آنچه در تقسیم نخست میوز جدا می‌شود با آنچه در تقسیم دوم جدا می‌شود مقایسه کنید و بگویید آیا بین این دو تقسیم همانندسازی دنا انجام می‌شود.",
+    "answer": "در تقسیم نخست، فام‌تن‌های همتا از هم جدا می‌شوند و تعداد مجموعه‌های فام‌تنی کاهش می‌یابد. در تقسیم دوم، کروماتیدهای خواهری جدا می‌شوند. میان دو تقسیم، همانندسازی دوبارهٔ دنا انجام نمی‌شود.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "جدایی همتاها در میوز نخست",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "جدایی خواهری در میوز دوم",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "نبود همانندسازی بین دو تقسیم",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 6: تقسیم یاخته؛ دو تقسیم میوز"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-6-03",
+    "grade": 11,
+    "chapter": 6,
+    "topic": "وارسی چرخهٔ یاخته",
+    "type": "short",
+    "stem": "در بافتی، یک یاخته با دنای آسیب‌دیده بدون ترمیم وارد تقسیم می‌شود. توضیح دهید چرا عبور از مرحلهٔ وارسی بدون رفع آسیب می‌تواند برای یاخته‌های دختر و بافت زیان‌آور باشد.",
+    "answer": "آسیب دنا ممکن است به یاخته‌های دختر منتقل و کارکرد ژن‌ها یا تنظیم رشد را مختل کند. مرحله‌های وارسی با توقف چرخه در شرایط نامناسب فرصت ترمیم فراهم می‌کنند و از تداوم بی‌مهار خطاها می‌کاهند؛ هر آسیب الزاماً سرطان نمی‌سازد.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "امکان انتقال آسیب و اختلال در کارکرد/تنظیم رشد",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "نقش وارسی در توقف و فراهم‌کردن فرصت ترمیم",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 6: تقسیم یاخته؛ وارسی چرخهٔ یاخته"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-7-01",
+    "grade": 11,
+    "chapter": 7,
+    "topic": "چرخهٔ تولیدمثل",
+    "type": "fill_blank",
+    "stem": "در چرخهٔ بدون بارداری، تحلیل .......... با افت پروژسترون همراه است و کاهش حمایت هورمونی از .......... رحم می‌تواند به ریزش آن بینجامد.",
+    "answer": "جسم زرد؛ درون‌شامه/آندومتر.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "جسم زرد",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "درون‌شامه/آندومتر",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 7: تولید مثل؛ چرخهٔ تولیدمثل"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-7-02",
+    "grade": 11,
+    "chapter": 7,
+    "topic": "لقاح و لانه‌گزینی",
+    "type": "definition_comparison",
+    "stem": "لقاح و لانه‌گزینی طبیعی انسان را از نظر محل معمول و ترتیب زمانی مقایسه کنید.",
+    "answer": "لقاح، آمیزش گامت‌ها و تشکیل تخم، معمولاً در لولهٔ رحم رخ می‌دهد. جنین آغازین در مسیر تقسیم می‌شود و بعدتر در درون‌شامهٔ رحم لانه‌گزینی می‌کند. بنابراین این دو رویداد در زمان و محل یکسان نیستند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "لقاح در لولهٔ رحم و تشکیل تخم",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "لانه‌گزینی بعدی در درون‌شامهٔ رحم",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "تقسیمات آغازین در مسیر/ترتیب زمانی درست",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 7: تولید مثل؛ لقاح و لانه‌گزینی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-7-03",
+    "grade": 11,
+    "chapter": 7,
+    "topic": "جفت",
+    "type": "essay",
+    "stem": "توضیح دهید چگونه جفت می‌تواند اکسیژن را از مادر به جنین برساند، بی‌آنکه لازم باشد خون دو فرد در یک رگ مشترک کاملاً مخلوط شود. به اهمیت سطح تبادل اشاره کنید.",
+    "answer": "دو گردش در جفت در نزدیکی هم قرار می‌گیرند و یک سطح تبادل نازک با سطح تماس مناسب فراهم می‌شود. اکسیژن در جهت اختلاف فشار نسبی از سد تبادل می‌گذرد و وارد خون جنین می‌شود. عبور مولکول با مخلوط‌شدن مستقیم کل خون دو گردش یکسان نیست.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "نزدیکی گردش‌ها و سطح تبادل مناسب",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "عبور اکسیژن با اختلاف فشار نسبی",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "تفکیک تبادل ماده از اختلاط مستقیم خون",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 7: تولید مثل؛ جفت"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-8-01",
+    "grade": 11,
+    "chapter": 8,
+    "topic": "لقاح مضاعف",
+    "type": "true_false",
+    "stem": "درستی عبارت را تعیین و اصلاح کنید: «در لقاح مضاعف معمول نهاندانگان، هر دو زامه با تخم‌زا آمیزش می‌یابند و دو جنین دولاد یکسان می‌سازند.»",
+    "answer": "نادرست است. یک زامه با تخم‌زا آمیزش می‌یابد و تخم دولاد را می‌سازد. زامهٔ دیگر با یاختهٔ مرکزی دارای دو هستهٔ قطبی آمیزش می‌یابد و فرآوردهٔ معمول سه‌لادِ سازندهٔ آندوسپرم پدید می‌آید.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تشخیص نادرست‌بودن",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "زامه و تخم‌زا/تخم دولاد",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "زامه و دو هستهٔ قطبی/فرآوردهٔ سه‌لاد",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 8: تولید مثل نهاندانگان؛ لقاح مضاعف"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "truth": false
+  },
+  {
+    "id": "V2-FINAL-11-8-02",
+    "grade": 11,
+    "chapter": 8,
+    "topic": "گرده‌افشانی",
+    "type": "short",
+    "stem": "اگر گرده روی کلاله قرار بگیرد ولی لولهٔ گرده نتواند به کیسهٔ رویانی برسد، کدام مرحله انجام شده و کدام مرحله ممکن است انجام نشود؟ دلیل بنویسید.",
+    "answer": "گرده‌افشانی انجام شده است؛ اما لقاح ممکن است رخ ندهد، زیرا زامه‌ها برای رسیدن به کیسهٔ رویانی به رشد لولهٔ گرده نیاز دارند. صرف انتقال گرده تشکیل تخم را تضمین نمی‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تفکیک گرده‌افشانی انجام‌شده از لقاح",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "نیاز به رساندن زامه با لولهٔ گرده",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 8: تولید مثل نهاندانگان؛ گرده‌افشانی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-8-03",
+    "grade": 11,
+    "chapter": 8,
+    "topic": "سرنوشت بخش‌های گل",
+    "type": "matching",
+    "stem": "منشأ را به فرآوردهٔ معمول مربوط وصل کنید: الف) تخم، ب) پوشش تخمک، پ) دیوارهٔ تخمدان. فرآورده‌ها: ۱) پوستهٔ دانه، ۲) جنین، ۳) دیوارهٔ میوه.",
+    "answer": "الف–۲؛ ب–۱؛ پ–۳.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تخم و جنین",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "پوشش تخمک و پوستهٔ دانه",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "دیوارهٔ تخمدان و دیوارهٔ میوه",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 8: تولید مثل نهاندانگان؛ سرنوشت بخش‌های گل"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "promptParts": [
+      {
+        "id": "a",
+        "text": "تخم"
+      },
+      {
+        "id": "b",
+        "text": "پوشش تخمک"
+      },
+      {
+        "id": "c",
+        "text": "دیوارهٔ تخمدان"
+      }
+    ]
+  },
+  {
+    "id": "V2-FINAL-11-9-01",
+    "grade": 11,
+    "chapter": 9,
+    "topic": "نورگرایی",
+    "type": "essay",
+    "stem": "ساقه‌ای جوان در نور یک‌طرفه به سوی نور خم می‌شود. ارتباط توزیع نامساوی اکسین، رشد دو سمت و جهت خم‌شدن را در یک توضیح پیوسته بیان کنید.",
+    "answer": "در ساقهٔ جوان، در پاسخ به نور یک‌طرفه، توزیع اکسین به نفع سمت سایه تغییر می‌کند. در محدودهٔ مناسب، اکسین رشد طولی یاخته‌های آن سمت را بیشتر می‌کند. سمت سایه بلندتر می‌شود و ساقه به طرف نور خم می‌شود؛ جهت خم‌شدن به سمت رشد کمتر است.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "توزیع بیشتر اکسین در سمت سایه",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "رشد طولی بیشتر سمت سایه در محدودهٔ مناسب",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "ارتباط رشد نابرابر با خم‌شدن به نور",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 9: پاسخ گیاهان به محرک‌ها؛ نورگرایی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-11-9-02",
+    "grade": 11,
+    "chapter": 9,
+    "topic": "هورمون‌های گیاهی",
+    "type": "matching",
+    "stem": "پیام‌رسان را به اثر مرتبط وصل کنید: الف) اتیلن، ب) آبسیزیک‌اسید، پ) اکسینِ رأس ساقه. اثرها: ۱) نقش در چیرگی رأسی، ۲) کمک به رسیدن میوهٔ حساس، ۳) کمک به بسته‌شدن روزنه در کم‌آبی.",
+    "answer": "الف–۲؛ ب–۳؛ پ–۱.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "اتیلن و رسیدن میوه",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "آبسیزیک‌اسید و بسته‌شدن روزنه",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "اکسین رأس و چیرگی رأسی",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 9: پاسخ گیاهان به محرک‌ها؛ هورمون‌های گیاهی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "promptParts": [
+      {
+        "id": "a",
+        "text": "اتیلن"
+      },
+      {
+        "id": "b",
+        "text": "آبسیزیک‌اسید"
+      },
+      {
+        "id": "c",
+        "text": "اکسین رأس"
+      }
+    ]
+  },
+  {
+    "id": "V2-FINAL-11-9-03",
+    "grade": 11,
+    "chapter": 9,
+    "topic": "خواب بذر",
+    "type": "short",
+    "stem": "بذری ذخیرهٔ غذایی فراوان دارد، اما در شرایط نامناسب محیطی در حالت خواب باقی می‌ماند. چرا وجود ذخیره به‌تنهایی جوانه‌زنی فوری را تضمین نمی‌کند؟ به نقش آبسیزیک‌اسید اشاره کنید.",
+    "answer": "جوانه‌زنی علاوه بر ذخیرهٔ غذایی به شرایط مناسب و تنظیم رشد وابسته است. آبسیزیک‌اسید می‌تواند جوانه‌زنی را مهار و به حفظ خواب بذر کمک کند؛ بنابراین وجود سوخت کافی، برطرف‌شدن مهار رشد را تضمین نمی‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تفکیک داشتن ذخیره از مناسب‌بودن شرایط و تنظیم رشد",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "نقش مهاری آبسیزیک‌اسید در جوانه‌زنی/خواب",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 11",
+      "section": "فصل 9: پاسخ گیاهان به محرک‌ها؛ خواب بذر"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-1-01",
+    "grade": 12,
+    "chapter": 1,
+    "topic": "دنا دو رشته‌ای",
+    "type": "diagram_label",
+    "stem": "در نمودار درصد بازهای یک دنا دو رشته‌ای، برابری A با T و G با C دیده می‌شود. این برابری را با مکمل‌بودن توضیح دهید. آیا از این برابری در مجموع دو رشته می‌توان برابری A و T در تک‌تک رشته‌ها را نتیجه گرفت؟",
+    "answer": "هر A یک رشته مقابل T رشتهٔ دیگر و هر G مقابل C قرار می‌گیرد؛ بنابراین در مجموع دو رشته شمار A=T و G=C است. این برابری الزاماً در یک رشتهٔ جداگانه برقرار نیست، زیرا ترتیب و شمار بازهای همان رشته می‌تواند نامتقارن باشد و رشتهٔ مکمل آن را جبران کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "استدلال مکمل‌بودن و برابری در کل مولکول",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "رد تعمیم الزامی به هر رشتهٔ جداگانه",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "توضیح جبران توسط رشتهٔ مکمل",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 1: مولکول‌های اطلاعاتی؛ دنا دو رشته‌ای"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "image": "diagrams/dna_bases.png",
+    "imageDescription": "نمودار چهار ستون برای درصد A و T برابر ۲۰ و G و C برابر ۳۰ در مجموع دو رشتهٔ دنا.",
+    "imageSource": {
+      "sourceId": "hezarzist-v2-authored",
+      "licenseId": "project-authored-v2",
+      "kind": "original_diagram",
+      "caption": "نمودار چهار ستون برای درصد A و T برابر ۲۰ و G و C برابر ۳۰ در مجموع دو رشتهٔ دنا."
+    }
+  },
+  {
+    "id": "V2-FINAL-12-1-02",
+    "grade": 12,
+    "chapter": 1,
+    "topic": "مکمل‌بودن و پیوندهای دنا",
+    "type": "fill_blank",
+    "stem": "در یک بخش سه‌جفت‌بازی دنا، بازهای یک رشته A–C–T هستند. با نوشتن بازهای دقیقاً روبه‌روی آن‌ها و در همان ترتیب مکانی، رشتهٔ مکمل .......... است. اگر هر جفت A–T دو و هر جفت G–C سه پیوند هیدروژنی داشته باشد، مجموع پیوندها در همین سه جفت .......... است؛ محاسبه را نیز بنویسید.",
+    "answer": "T–G–A؛ ۷ پیوند هیدروژنی (۲+۳+۲). ترتیب در این سؤال مکانی و روبه‌روی بازهای داده‌شده است، نه بازنویسی هر دو رشته در جهت یکسان.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "مکمل T–G–A در ترتیب مکانی خواسته‌شده",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "شمارش دو جفت A–T و یک جفت G–C",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "مجموع هفت پیوند",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 1: مولکول‌های اطلاعاتی؛ مکمل‌بودن و پیوندهای دنا"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-1-03",
+    "grade": 12,
+    "chapter": 1,
+    "topic": "ساختار پروتئین",
+    "type": "short",
+    "stem": "چرا تغییر یک آمینواسید ممکن است فعالیت پروتئین را کم کند، اما نمی‌توان گفت هر جایگزینی الزاماً آن را کاملاً غیرفعال می‌کند؟",
+    "answer": "تغییر آمینواسید می‌تواند بر برهم‌کنش‌ها و تاخوردگی، به‌ویژه جایگاه فعال یا بخش‌های مهم، اثر بگذارد. اثر به نوع جایگزینی و جایگاه آن وابسته است؛ برخی جایگزینی‌ها اثر اندک دارند، پس حکم غیرفعال‌شدن کامل برای همهٔ موارد درست نیست.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "پیوند توالی و ساختار/کارکرد",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "وابستگی اثر به نوع و محل و رد حکم همیشگی",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 1: مولکول‌های اطلاعاتی؛ ساختار پروتئین"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-2-01",
+    "grade": 12,
+    "chapter": 2,
+    "topic": "پیرایش رنا",
+    "type": "true_false",
+    "stem": "درستی عبارت را تعیین و اصلاح کنید: «در همهٔ ژن‌های یوکاریوتی، هر نوکلئوتید رنای اولیه الزاماً در رنای پیک بالغ باقی می‌ماند.»",
+    "answer": "نادرست است. در ژن‌های دارای بخش‌های حذف‌شونده، پیرایش می‌تواند بخش‌هایی از رنای اولیه را حذف و بخش‌های باقی‌مانده را به هم متصل کند؛ بنابراین همهٔ نوکلئوتیدهای رونویس اولیه الزاماً باقی نمی‌مانند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "نادرست‌بودن",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "حذف بخش‌های مشخص و اتصال باقی‌مانده در پیرایش",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 2: جریان اطلاعات در یاخته؛ پیرایش رنا"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "truth": false
+  },
+  {
+    "id": "V2-FINAL-12-2-02",
+    "grade": 12,
+    "chapter": 2,
+    "topic": "رمزه و پادرمزه",
+    "type": "definition_comparison",
+    "stem": "رمزه و پادرمزه را از نظر مولکول حامل، نقش و رابطهٔ مکمل مقایسه کنید؛ چرا رمزهٔ پایان، آمینواسیدی به نام «پایان» ندارد؟",
+    "answer": "رمزه توالی سه‌نوکلئوتیدی رنای پیک است که در ترجمه خوانده می‌شود. پادرمزه در رنای ناقل و مکمل رمزهٔ مناسب است و به قراردادن آمینواسید متناظر کمک می‌کند. رمزهٔ پایان با عامل پایان‌دهنده شناخته می‌شود و به رهاشدن پلی‌پپتید می‌انجامد، نه افزوده‌شدن آمینواسید پایان.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "رمزه در رنای پیک و پادرمزه در رنای ناقل",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "مکمل‌بودن و نقش در قراردادن آمینواسید",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "عامل پایان‌دهنده و نبود آمینواسید پایان",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 2: جریان اطلاعات در یاخته؛ رمزه و پادرمزه"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-2-03",
+    "grade": 12,
+    "chapter": 2,
+    "topic": "بیان ژن و تمایز",
+    "type": "essay",
+    "stem": "یاختهٔ عصبی و یاختهٔ ماهیچه‌ای یک فرد بسیاری از ژن‌های یکسان را دارند. توضیح دهید چگونه می‌توانند شکل و کارکرد متفاوت داشته باشند، بدون آنکه لازم باشد رمز ژنتیکی آن‌ها متفاوت باشد.",
+    "answer": "در دو نوع یاخته، مجموعهٔ ژن‌های فعال و میزان بیان آن‌ها می‌تواند متفاوت باشد. این تفاوت‌ها به ساخت مجموعه‌های متفاوت پروتئین و در نتیجه ساختار و کارکرد اختصاصی کمک می‌کند. معنای رمزه‌ها لازم نیست عوض شود؛ تفاوت در تنظیم استفاده از اطلاعات مشترک است.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تفاوت مجموعه/میزان بیان ژن‌ها",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "ارتباط پروتئین‌های متفاوت با ساختار و کارکرد",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "تفکیک تنظیم بیان از تغییر رمز ژنتیکی",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 2: جریان اطلاعات در یاخته؛ بیان ژن و تمایز"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-3-01",
+    "grade": 12,
+    "chapter": 3,
+    "topic": "هم‌توانی",
+    "type": "short",
+    "stem": "در صفتی فرضی، فرد ناخالص هر دو فرآوردهٔ قابل‌تشخیصِ دو دگره را هم‌زمان نشان می‌دهد؛ رخ‌نمود او حالت بینابینیِ دو فرد خالص نیست. این رابطهٔ دگره‌ها چه نام دارد و چه تفاوتی با بارزیت ناقص دارد؟",
+    "answer": "این وضعیت هم‌توانی است؛ اثر هر دو دگره در رخ‌نمود ناخالص به‌طور قابل‌تشخیص دیده می‌شود. در بارزیت ناقص، رخ‌نمود ناخالص نسبت به دو حالت خالص، حالت بینابینی دارد؛ هم‌زمان دیده‌شدن دو فرآورده را نباید الزاماً بینابینی دانست.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "تشخیص هم‌توانی و دیده‌شدن اثر هر دو دگره",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "مقایسه با رخ‌نمود بینابینی در بارزیت ناقص",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 3: انتقال اطلاعات در نسل‌ها؛ هم‌توانی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-3-02",
+    "grade": 12,
+    "chapter": 3,
+    "topic": "گروه خونی ABO",
+    "type": "fill_blank",
+    "stem": "در الگوی معمول ABO، فرد AB دگره‌های .......... و .......... دارد. دو دگره در رخ‌نمود او .......... هستند؛ فرد O معمولاً ژن‌نمود .......... دارد.",
+    "answer": "IA و IB؛ هم‌توان؛ ii. نوشتن A و B با مشخص‌کردن دگره‌ها نیز پذیرفتنی است.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "دو دگرهٔ IA و IB",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "هم‌توانی",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "ژن‌نمود ii",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 3: انتقال اطلاعات در نسل‌ها؛ گروه خونی ABO"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-3-03",
+    "grade": 12,
+    "chapter": 3,
+    "topic": "احتمال وابسته به X",
+    "type": "essay",
+    "stem": "مادری ناقل یک صفت نهفتهٔ وابسته به X و پدری سالم‌اند. احتمال ابتلا را یک‌بار در میان پسران و یک‌بار در میان همهٔ فرزندان محاسبه کنید؛ فرض کنید احتمال دو جنس برابر و جهش تازه‌ای رخ نمی‌دهد.",
+    "answer": "در میان پسران، یک‌دوم مبتلا می‌شوند، چون X آن‌ها از یکی از دو X مادر می‌آید. در میان همهٔ فرزندان، احتمال پسربودن یک‌دوم و احتمال دریافت X دارای دگرهٔ نهفته یک‌دوم است، پس احتمال ابتلای پسر یک‌چهارم است. دختران با X سالم پدر در این الگوی نهفته مبتلا نمی‌شوند، هرچند نیمی می‌توانند ناقل باشند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "احتمال شرطی یک‌دوم در پسران با دلیل X مادری",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "ضرب دو احتمال و یک‌چهارم در کل",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "عدم ابتلای دختران در فرض مسئله با X سالم پدر",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 3: انتقال اطلاعات در نسل‌ها؛ احتمال وابسته به X"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-4-01",
+    "grade": 12,
+    "chapter": 4,
+    "topic": "انتخاب طبیعی",
+    "type": "true_false",
+    "stem": "درستی عبارت را تعیین و اصلاح کنید: «وجود پادزیست، باکتری را وادار می‌کند دگرهٔ مقاومتِ مورد نیاز خود را هدفمند بسازد.»",
+    "answer": "نادرست است. جهش‌ها برای پاسخ هدفمند به نیاز ایجاد نمی‌شوند. اگر مقاوم‌ها از پیش وجود داشته باشند، پادزیست با حذف نسبی حساس‌ها به بقا و تولیدمثل بیشتر مقاوم‌ها کمک می‌کند و فراوانی دگرهٔ مقاومت افزایش می‌یابد.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "رد پیدایش هدفمند بر اثر نیاز",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "بقای متفاوت و افزایش سهم مقاوم‌های موجود",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 4: تغییر در اطلاعات وراثتی؛ انتخاب طبیعی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "truth": false
+  },
+  {
+    "id": "V2-FINAL-12-4-02",
+    "grade": 12,
+    "chapter": 4,
+    "topic": "جهش ژنی و عددی",
+    "type": "matching",
+    "stem": "رویدادها را به توصیف مناسب وصل کنید: الف) حذف یک نوکلئوتید از بخش رمزکننده، ب) عدم جدایی همتاها در میوز اول، پ) ورود تصادفی چند بنیان‌گذار با فراوانی متفاوت دگره. توصیف‌ها: ۱) امکان تغییر تعداد یک فام‌تن در گامت، ۲) امکان جابه‌جایی چارچوب خواندن، ۳) نمونه‌ای از رانش دگره‌ای.",
+    "answer": "الف–۲؛ ب–۱؛ پ–۳.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "حذف تک‌نوکلئوتیدی و تغییر چارچوب",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "عدم جدایی و گامت کم/اضافه‌فام‌تن",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "بنیان‌گذار و رانش",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 4: تغییر در اطلاعات وراثتی؛ جهش ژنی و عددی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "promptParts": [
+      {
+        "id": "a",
+        "text": "حذف یک نوکلئوتید"
+      },
+      {
+        "id": "b",
+        "text": "عدم جدایی همتاها"
+      },
+      {
+        "id": "c",
+        "text": "بنیان‌گذاری تصادفی جمعیت"
+      }
+    ]
+  },
+  {
+    "id": "V2-FINAL-12-4-03",
+    "grade": 12,
+    "chapter": 4,
+    "topic": "خطای میوز",
+    "type": "essay",
+    "stem": "در میوز یک یاخته، همتاهای یک جفت در تقسیم نخست به یک قطب رفته‌اند؛ تقسیم دوم طبیعی است. چهار گامت را از نظر تعداد آن فام‌تن مقایسه کنید و توضیح دهید چرا تقسیم دوم خطا را جبران نمی‌کند.",
+    "answer": "دو گامت یک فام‌تن اضافه نسبت به n دارند و دو گامت یک فام‌تن کمتر. در تقسیم اول هر دو همتا وارد یک یاخته و هیچ‌یک وارد دیگری شده‌اند؛ جدایی طبیعی کروماتیدها در تقسیم دوم این توزیع نامساوی همتاها را اصلاح نمی‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "دو n+1 و دو n−1",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "توزیع هر دو همتا در یک یاخته و نبود در دیگری",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "تمایز جدایی خواهری دوم از جدایی همتای اول",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 4: تغییر در اطلاعات وراثتی؛ خطای میوز"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-5-01",
+    "grade": 12,
+    "chapter": 5,
+    "topic": "تخمیر",
+    "type": "fill_blank",
+    "stem": "در تخمیر لاکتیکی، تبدیل پیرووات به لاکتات با تبدیل NADH به .......... همراه است؛ این بازسازی به ادامهٔ .......... کمک می‌کند.",
+    "answer": "NAD+؛ گلیکولیز.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "NAD+ یا ناقل اکسیدشده",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "گلیکولیز",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 5: از ماده به انرژی؛ تخمیر"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-5-02",
+    "grade": 12,
+    "chapter": 5,
+    "topic": "شیب پروتون",
+    "type": "essay",
+    "stem": "ماده‌ای راه نشت پروتون از غشای درونی میتوکندری باز می‌کند، بدون آنکه مستقیماً زنجیرهٔ انتقال الکترون را ببندد. چرا با وجود امکان جریان الکترون، ساخت ATP می‌تواند کم شود؟",
+    "answer": "زنجیرهٔ انتقال الکترون با انتقال پروتون اختلاف دو سوی غشا را ایجاد می‌کند. اگر پروتون‌ها از راه نشت و بدون عبور از ATPساز برگردند، شیب مؤثر کاهش می‌یابد و انرژی آن برای ATPسازی به‌خوبی به کار نمی‌رود. پس وجود جریان الکترون به‌تنهایی مقدار مناسب ATP را تضمین نمی‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "نقش زنجیره در ایجاد شیب پروتون",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "برگشت از مسیر نشت و کاهش شیب",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "وابستگی ATPساز به شیب و تفکیک از صرف جریان الکترون",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 5: از ماده به انرژی؛ شیب پروتون"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-5-03",
+    "grade": 12,
+    "chapter": 5,
+    "topic": "جایگاه واکنش‌ها",
+    "type": "matching",
+    "stem": "مرحله را به جایگاه معمول در یاختهٔ ماهیچه‌ای انسان وصل کنید: الف) گلیکولیز، ب) چرخهٔ کربس، پ) زنجیرهٔ انتقال الکترون تنفسی. جایگاه‌ها: ۱) غشای درونی میتوکندری، ۲) میان‌یاخته، ۳) بسترهٔ میتوکندری.",
+    "answer": "الف–۲؛ ب–۳؛ پ–۱.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "گلیکولیز و میان‌یاخته",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "کربس و بستره",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "زنجیره و غشای درونی",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 5: از ماده به انرژی؛ جایگاه واکنش‌ها"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "promptParts": [
+      {
+        "id": "a",
+        "text": "گلیکولیز"
+      },
+      {
+        "id": "b",
+        "text": "چرخهٔ کربس"
+      },
+      {
+        "id": "c",
+        "text": "زنجیرهٔ تنفسی"
+      }
+    ]
+  },
+  {
+    "id": "V2-FINAL-12-6-01",
+    "grade": 12,
+    "chapter": 6,
+    "topic": "کلروپلاست",
+    "type": "diagram_label",
+    "stem": "در شکل، A غشای تیلاکوئید و B بسترهٔ کلروپلاست است. دو فرآوردهٔ حامل انرژی/الکترون را که از واکنش‌های A در فرایندهای B مصرف می‌شوند بنویسید و بگویید اکسیژن آزادشده از کدام ماده منشأ می‌گیرد.",
+    "answer": "ATP و NADPH در واکنش‌های وابسته به نور فراهم می‌شوند و در چرخهٔ کالوینِ بستره مصرف می‌شوند. اکسیژن آزادشده در فتوسنتز اکسیژن‌زا از تجزیهٔ آب منشأ می‌گیرد، نه از کربن‌دی‌اکسید.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "ATP و NADPH",
+        "points": 1
+      },
+      {
+        "id": "p2",
+        "criterion": "ارتباط واکنش نوری و چرخهٔ کالوین در دو جایگاه",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "آب به‌عنوان منشأ اکسیژن",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 2.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 6: از انرژی به ماده؛ کلروپلاست"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "image": "diagrams/chloroplast.png",
+    "imageDescription": "طرح کلروپلاست با غشای دوگانه و تیلاکوئیدها؛ A غشای تیلاکوئید و B بستره را مشخص می‌کند.",
+    "imageSource": {
+      "sourceId": "hezarzist-v2-authored",
+      "licenseId": "project-authored-v2",
+      "kind": "original_diagram",
+      "caption": "طرح کلروپلاست با غشای دوگانه و تیلاکوئیدها؛ A غشای تیلاکوئید و B بستره را مشخص می‌کند."
+    }
+  },
+  {
+    "id": "V2-FINAL-12-6-02",
+    "grade": 12,
+    "chapter": 6,
+    "topic": "تنفس نوری",
+    "type": "true_false",
+    "stem": "درستی عبارت را تعیین و اصلاح کنید: «بسته‌شدن روزنه‌های گیاه C3 در گرما فقط بر اتلاف آب اثر دارد و نسبت گازهای مؤثر بر روبیسکو را تغییر نمی‌دهد.»",
+    "answer": "نادرست است. بسته‌شدن روزنه ورود CO2 را محدود می‌کند و می‌تواند نسبت O2 به CO2 را افزایش دهد. در نتیجه احتمال واکنش روبیسکو با اکسیژن و تنفس نوری بیشتر و بازده تثبیت خالص کربن کمتر می‌شود.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "رد محدودبودن اثر به آب",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "محدودشدن CO2 و تغییر نسبت O2/CO2",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "ارتباط با تنفس نوری و کاهش بازده",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 6: از انرژی به ماده؛ تنفس نوری"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "truth": false
+  },
+  {
+    "id": "V2-FINAL-12-6-03",
+    "grade": 12,
+    "chapter": 6,
+    "topic": "گیاه CAM",
+    "type": "short",
+    "stem": "بازشدن عمدهٔ روزنه‌های گیاه CAM در شب چگونه به حفظ آب کمک می‌کند و کربن گرفته‌شده چگونه برای روز نگهداری می‌شود؟",
+    "answer": "شب معمولاً خنک‌تر است و بازبودن روزنه با اتلاف آب کمتری همراه می‌شود. کربن‌دی‌اکسید در ترکیبات آلی به‌طور موقت تثبیت و ذخیره می‌شود و روز برای چرخهٔ کالوین فراهم می‌شود؛ نیاز به نور در واکنش‌های نوری حذف نمی‌شود.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "دریافت شبانه در شرایط با اتلاف کمتر آب",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "تثبیت موقت در ترکیبات آلی و استفادهٔ روز",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 6: از انرژی به ماده؛ گیاه CAM"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-7-01",
+    "grade": 12,
+    "chapter": 7,
+    "topic": "کنترل PCR",
+    "type": "short",
+    "stem": "چرا در کنار PCR نمونه، یک واکنش با همهٔ مواد لازم ولی بدون دنا الگو آماده می‌شود؟ مشاهدهٔ محصول در این شاهد چه اقدامی را ضروری می‌کند؟",
+    "answer": "شاهد بدون الگو برای آشکارکردن آلودگی یا محصول ناخواسته است. محصول در آن اعتبار نتیجه را تهدید می‌کند؛ باید احتمال آلودگی مواد یا واکنش ناخواسته بررسی و آزمایش با کنترل مناسب تکرار شود.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "نقش شاهد منفی برای آلودگی/محصول ناخواسته",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "لزوم بررسی و تکرار کنترل‌شده در صورت محصول",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 7: فناوری‌های نوین زیستی؛ کنترل PCR"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-7-02",
+    "grade": 12,
+    "chapter": 7,
+    "topic": "اتصال دنا",
+    "type": "fill_blank",
+    "stem": "پس از جفت‌شدن بازهای انتهای چسبندهٔ دو قطعهٔ دنا، آنزیم .......... با ایجاد پیوند .......... شکاف ستون قندـفسفات را می‌بندد.",
+    "answer": "لیگاز؛ فسفودی‌استر.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "لیگاز",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "فسفودی‌استر",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 7: فناوری‌های نوین زیستی؛ اتصال دنا"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-7-03",
+    "grade": 12,
+    "chapter": 7,
+    "topic": "گزینش و تأیید سازه",
+    "type": "essay",
+    "stem": "باکتری‌های دریافت‌کنندهٔ پلاسمید روی محیط دارای پادزیست انتخاب می‌شوند. چرا رشد یک کلنی برای ادعای «ژن هدف درست وارد شده و پروتئین هدف درست ساخته شده» کافی نیست؟ پاسخ را به نشانگر انتخابی و آزمون‌های بعدی مرتبط کنید.",
+    "answer": "رشد در محیط انتخابی وجود مقاومت مؤثر را پشتیبانی می‌کند. نشانگر مقاومت الزاماً توالی و محل درست ژن هدف یا بیان درست آن را نشان نمی‌دهد. باید وجود و صحت قطعهٔ هدف با بررسی دنا و تولید و کارکرد مناسب فرآورده با بررسی جداگانه تأیید شود؛ رشد فقط مرحلهٔ گزینش است.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "رشد به‌عنوان شاهد مقاومت",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "تفکیک نشانگر از صحت ژن هدف",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "نیاز به بررسی جداگانهٔ دنا و فرآورده",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 7: فناوری‌های نوین زیستی؛ گزینش و تأیید سازه"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-8-01",
+    "grade": 12,
+    "chapter": 8,
+    "topic": "خوگیری",
+    "type": "definition_comparison",
+    "stem": "خوگیری به یک صدای تکراری بی‌خطر را با ناتوانی عمومی در حرکت مقایسه کنید. پاسخ به یک محرک تازه چگونه در این مقایسه کمک می‌کند؟",
+    "answer": "در خوگیری، پاسخ به محرک تکراری کاهش می‌یابد، اما توان پاسخ‌دهی عمومی الزاماً از بین نمی‌رود. اگر جانور به محرک تازه گریز طبیعی نشان دهد، ناتوانی عمومی حرکتی توضیح مناسبی برای کاهش پاسخ به صدای قبلی نیست؛ این مشاهده با خوگیری سازگار است.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "کاهش اختصاصی پاسخ بر اثر تکرار بی‌خطر",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "حفظ توان پاسخ به محرک تازه و رد ناتوانی عمومی",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.0,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 8: رفتارهای جانوران؛ خوگیری"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  },
+  {
+    "id": "V2-FINAL-12-8-02",
+    "grade": 12,
+    "chapter": 8,
+    "topic": "ارزش سازشی",
+    "type": "matching",
+    "stem": "پرسش‌ها را به نوع بررسی وصل کنید: الف) کدام هورمون آغاز مهاجرت را تحریک می‌کند؟ ب) مهاجرت چگونه موفقیت تولیدمثلی را بیشتر می‌کند؟ پ) گیرندهٔ نوری چگونه طول روز را دریافت می‌کند؟ نوع‌ها: ۱) علت نزدیک/سازوکار، ۲) ارزش سازشی. یک نوع می‌تواند بیش از یک‌بار استفاده شود.",
+    "answer": "الف–۱؛ ب–۲؛ پ–۱. علت نزدیک چگونگی ایجاد رفتار و ارزش سازشی تأثیر رفتار بر بقا و تولیدمثل را بررسی می‌کند.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "الف با علت نزدیک",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "ب با ارزش سازشی",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "پ با علت نزدیک",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 8: رفتارهای جانوران؛ ارزش سازشی"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment",
+    "promptParts": [
+      {
+        "id": "a",
+        "text": "هورمون آغاز مهاجرت"
+      },
+      {
+        "id": "b",
+        "text": "افزایش موفقیت تولیدمثلی"
+      },
+      {
+        "id": "c",
+        "text": "دریافت طول روز"
+      }
+    ]
+  },
+  {
+    "id": "V2-FINAL-12-8-03",
+    "grade": 12,
+    "chapter": 8,
+    "topic": "هزینه و فایده",
+    "type": "essay",
+    "stem": "پرنده‌ای می‌تواند خوراک کوچکِ نزدیک یا خوراک بزرگِ دور و سخت‌گشا را انتخاب کند. چرا اندازهٔ خوراک به‌تنهایی بهترین انتخاب را مشخص نمی‌کند؟ دست‌کم سه عامل مناسب برای مقایسه بنویسید.",
+    "answer": "باید انرژی قابل دریافت را در برابر هزینهٔ یافتن، رفتن و بازکردن خوراک سنجید. زمان لازم، انرژی مصرفی و خطر شکارشدن یا ازدست‌رفتن فرصت‌های دیگر نیز مهم‌اند. خوراک بزرگ‌تر می‌تواند سود خالص کمتری در واحد زمان داشته باشد؛ نتیجه به شرایط بستگی دارد.",
+    "rubric": [
+      {
+        "id": "p1",
+        "criterion": "انرژی دریافتی در مقایسه با انرژی هزینه‌شده",
+        "points": 0.5
+      },
+      {
+        "id": "p2",
+        "criterion": "زمان دستیابی/آماده‌سازی",
+        "points": 0.5
+      },
+      {
+        "id": "p3",
+        "criterion": "خطر یا هزینهٔ فرصت و رد نتیجه‌گیری صرفاً از اندازه",
+        "points": 0.5
+      }
+    ],
+    "totalPoints": 1.5,
+    "marking": "suggested",
+    "rubricLabel": "بارم پیشنهادی؛ خودارزیابی",
+    "source": {
+      "kind": "authored",
+      "book": "زیست‌شناسی پایهٔ 12",
+      "section": "فصل 8: رفتارهای جانوران؛ هزینه و فایده"
+    },
+    "origin": {
+      "kind": "authored",
+      "label": "تألیفی مستقل",
+      "sourceId": "hezarzist-v2-authored"
+    },
+    "license": {
+      "id": "project-authored-v2",
+      "status": "original_project_content",
+      "distributionAllowed": true,
+      "holder": "محتوای مستقل تألیفی پروژه",
+      "evidence": "content/v2/LICENSES.md"
+    },
+    "sourceId": "hezarzist-v2-authored",
+    "licenseId": "project-authored-v2",
+    "reviewStatus": "conceptual_review_pending_official_edition_alignment"
+  }
+]

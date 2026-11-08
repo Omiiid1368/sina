@@ -1,0 +1,19 @@
+{
+  "applicationId": "ir.hezarzist",
+  "versionCode": 5,
+  "versionName": "0.13.0-content-preview",
+  "artifacts": [
+    {
+      "name": "HezarZist-0.13.0-content-preview-release.apk",
+      "bytes": 45590154,
+      "sha256": "25cf698505d4ad78d4e2fc7706935df9516e540ccaccb41ba4e7a4f8d89fe7f0"
+    },
+    {
+      "name": "HezarZist-0.13.0-content-preview-release-test.apk",
+      "bytes": 1547037,
+      "sha256": "fab807db416bf77c414b6444866caaf1360b7b5b49d93d30d57dbb004242feaf"
+    }
+  ],
+  "certificateMatchesV012": true,
+  "certificateSha256": "b42c07d4458e3aeca4d508b0762ea5554f9e7632eb5e875670f793e6be54962a"
+}
