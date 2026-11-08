@@ -1,0 +1,6 @@
+{
+  "apkSha256": "9012364db913ab1809b48437aa6c8db683d0ee0caa8995d00952835cdbd0316c",
+  "installedBaseApkByteHashVerified": true,
+  "testCompileVariant": "release",
+  "testBuildTypeOverride": "external Gradle init script; application source unchanged"
+}

@@ -1,0 +1,5 @@
+af83a063514305c09b0c8114c7a5f53b6e996311ace6590b800b8437bd50e31c  HezarZist-0.11.0-offline-preview-delivery.zip
+be41f3d181022cc3faf99e76290fd9b3147a0841f61fbd3df50eec52f8e917f5  HezarZist-0.11.0-offline-preview-package-manifest.json
+9012364db913ab1809b48437aa6c8db683d0ee0caa8995d00952835cdbd0316c  HezarZist-0.11.0-offline-preview-release.apk
+29a7c647eb0eadbd878475faf1fed50c736fd44f1d1e953c3c237dffca376e05  HezarZist-0.11.0-offline-preview-source.zip
+841d13bc0ac6cc20a96142baffa640c5b2d2ee1cc134cbd98c1f68c174b0b7cb  HezarZist-0.11.0-offline-preview.aab

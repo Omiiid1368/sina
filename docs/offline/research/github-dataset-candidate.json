@@ -1,0 +1,237 @@
+{
+  "repository": "kgwefvfdjk/konkur-tajrobi-teaching-dataset",
+  "url": "https://github.com/kgwefvfdjk/konkur-tajrobi-teaching-dataset",
+  "status": 200,
+  "recordedAt": "2026-11-07T21:25:47.682971+00:00",
+  "fileLinks": [
+    "/kgwefvfdjk/konkur-tajrobi-teaching-dataset/blob/main/.gitignore",
+    "/kgwefvfdjk/konkur-tajrobi-teaching-dataset/blob/main/LICENSE",
+    "/kgwefvfdjk/konkur-tajrobi-teaching-dataset/blob/main/README.md",
+    "/kgwefvfdjk/konkur-tajrobi-teaching-dataset/blob/main/build_multimodal.py",
+    "/kgwefvfdjk/konkur-tajrobi-teaching-dataset/blob/main/crop_questions.py",
+    "/kgwefvfdjk/konkur-tajrobi-teaching-dataset/blob/main/dataset_card.md",
+    "/kgwefvfdjk/konkur-tajrobi-teaching-dataset/blob/main/extract_notes.py",
+    "/kgwefvfdjk/konkur-tajrobi-teaching-dataset/blob/main/extract_questions.py",
+    "/kgwefvfdjk/konkur-tajrobi-teaching-dataset/blob/main/generate_solutions.py",
+    "/kgwefvfdjk/konkur-tajrobi-teaching-dataset/blob/main/parse_keys.py",
+    "/kgwefvfdjk/konkur-tajrobi-teaching-dataset/tree/main/data",
+    "/kgwefvfdjk/konkur-tajrobi-teaching-dataset/tree/main/docs",
+    "/kgwefvfdjk/konkur-tajrobi-teaching-dataset/tree/main/images"
+  ],
+  "readmeText": "  Konkur Teaching Corpus — دیتاست آموزشی کنکور برای مدل‌های زبانی        \n هدف: یاد دادن  روش تدریس و حل  سؤالات کنکور سراسری ایران (گروه تجربی)\nبه یک مدل زبانی — نه فقط رساندن آن به گزینهٔ درست. یک مدل که با این\nدیتاست fine-tune یا prompted شود باید بتواند: \n \n سؤال کنکور را در سطح واقعی کنکور  حل  کند \n  دلیل  انتخاب هر رابطه و هر گام را توضیح دهد \n بگوید هر  گزینهٔ غلط از کدام خطای فکری  می‌آید \n  نکتهٔ تعمیم‌یافته  بدهد تا دانش‌آموز تیپ را یاد بگیرد \n سؤال  جدید  در همان تیپ و همان سطح دشواری تولید کند \n \n \n  ساختار مخزن        \n   konkur_dataset/\n├── data/\n│   ├── questions.json        # ۴۰۹ سؤال، همه ۴ گزینه (متن‌دار + OCR فیلترشده)\n│   ├── solutions.jsonl       # ۲۹۳ حل تشریحی، تأییدشده با کلید سنجش (rejection sampling)\n│   ├── notes.jsonl           # ۳٬۱۴۲ نکتهٔ آموزشی از جزوه‌های جمع‌بندی\n│   ├── physics_hard.jsonl    # ۳۳ سؤال سخت فیزیک (دست‌نویس)\n│   ├── seed_examples.jsonl   # ۴ نمونهٔ طلایی دست‌نویس\n│   ├── answer_keys.json      # پاسخ کلید سازمان سنجش (۹۸ تا ۱۴۰۴)\n│   └── image_index.json      # نقشهٔ سؤال ← تصویر کراپ‌شده\n├── images/{1402,1403,1404}/  # ۵۸۰ تصویر کراپ‌شدهٔ سؤال\n├── docs/                     # روش تدریس هر درس (متن آموزشی برای مدل)\n├── extract_questions.py      # استخراج سؤال از PDF دارای لایهٔ متن\n├── crop_questions.py         # کراپ ناحیهٔ هر سؤال به PNG\n├── parse_keys.py             # پارس پاسخ‌نامه\n├── generate_solutions.py     # تولید انبوه حل + rejection sampling\n└── extract_notes.py          # استخراج نکات از جزوه (OCR + بازسازی با LLM)\n   \n \n  قالب داده        \n هر خط از فایل‌های  .jsonl  یک نمونهٔ آموزشی است، در قالب استاندارد chat: \n  { \"messages\" : [\n  { \"role\" :   \" system \"  ,     \"content\" :   \" تو یک معلم فیزیک کنکور هستی... \"  },\n  { \"role\" :   \" user \"  ,       \"content\" :   \" صورت سؤال + چهار گزینه \"  },\n  { \"role\" :   \" assistant \"  ,  \"content\" :   \" حل هفت‌گامی کامل \"  }\n]}  \n این قالب مستقیماً با  unsloth ،  axolotl  و  LLaMA-Factory  کار می‌کند.\nمدل پایهٔ پیشنهادی:  Qwen2.5-Math-7B  برای ریاضی/فیزیک، و یک مدل قوی\nچندزبانه در فارسی برای زیست (چون زیست فهم دقیق متن فارسی می‌خواهد نه محاسبه). \n \n  آمار دیتاست        \n  \n \n \n فایل \n تعداد \n توضیح \n \n \n \n \n سؤال (۴ گزینه) \n ۴۰۹ \n زیست ۸۸، زمین ۱۳۱، شیمی ۶۴، ریاضی ۶۳، فیزیک ۵۰، عمومی ۱۳ \n \n \n حل تشریحی \n ۲۹۳ \n همه با کلید سنجش تأیید شده \n \n \n نکات جزوه \n ۳٬۱۴۲ \n زیست ۲٬۰۸۹، شیمی ۱٬۰۵۳ \n \n \n تصویر کراپ‌شده \n ۵۸۰ \n ۱۴۰۲/۱۴۰۳/۱۴۰۴ \n \n \n  \n  توزیع سؤال‌ها بر درس  (برای weighted sampling هنگام آموزش): \n   زمین‌شناسی  131\nزیست‌شناسی   88\nشیمی          64\nریاضی         63\nفیزیک         50\nعمومی         13\n   \n \n  الگوی هفت‌گامی (قرارداد اصلی دیتاست)        \n هر پاسخ  assistant  باید این ساختار را داشته باشد: \n  \n \n \n گام \n محتوا \n \n \n \n \n ۱ \n دسته‌بندی: فصل و تیپ سؤال \n \n \n ۲ \n داده‌برداری: هر عدد با یکا، مجهول مشخص \n \n \n ۳ \n انتخاب رابطه/مفهوم  با دلیل  \n \n \n ۴ \n بررسی شرط‌های اعتبار \n \n \n ۵ \n محاسبه یا استدلال گام‌به‌گام \n \n \n ۶ \n صحت‌سنجی +  تحلیل تله‌های هر گزینه  \n \n \n ۷ \n نکتهٔ تعمیم‌یافته \n \n \n  \n پاسخی که گام ۶ و ۷ را نداشته باشد  ناقص  است، حتی اگر گزینه درست باشد. \n \n  تولید دیتاست (بازتولید)        \n  pip install pdfplumber pymupdf tesseract-ocr-fas\n\n  #  ۱. استخراج سؤال از دفترچه‌های PDF (۱۴۰۲–۱۴۰۴ متن‌دار) \npython extract_questions.py\n\n  #  ۲. استخراج سؤال از دفترچه‌های اسکن‌شده (۹۸–۱۴۰۱) با OCR فارسی \npython ocr_extract.py --years 1401 1400 99 98 --dpi 200 --workers 2\n\n  #  ۳. پارس پاسخ‌نامه‌ها \npython parse_keys.py\n\n  #  ۴. تولید حل با یک مدل teacher + فیلتر با کلید سنجش \n export  HERMES_CUSTOM_104_252_111_21_20128_API_KEY=...\n export  KONKUR_MODEL=tabi\npython generate_solutions.py --limit 400 --workers 64 --samples 3\n\n  #  ۵. استخراج نکات از جزوه‌های جمع‌بندی (OCR + بازسازی با LLM) \npython extract_notes.py --workers 28  \n نکتهٔ پیاده‌سازی: gateway کاربر پاسخ را همیشه به‌صورت SSE ( data: {...} )\nبرمی‌گرداند حتی بدون  stream ؛ اسکریپت‌ها پاسخ را chunk-by-chunk پارس\nمی‌کنند و بلوک  <think>…</think>  مدل‌های reasoning را حذف می‌کنند. \n  rejection sampling        \n  generate_solutions.py  هر سؤال را تا ۳ بار از مدل teacher می‌پرسد و\n فقط  حل‌هایی را نگه می‌دارد که گزینهٔ نهایی‌شان با پاسخ کلید سازمان\nسنجش یکی باشد. بدون این فیلتر، مدل student خطاهای teacher را حفظ می‌کند. \n \n  محدودیت شناخته‌شده        \n \n  پوشش ناقص سال‌ها : ۱۴۰۲–۱۴۰۴ متن‌دار استخراج شد؛ ۹۸–۱۴۰۱ اسکن بودند.\nOCR توسط  tesseract -l fas  اجرا شد اما فقط ۱۶ سؤال گزینهٔ کامل داد\n(بقیه شکل/نمودار داشتند که OCR نخواند). این ۱۶ تا به  questions.json \nاضافه شدند، بقیه حذف شدند چون بدون گزینه برای مدل گمراه‌کننده‌اند. \n  کلید ۱۴۰۴ ناقص پارس شد  (۲۵ از ۲۵۸) و  کلید ۹۸ هنوز پارس نشده  —\nفرمت جدولشان با parser فعلی متفاوت است. \n  نکات جزوه فیلتر صحت‌سنجی ندارند : از متن PDF که حروفش به‌هم ریخته\nبازسازی شده‌اند. قبل از استفاده به‌عنوان مرجع درسی، با کتاب چک شوند. \n سؤالاتی که  شکل، نمودار یا جدول  دارند (و هنوز استخراج نشده‌اند) در\n images/  هستند اما قالب multimodal برایشان تولید نشده است. \n \n \n  کیفیت بر کمیت        \n ۵٬۰۰۰ نمونهٔ فیلترشده از ۵۰٬۰۰۰ نمونهٔ خام بهتر است. معیارهای پذیرش: \n \n گزینهٔ نهایی با کلید سنجش یکی باشد \n هر هفت گام حاضر باشد \n تحلیل تله‌ها واقعاً به خطای فکری اشاره کند، نه عدد تصادفی \n فارسی روان، بدون ترجمهٔ ماشینی \n \n \n  منبع و مجوز        \n سؤالات از دفترچه‌های عمومی آزمون سراسری  سازمان سنجش آموزش کشور  است.\nحق اثر سؤالات با سازمان سنجش است؛ این مخزن فقط برای  پژوهش و آموزش \nگردآوری و شرح شده است. متن‌های آموزشی ( docs/ ) و اسکریپت‌ها تحت MIT. \n",
+  "authority": "Community repository; no official source validation inferred.",
+  "commit": "1bae6cfef467a7aebaaeff0c912e47092ac1da2e",
+  "inspectedFiles": [
+    {
+      "url": "https://github.com/kgwefvfdjk/konkur-tajrobi-teaching-dataset/tree/1bae6cfef467a7aebaaeff0c912e47092ac1da2e/data",
+      "kind": "tree",
+      "path": "data",
+      "status": 200,
+      "files": [
+        {
+          "name": "answer_keys.json",
+          "path": "data/answer_keys.json",
+          "contentType": "file"
+        },
+        {
+          "name": "image_index.json",
+          "path": "data/image_index.json",
+          "contentType": "file"
+        },
+        {
+          "name": "notes.jsonl",
+          "path": "data/notes.jsonl",
+          "contentType": "file"
+        },
+        {
+          "name": "physics_hard.jsonl",
+          "path": "data/physics_hard.jsonl",
+          "contentType": "file"
+        },
+        {
+          "name": "questions.json",
+          "path": "data/questions.json",
+          "contentType": "file"
+        },
+        {
+          "name": "seed_examples.jsonl",
+          "path": "data/seed_examples.jsonl",
+          "contentType": "file"
+        },
+        {
+          "name": "solutions.jsonl",
+          "path": "data/solutions.jsonl",
+          "contentType": "file"
+        }
+      ],
+      "totalCount": 7
+    },
+    {
+      "url": "https://github.com/kgwefvfdjk/konkur-tajrobi-teaching-dataset/tree/1bae6cfef467a7aebaaeff0c912e47092ac1da2e/docs",
+      "kind": "tree",
+      "path": "docs",
+      "status": 200,
+      "files": [
+        {
+          "name": "01_physics.md",
+          "path": "docs/01_physics.md",
+          "contentType": "file"
+        },
+        {
+          "name": "02_chemistry.md",
+          "path": "docs/02_chemistry.md",
+          "contentType": "file"
+        },
+        {
+          "name": "03_biology.md",
+          "path": "docs/03_biology.md",
+          "contentType": "file"
+        },
+        {
+          "name": "04_math.md",
+          "path": "docs/04_math.md",
+          "contentType": "file"
+        }
+      ],
+      "totalCount": 4
+    },
+    {
+      "url": "https://github.com/kgwefvfdjk/konkur-tajrobi-teaching-dataset/tree/1bae6cfef467a7aebaaeff0c912e47092ac1da2e/images",
+      "kind": "tree",
+      "path": "images",
+      "status": 200,
+      "files": [
+        {
+          "name": "1402",
+          "path": "images/1402",
+          "contentType": "directory"
+        },
+        {
+          "name": "1403",
+          "path": "images/1403",
+          "contentType": "directory"
+        },
+        {
+          "name": "1404",
+          "path": "images/1404",
+          "contentType": "directory"
+        }
+      ],
+      "totalCount": 3
+    },
+    {
+      "url": "https://github.com/kgwefvfdjk/konkur-tajrobi-teaching-dataset/blob/1bae6cfef467a7aebaaeff0c912e47092ac1da2e/dataset_card.md",
+      "kind": "blob",
+      "path": "dataset_card.md",
+      "status": 200,
+      "lineCount": 75,
+      "sourceReferences": [
+        {
+          "line": 2,
+          "text": "license: other"
+        },
+        {
+          "line": 3,
+          "text": "license_name: sanjesh-public-exam"
+        },
+        {
+          "line": 40,
+          "text": "- تقلب در آزمون یا هر استفادهٔ تجاری از سؤالات سازمان سنجش"
+        },
+        {
+          "line": 46,
+          "text": "فیلد `meta` شامل `year`، `subject`، `q_no` و `gold` (پاسخ کلید سنجش)."
+        },
+        {
+          "line": 52,
+          "text": "3. پارس پاسخ‌نامهٔ رسمی سازمان سنجش"
+        },
+        {
+          "line": 60,
+          "text": "  ناقص می‌مانند. این‌ها یا حذف می‌شوند یا باید به‌صورت چندوجهی (multimodal)"
+        },
+        {
+          "line": 72,
+          "text": "## مجوز"
+        },
+        {
+          "line": 74,
+          "text": "سؤالات: متعلق به سازمان سنجش آموزش کشور، استفادهٔ پژوهشی و آموزشی."
+        }
+      ],
+      "text": "---\nlicense: other\nlicense_name: sanjesh-public-exam\ntask_categories:\n  - question-answering\n  - text-generation\nlanguage:\n  - fa\ntags:\n  - education\n  - exam\n  - konkur\n  - iran\n  - reasoning\n  - chain-of-thought\npretty_name: Konkur Teaching Corpus\nsize_categories:\n  - 1K<n<10K\n---\n\n# Dataset Card — Konkur Teaching Corpus\n\n## خلاصه\n\nدیتاستی برای آموزش **روش تدریس** سؤالات کنکور سراسری ایران (گروه آزمایشی\nعلوم تجربی) به مدل‌های زبانی. درس‌ها: فیزیک، شیمی، زیست‌شناسی، ریاضی.\n\nتفاوت اصلی با دیتاست‌های موجود: هدف رسیدن به گزینهٔ درست نیست؛ هدف\n**تولید توضیح آموزشی** است — چرا این رابطه، چه شرطی، هر گزینهٔ غلط از\nکدام خطا، و چه قاعده‌ای برای سؤال‌های مشابه.\n\n## کاربردهای پیش‌بینی‌شده\n\n- fine-tune یک مدل معلم برای آموزش کنکور\n- تولید سؤال جدید هم‌سطح کنکور با تحلیل تله‌ها\n- ارزیابی توان استدلال چندگامی مدل‌ها در زبان فارسی\n\n## کاربردهای نامناسب\n\n- تقلب در آزمون یا هر استفادهٔ تجاری از سؤالات سازمان سنجش\n- ارائه به‌عنوان مشاورهٔ آموزشی رسمی بدون بازبینی انسانی\n\n## ساختار\n\nقالب chat استاندارد (`system` / `user` / `assistant`) در JSONL.\nفیلد `meta` شامل `year`، `subject`، `q_no` و `gold` (پاسخ کلید سنجش).\n\n## فرایند ساخت\n\n1. دانلود دفترچه‌های عمومی از منابع آزاد\n2. استخراج متن با `pdfplumber` + اصلاح ترتیب RTL\n3. پارس پاسخ‌نامهٔ رسمی سازمان سنجش\n4. تولید حل با مدل teacher، چند نمونه به‌ازای هر سؤال\n5. **rejection sampling**: نگه‌داشتن فقط حل‌هایی که به پاسخ کلید رسیده‌اند\n6. بازبینی انسانی نمونه‌های seed\n\n## محدودیت‌ها و سوگیری‌ها\n\n- **سؤالات تصویری**: سؤال‌های دارای شکل، نمودار یا جدول در استخراج متنی\n  ناقص می‌مانند. این‌ها یا حذف می‌شوند یا باید به‌صورت چندوجهی (multimodal)\n  پردازش شوند.\n- **سال‌های اسکن‌شده**: ۹۸، ۹۹ و ۱۴۰۰ لایهٔ متن ندارند و بدون OCR فارسی\n  وارد دیتاست نشده‌اند.\n- **دانش بیرون کتاب درسی**: مدل teacher ممکن است پاسخی علمی درست بدهد که\n  با مبنای کتاب درسی ایران نمی‌خواند — خصوصاً در زیست‌شناسی. این خطر در\n  `docs/03_biology.md` صریحاً هشدار داده شده.\n- **گروه تجربی**: دیتاست فعلاً فقط تجربی است؛ ریاضی-فیزیک و انسانی ندارد.\n- **درستی گام‌ها**: rejection sampling تضمین می‌کند **گزینهٔ نهایی** درست\n  باشد، اما تضمین نمی‌کند همهٔ گام‌های میانی بی‌خطا باشند. برای دقت بالاتر\n  باید بازبینی انسانی یا داوری مدل دوم اضافه شود.\n\n## مجوز\n\nسؤالات: متعلق به سازمان سنجش آموزش کشور، استفادهٔ پژوهشی و آموزشی.\nاسکریپت‌ها و متن‌های آموزشی نوشته‌شده در `docs/`: MIT.",
+      "renderedTextSha256": "8351e792f3c3821bacfa594684dd3a2ed978b74b2e2e47186c902327b3ae9c8e"
+    },
+    {
+      "url": "https://github.com/kgwefvfdjk/konkur-tajrobi-teaching-dataset/blob/1bae6cfef467a7aebaaeff0c912e47092ac1da2e/extract_questions.py",
+      "kind": "blob",
+      "path": "extract_questions.py",
+      "status": 200,
+      "lineCount": 109,
+      "sourceReferences": [
+        {
+          "line": 27,
+          "text": "    \"1402\": \"/root/konkur/Konkur_1402_Tajrobi_Soalat.pdf\","
+        },
+        {
+          "line": 28,
+          "text": "    \"1403\": \"/root/konkur/Konkur_1403_Tajrobi_Soalat.pdf\","
+        },
+        {
+          "line": 29,
+          "text": "    \"1404\": \"/root/konkur/Konkur_1404_Tajrobi_Soalat.pdf\","
+        }
+      ],
+      "renderedTextSha256": "57d56266f8f9ca0826c8d04cc6895fa731572189a3ec72f01b089c31414dec25"
+    },
+    {
+      "url": "https://github.com/kgwefvfdjk/konkur-tajrobi-teaching-dataset/blob/1bae6cfef467a7aebaaeff0c912e47092ac1da2e/parse_keys.py",
+      "kind": "blob",
+      "path": "parse_keys.py",
+      "status": 200,
+      "lineCount": 56,
+      "sourceReferences": [
+        {
+          "line": 2,
+          "text": "\"\"\"پارس پاسخ‌نامهٔ کلیدی سازمان سنجش."
+        },
+        {
+          "line": 47,
+          "text": "    for f in sorted(glob.glob(\"/root/konkur/*_Kelid.pdf\")):"
+        }
+      ],
+      "renderedTextSha256": "e1eb408e7792282757779bbf24cb7c44a447dcb60ac4dfe225edcb070b3867e7"
+    },
+    {
+      "url": "https://github.com/kgwefvfdjk/konkur-tajrobi-teaching-dataset/blob/1bae6cfef467a7aebaaeff0c912e47092ac1da2e/.gitignore",
+      "kind": "blob",
+      "path": ".gitignore",
+      "status": 200,
+      "lineCount": 6,
+      "sourceReferences": [
+        {
+          "line": 5,
+          "text": "*.pdf"
+        }
+      ],
+      "text": "venv/\n__pycache__/\n*.pyc\n*.log\n*.pdf\n.ocr_cache/",
+      "renderedTextSha256": "5028d43217b8087e4a9fae847b81592a01dbffa8c3133522023f7e6abd34afae"
+    }
+  ],
+  "completedAt": "2026-11-07T21:26:46.567733+00:00",
+  "conclusion": {
+    "status": "partial_unverified_community_dataset_not_accepted_as_official_source",
+    "originalPdfRetrieved": false,
+    "originalFinalKeyPdfRetrieved": false,
+    "heldInventoryVerified": false,
+    "productionImported": 0,
+    "reasons": [
+      "Repository explicitly reports incomplete year coverage and partial/unparsed keys.",
+      "Original PDFs are referenced only as paths on the repository author machine; original publication URLs/final-version proof are absent from inspected source scripts.",
+      "LLM-generated explanations filtered by answer matching do not establish independent biological correctness.",
+      "README states 88 biology questions as a dataset claim, not complete all-session coverage.",
+      "Rights for exam questions are distinguished from MIT licensing for scripts/docs."
+    ],
+    "limit": "Inspected root, data/docs/images directory metadata, README, dataset card and source references. No exhaustive GitHub search or official source verification claimed."
+  }
+}

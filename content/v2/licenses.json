@@ -1,0 +1,21 @@
+[
+  {
+    "id": "project-authored-v2",
+    "status": "original_project_content",
+    "distributionAllowed": true,
+    "holder": "محتوای مستقل تألیفی پروژه",
+    "evidence": "content/v2/LICENSES.md",
+    "scope": "New independent authored question text, suggested rubrics and project-created diagrams only; no grant over official books, exams or institute materials.",
+    "notAnExternalPermissionCertificate": true,
+    "ownerReviewRequiredBeforeCommercialPublication": true
+  },
+  {
+    "id": "third-party-user-declaration",
+    "status": "user_declared_permission",
+    "distributionAllowed": false,
+    "evidence": "docs/v2/USER_LICENSE_DECLARATION.md",
+    "scope": "The project owner states permission for test reproduction. No actual paper, final key and matching scope have been verified for import in this build.",
+    "independentlyVerified": false,
+    "activeQuestionCount": 0
+  }
+]

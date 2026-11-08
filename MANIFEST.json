@@ -1,0 +1,593 @@
+{
+  "schemaVersion": 1,
+  "version": "0.11.0-offline-preview",
+  "kind": "active-offline-source",
+  "contentStatus": {
+    "officialKonkurQuestions": 0,
+    "supplementalMcq": 96,
+    "supplementalFinals": 72,
+    "officialArchiveComplete": false,
+    "myketReadyForPublicSubmission": false,
+    "buildAndDeviceTests": "Not executed or certified by this packaging tool",
+    "scientificAndLicenseReview": "Not certified by this packaging tool"
+  },
+  "artifactValidation": "Explicit Android paths only; no build, signing, installation or store submission is performed.",
+  "files": {
+    ".gitignore": {
+      "bytes": 366,
+      "sha256": "f12513314dff762861ea2feb4c4413695a9d4ed663ec94f17902d60c396d9b5b"
+    },
+    "README.md": {
+      "bytes": 9783,
+      "sha256": "e892b034df50bfe455d663da03cc2d7bb58f5763d95e3496cc381f38e5db8238"
+    },
+    "app/build.gradle.kts": {
+      "bytes": 1882,
+      "sha256": "4dc6a0c34f498fdf08d53702311b4bbf8deed52831eda4431c225d796b691af9"
+    },
+    "app/src/androidTest/assets/large_sample.png": {
+      "bytes": 101442,
+      "sha256": "7acbfb2010b9a5341bf9fe05143aaec0ea78cac1a33e7e7899a992fcdbb0bbc0"
+    },
+    "app/src/androidTest/java/ir/hezarzist/FinalStudyTest.kt": {
+      "bytes": 13271,
+      "sha256": "1ec3ea98055e431ac3a2cfc43caabce58ac808af1c3b15967cdea8e2ec9f92ea"
+    },
+    "app/src/androidTest/java/ir/hezarzist/LocalBackupTest.kt": {
+      "bytes": 17175,
+      "sha256": "f07c6ba715951d80d6bf0bf276e80cfb1e9d4e2ff51a1f3ac22322ff7d253e75"
+    },
+    "app/src/androidTest/java/ir/hezarzist/OfflineComplianceTest.kt": {
+      "bytes": 9165,
+      "sha256": "8303cf3eaa86b5bc263cd02b1820dbb3d4848cd534f34235d41ff23bbec9d03f"
+    },
+    "app/src/androidTest/java/ir/hezarzist/OfflineGameTest.kt": {
+      "bytes": 9508,
+      "sha256": "cf34f710c29501d2eca04b66d50c81c27240258128be2360b05438a0e7f80d42"
+    },
+    "app/src/androidTest/java/ir/hezarzist/PersianUiTest.kt": {
+      "bytes": 5367,
+      "sha256": "6f91c12f8402dc8e1f45500516f7b0582dc22cc905326b591d902cefb1e44886"
+    },
+    "app/src/main/AndroidManifest.xml": {
+      "bytes": 909,
+      "sha256": "37dc7bc15760fb7ded3b870e62a36760d47353f5b629fcf56ae90d7a0beaed58"
+    },
+    "app/src/main/assets/diagrams/cell_dna.png": {
+      "bytes": 37304,
+      "sha256": "b661742f72ad1465f9dfddc14ad7f67a3ef3b59040258c02db79899805071b74"
+    },
+    "app/src/main/assets/diagrams/chloroplast.png": {
+      "bytes": 25811,
+      "sha256": "3f84f9592e353f187f16358245786571b3a1f54102e0f6e1f95e399e9a041a84"
+    },
+    "app/src/main/assets/diagrams/circulation.png": {
+      "bytes": 32231,
+      "sha256": "a274020476254f9c020280aebc4c2b6d8ebeaeb71fcf1aee4616ab2ef53fb7b5"
+    },
+    "app/src/main/assets/diagrams/dna_bases.png": {
+      "bytes": 33804,
+      "sha256": "851f2a012c1dd97ea90d5476b0988137dac1a873cdb3b6dae5f172e8ad838c1e"
+    },
+    "app/src/main/assets/diagrams/neuron.png": {
+      "bytes": 54234,
+      "sha256": "04b2f92f1464d0f1441b28030ce78675c6c3aa7eacc54a150e603acef967202f"
+    },
+    "app/src/main/assets/diagrams/oxygen.png": {
+      "bytes": 38034,
+      "sha256": "7ae1cd137ce9151e39a8630cdeb6bd1f85281f29c6d5b7be4c1fe59cd7d89533"
+    },
+    "app/src/main/assets/finals.json": {
+      "bytes": 148746,
+      "sha256": "334b115efa6fef4cb857bfe35c75f0a0281fd8e3e541cac4c56a2b942d8fa992"
+    },
+    "app/src/main/assets/konkur/coverage-audit.json": {
+      "bytes": 3133,
+      "sha256": "689fbf97f6226d8136bb50f5cd321070881de44fab2255a0d1695202b823cacc"
+    },
+    "app/src/main/assets/konkur/coverage.json": {
+      "bytes": 3183,
+      "sha256": "9a595e2381fdb27389baef9891b59dae2b23a9ecb71e5766c45abec2a1351c0d"
+    },
+    "app/src/main/assets/konkur/questions.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "app/src/main/assets/questions.json": {
+      "bytes": 248805,
+      "sha256": "1c64d37db435062bd35ab0091efc60cdc601b3a630cc37f8470cda51ed1b1708"
+    },
+    "app/src/main/java/ir/hezarzist/FinalStudyScreen.kt": {
+      "bytes": 22615,
+      "sha256": "d6d54f8825531b0762b7534af35eb9febcf98bff1ba0a9c8567c75a0d478fbbf"
+    },
+    "app/src/main/java/ir/hezarzist/FinalStudyViewModel.kt": {
+      "bytes": 12188,
+      "sha256": "022b7db68189060cbffc1f6a522ea2bce4f84fb539758ca7ad17616f3f410917"
+    },
+    "app/src/main/java/ir/hezarzist/FinalsModels.kt": {
+      "bytes": 12250,
+      "sha256": "f6be9f07b1283ee0a93dc5de0dfa6fc3cf78a8b52fbe46e881e9cd88b5c923c1"
+    },
+    "app/src/main/java/ir/hezarzist/GameViewModel.kt": {
+      "bytes": 19341,
+      "sha256": "0b7bf37a52cc8db6a5ff10395b7bccd688cda76820283ae9fa2be7366c6e8077"
+    },
+    "app/src/main/java/ir/hezarzist/KonkurArchiveScreen.kt": {
+      "bytes": 15120,
+      "sha256": "0473421f1d95c51c1fa60af4ecb254eb5b62ea566f7885cb768fe88a1a76c537"
+    },
+    "app/src/main/java/ir/hezarzist/KonkurRepository.kt": {
+      "bytes": 8761,
+      "sha256": "9621b81abaaafd6d106b35d963b410afabbd8610ae0e4ce7dd608565b2e99d19"
+    },
+    "app/src/main/java/ir/hezarzist/LocalBackup.kt": {
+      "bytes": 39236,
+      "sha256": "ef59fd60ac41d90e3b0599087a5dff15fc6bef2d66fa260d6947067f5c7d51ed"
+    },
+    "app/src/main/java/ir/hezarzist/LocalProfile.kt": {
+      "bytes": 1570,
+      "sha256": "c1bdcb3072ca5715665d89ec737c3372dc18c75d912a91c72db09b66ac79cfb5"
+    },
+    "app/src/main/java/ir/hezarzist/LocalProgress.kt": {
+      "bytes": 1418,
+      "sha256": "4b306ec7bc4de350eeb495227a26c9f0f6b945562eda0006c1c10288bec7649c"
+    },
+    "app/src/main/java/ir/hezarzist/MainActivity.kt": {
+      "bytes": 49615,
+      "sha256": "2f6ba768dd5826c089ee760d3517f2e402f40772be7f51a5b4cd7725d35d3578"
+    },
+    "app/src/main/java/ir/hezarzist/Models.kt": {
+      "bytes": 3829,
+      "sha256": "f68258284b5c0dd7ececf51de8ff904e6fd11681310570eafd6ff366fecd65de"
+    },
+    "app/src/main/java/ir/hezarzist/OfflineToolsScreen.kt": {
+      "bytes": 14269,
+      "sha256": "a7471658ce008d266fc10c0331722a48a9366c8cf8c0a3f1fd01e99466b0d4e3"
+    },
+    "app/src/main/java/ir/hezarzist/QuizLogic.kt": {
+      "bytes": 4897,
+      "sha256": "c212f6f78dfaa57aa1b0483fc39e4c660ec6832b704bd886a3209792c350ccec"
+    },
+    "app/src/main/java/ir/hezarzist/StudyAssets.kt": {
+      "bytes": 2215,
+      "sha256": "89cc0ba9796731a9511fc31fb920bc9f53786268e81eb38c30e7268575b5c9ea"
+    },
+    "app/src/main/res/drawable/ic_launcher.xml": {
+      "bytes": 787,
+      "sha256": "c3d6eabe62059bf13c8c8e9181b54f15e739a51f3062571871289e6e33dd8efe"
+    },
+    "app/src/main/res/font/zist_bold.ttf": {
+      "bytes": 252940,
+      "sha256": "ded6fc7359ca36d15d7aab9ef0c066e21ce48b26a069994d6602fa2cb9a1b952"
+    },
+    "app/src/main/res/font/zist_regular.ttf": {
+      "bytes": 244072,
+      "sha256": "504d7407d86875acf7d04dfaa0fd7524d0b8797723bc4aa18022f29db25b0b6e"
+    },
+    "app/src/main/res/xml/data_extraction_rules.xml": {
+      "bytes": 630,
+      "sha256": "eda9dddce1e895de1efd716fe75e244187bf8f91a3bb7444c6ea1731e51c74a8"
+    },
+    "app/src/test/java/ir/hezarzist/QuizLogicTest.kt": {
+      "bytes": 2162,
+      "sha256": "57396b54a184141516e7d427578fcfc21c2c03c8bf50bda51beca99977c115e8"
+    },
+    "build.gradle.kts": {
+      "bytes": 217,
+      "sha256": "61cd8e15a65a3ded440013250aa5c2bbc875158d0cf2db2e8fc5185ec3c69105"
+    },
+    "content/finals.json": {
+      "bytes": 148746,
+      "sha256": "334b115efa6fef4cb857bfe35c75f0a0281fd8e3e541cac4c56a2b942d8fa992"
+    },
+    "content/konkur/README.md": {
+      "bytes": 12809,
+      "sha256": "1af07679020b12c7fdf009898845bd203eb1d5415bddb7c36bd88d2def756dba"
+    },
+    "content/konkur/coverage.json": {
+      "bytes": 3183,
+      "sha256": "9a595e2381fdb27389baef9891b59dae2b23a9ecb71e5766c45abec2a1351c0d"
+    },
+    "content/konkur/questions.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "content/konkur/requirements-audit.txt": {
+      "bytes": 29,
+      "sha256": "6febe5aa6ae95d8aaab1e6d7cc187ea59efc2af49f87cbc8d90f6507b3e7231b"
+    },
+    "content/legacy/v1/questions.json": {
+      "bytes": 1286770,
+      "sha256": "658ba02f02c328a181dec584c878ed46e81ed469e1cdf3ae8af69898fcc40cf7"
+    },
+    "content/questions.json": {
+      "bytes": 248805,
+      "sha256": "1c64d37db435062bd35ab0091efc60cdc601b3a630cc37f8470cda51ed1b1708"
+    },
+    "content/v2/CHAPTER_COUNTS.md": {
+      "bytes": 2011,
+      "sha256": "c3eb46d362312b0720cca7ce3293e08195b6b7302ddcc3a85f83aa727a2dbdc7"
+    },
+    "content/v2/LICENSES.md": {
+      "bytes": 3226,
+      "sha256": "9753db14f27fddd55a6656435b8a75f1bd90686ebc0a78964f079741e0a24668"
+    },
+    "content/v2/README.md": {
+      "bytes": 2654,
+      "sha256": "213b9a6b15d06003186df06f3456246adaba610148b40f5b3dda34edb9131144"
+    },
+    "content/v2/author_finals10.py": {
+      "bytes": 17245,
+      "sha256": "b2e48ae3c131be0be5d3d2e340032fd7dc0680f660ad7b28774f967742c53e27"
+    },
+    "content/v2/author_finals11.py": {
+      "bytes": 22196,
+      "sha256": "a672c41a20e2b464d89b9ce9cd27484fd530fb8ff3a9ea920bc387286558bbe1"
+    },
+    "content/v2/author_finals12.py": {
+      "bytes": 21445,
+      "sha256": "bbd07949354d0e6a62517205c0926de88057e55a2216537931dd1043bc515d85"
+    },
+    "content/v2/author_mcq10.py": {
+      "bytes": 37509,
+      "sha256": "344af203bb114b02738b5456fcd2ddc4c2170ed84c5c6e122648698dc60dd1ef"
+    },
+    "content/v2/author_mcq11.py": {
+      "bytes": 48702,
+      "sha256": "37f1155b01b19c113a34b7a47361331597008a2fbd75fe1f48e0eeff7412d63c"
+    },
+    "content/v2/author_mcq12.py": {
+      "bytes": 45590,
+      "sha256": "63e1b3d9e47658c85cb01447e0169706ac678ca6c2289f8acb86145b66e0c6d7"
+    },
+    "content/v2/build.py": {
+      "bytes": 7956,
+      "sha256": "b717108e8717d56d6c8f2d54d20e49bee128d41f357d916b8c9d25f29afab844"
+    },
+    "content/v2/licenses.json": {
+      "bytes": 916,
+      "sha256": "54746b23dbfeb69e2ed0cc2deb9ee1e478608f73c100caefafecdf06741b88bc"
+    },
+    "content/v2/schema.py": {
+      "bytes": 3521,
+      "sha256": "c35a95ce941fdfdcf6aa6d66c1c65c5b24f6afb26034db53d62e6b55790b4013"
+    },
+    "content/v2/sources.json": {
+      "bytes": 2782,
+      "sha256": "c9c643dadfd192ddce3c3a28e08cc1b836ad86792efcf0f41b40c575728f5bdc"
+    },
+    "docs/FONT-LICENSE.txt": {
+      "bytes": 5208,
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    "docs/offline/BUILD.fa.md": {
+      "bytes": 14272,
+      "sha256": "3bf923e7bab7c4faf45817c7e85133dfd256678ab57486164a78de5e8d983ff4"
+    },
+    "docs/offline/CHAPTER_COUNTS.fa.md": {
+      "bytes": 4638,
+      "sha256": "4de0e5bcb3a0d72847c1bb2175e9eae49d813b01f2eeff3878006fe2dff312e8"
+    },
+    "docs/offline/COMPLIANCE_REVIEW.md": {
+      "bytes": 10628,
+      "sha256": "6a9d44f5ea3f825b2937f8aeb1f7d982d40f3387e9728a54ee52aa96f311457f"
+    },
+    "docs/offline/COVERAGE.fa.md": {
+      "bytes": 2701,
+      "sha256": "96b7dbe179e4f0842df935683d81b06f84a4139943eeca5e8cd65ef13fb2b758"
+    },
+    "docs/offline/COVERAGE.json": {
+      "bytes": 3133,
+      "sha256": "689fbf97f6226d8136bb50f5cd321070881de44fab2255a0d1695202b823cacc"
+    },
+    "docs/offline/COVERAGE_TESTS.json": {
+      "bytes": 569,
+      "sha256": "094178bc0439616c67a3b1a6d6fb70d0a5de31a22793a64acd1fd546f09828c8"
+    },
+    "docs/offline/COVERAGE_TESTS.txt": {
+      "bytes": 3313,
+      "sha256": "617a49b9d38929fbf6cf73513b2ba128146a28d36823dd7d3cfccf6afbbec153"
+    },
+    "docs/offline/LOCAL_BACKUP.fa.md": {
+      "bytes": 13990,
+      "sha256": "b95442ec1e18438fff975be95622156aa222b7bd480a212335d23fc327e7221b"
+    },
+    "docs/offline/SOURCE_RECOVERY.fa.md": {
+      "bytes": 2070,
+      "sha256": "4e48f08ab0a29d25c9439bbeac547ed8805fcb1757c531b597627f58e377ecde"
+    },
+    "docs/offline/TEST_REPORT.fa.md": {
+      "bytes": 19216,
+      "sha256": "0443574407d590af38d4e0dd325cb257fea0e189b26c3ecccda29242cd5473ca"
+    },
+    "docs/offline/archive/ACCESS_STATUS.json": {
+      "bytes": 1819,
+      "sha256": "34cb20ed2716cef071daf74024d76c9be7a2074a4c34f16c2140ec4b2a1ecdf6"
+    },
+    "docs/offline/archive/README.fa.md": {
+      "bytes": 7770,
+      "sha256": "4b10b702a6ea89592193ebf79e10a74c0cbfce40efcef7c18311e13ace7fd008"
+    },
+    "docs/offline/archive/RIGHTS.fa.md": {
+      "bytes": 3461,
+      "sha256": "89fee7b01f5fae00fd36de78f51ebcd699562201724df2b7bad54f6ebca38f70"
+    },
+    "docs/offline/archive/SOURCE_GAPS.fa.md": {
+      "bytes": 5341,
+      "sha256": "775be3c5970de345aa8181d0cd47b48bf887a1f9e021842090d25068f05a4689"
+    },
+    "docs/offline/archive/evidence/local-source-audit.json": {
+      "bytes": 1181,
+      "sha256": "1e0fae0e736065ba924adc98a80ad7ac56ccac1c98d84296a660c672505a2397"
+    },
+    "docs/offline/archive/evidence/official-http-probes-offline.json": {
+      "bytes": 2126,
+      "sha256": "b48ede7912342b078ea40afe1ff54e528e30663f06f0cd1bc7ce34a3bcc3533b"
+    },
+    "docs/offline/bank-validation.json": {
+      "bytes": 1901,
+      "sha256": "b0d299727bfa993f68b0183baa4e3913ceb7ee1f315828e229f9abed8e3b61de"
+    },
+    "docs/offline/release-validation.json": {
+      "bytes": 2206,
+      "sha256": "1233882858e322948123dbd53b005ba0a85cb9a4b2e1e21c17347b7b6233fcae"
+    },
+    "docs/offline/research/GITHUB_SOURCE_SEARCH.fa.md": {
+      "bytes": 6089,
+      "sha256": "ca6bc7c366a778e531a0b29abbb2584769bfcf609720a69a8cec78bf7f4740a4"
+    },
+    "docs/offline/research/github-dataset-candidate.json": {
+      "bytes": 20546,
+      "sha256": "63e222e51acbb803eaef717d49576658e4e5e8f81d22a4b9d7607118894df2c7"
+    },
+    "docs/offline/research/github-extractor-candidate.json": {
+      "bytes": 5724,
+      "sha256": "c0807d49630c6d05fc21014ca7686c83bd4a1599b6c8c66f94d98bd196b7734e"
+    },
+    "docs/offline/research/github-official-source-probes.json": {
+      "bytes": 12693,
+      "sha256": "f8fe1184b397e96dd0c378a04d2f8ac6299a75373d70f625bb7a85a3803c78c1"
+    },
+    "docs/offline/test-evidence/aab-signature.txt": {
+      "bytes": 569,
+      "sha256": "ea5b81709f2bf7e186575b1754402d3bbae69c8792b153a0b73a3332ce2c99da"
+    },
+    "docs/offline/test-evidence/apk-alignment.txt": {
+      "bytes": 7532,
+      "sha256": "fced7dc3a2a10a620e20558e56a89d599817659593afb5530ca7d3a78d33a922"
+    },
+    "docs/offline/test-evidence/apk-signature.txt": {
+      "bytes": 980,
+      "sha256": "e6c32f0f060bfce7cb05333025594845ec9161a95910c2fb18a63a3162732ae7"
+    },
+    "docs/offline/test-evidence/artifact.json": {
+      "bytes": 368,
+      "sha256": "645d9de09c3098a9646d192bfca3f0e2854fb764f99e0bec6c19698fc20d279d"
+    },
+    "docs/offline/test-evidence/build.txt": {
+      "bytes": 7072,
+      "sha256": "5e89f0ce9ada91ebcc11123af21c281268bf49314bd18268b1996138d347ab5f"
+    },
+    "docs/offline/test-evidence/coverage-complete-gate.txt": {
+      "bytes": 822,
+      "sha256": "8be38dca701c2626a84f25900732eca8ce7e08eb2e1100079554878e5552e436"
+    },
+    "docs/offline/test-evidence/coverage-python.txt": {
+      "bytes": 122,
+      "sha256": "a2c3dad981252112343d2f84c5a896574adb6ecf5adc1d10a089271a5a4d0791"
+    },
+    "docs/offline/test-evidence/device-info.json": {
+      "bytes": 263,
+      "sha256": "e276efab56def0950d7b9ed1352a13f495e492d8d4f75570b6b58993a4702449"
+    },
+    "docs/offline/test-evidence/device-initial/TEST-HezarZist(AVD) - 10-_app-.xml": {
+      "bytes": 7476,
+      "sha256": "93e403e12cefbf2703cb4ebdc349da4c5eb3a5a29629f9865d0c80d31244d68b"
+    },
+    "docs/offline/test-evidence/device-initial/runner.txt": {
+      "bytes": 5398,
+      "sha256": "db195575de44714e0abae285f0241c078c620fcfd3032d17e686d12ff3d0eb9f"
+    },
+    "docs/offline/test-evidence/device-persian-rerun/TEST-HezarZist(AVD) - 10-_app-.xml": {
+      "bytes": 747,
+      "sha256": "568ebdc321c8ad7f513ae6a15c9b9aafb53783a8d02884d98f41e1bc62c4a2a9"
+    },
+    "docs/offline/test-evidence/device-persian-rerun/runner.txt": {
+      "bytes": 4102,
+      "sha256": "e7730d4be43a751c4baff466679e180e9fa764ff2251c7b26029e1dad281cbec"
+    },
+    "docs/offline/test-evidence/device-summary.json": {
+      "bytes": 7694,
+      "sha256": "976a87c32215ebae139d274f84cb856a2e118132eebd84074b4c2c013b108c79"
+    },
+    "docs/offline/test-evidence/final-completion-gate.txt": {
+      "bytes": 2206,
+      "sha256": "1233882858e322948123dbd53b005ba0a85cb9a4b2e1e21c17347b7b6233fcae"
+    },
+    "docs/offline/test-evidence/installed-release-target.json": {
+      "bytes": 252,
+      "sha256": "be644e8840095242bfa0a9fefda9a1caf49c6324a801bc60b1e0167c33b5ccf5"
+    },
+    "docs/offline/test-evidence/lint-results-debug.xml": {
+      "bytes": 30450,
+      "sha256": "50cac68668caf591603c15a97ab251a6cd7778bbeea3981d819bc88155deba6c"
+    },
+    "docs/offline/test-evidence/release-instrumentation.init.gradle": {
+      "bytes": 136,
+      "sha256": "96fb12d7c23392e68961ae7f1c4e9bac0f2f2353afcd138de61587d8f9f787ff"
+    },
+    "docs/offline/test-evidence/release-test-build.txt": {
+      "bytes": 2733,
+      "sha256": "eed511c94c2e4209735fd8e4524c71b66080f31adbb32e5ccf8c70c4641ab2fe"
+    },
+    "docs/offline/test-evidence/release-upgrade.json": {
+      "bytes": 516,
+      "sha256": "b2542d3ea02aeafd81967d163edea7db58078ffc69a7b5ddcfe8189ecaa6ca31"
+    },
+    "docs/offline/test-evidence/signed-release-final-targeted.txt": {
+      "bytes": 777,
+      "sha256": "3b8329a329cf73dd7d1000a342399059db5bdd933f53acb26d17cf51a4ef0494"
+    },
+    "docs/offline/test-evidence/signed-release-full-39-of-40.txt": {
+      "bytes": 30790,
+      "sha256": "8c564ea20235d88f641f56f827dadcc4f354f1a8c036e8240e50134d4f97cf54"
+    },
+    "docs/offline/test-evidence/signed-release-initial-abi-mismatch.txt": {
+      "bytes": 41797,
+      "sha256": "6badfcba01b57b126061fb4891f40c861fc1baa60537c221951beaf958dd8e52"
+    },
+    "docs/offline/test-evidence/signed-release-smoke.json": {
+      "bytes": 1192,
+      "sha256": "d8fd27ed8ba2ea91f28daa06e2f84cb45640a5dcdec4a2b9e1c5326c63698479"
+    },
+    "docs/offline/test-evidence/signed-release-summary.json": {
+      "bytes": 4896,
+      "sha256": "8b533d5d07ead809e82021beb7b2d9ce791a534a605d71133e49c06d58ffdf3e"
+    },
+    "docs/offline/test-evidence/source-backups.json": {
+      "bytes": 696,
+      "sha256": "96f81b403715e65bcc4ed21261e146c2cddf005f3f2aa16e16ebbf4a99034501"
+    },
+    "docs/offline/test-evidence/unit.xml": {
+      "bytes": 772,
+      "sha256": "65e0d0cfe59bf1153f72aca3f735b9a003bbc1507c7d013232af28d3bf028214"
+    },
+    "docs/offline/test-evidence/upgrade-before.json": {
+      "bytes": 229,
+      "sha256": "2c51713c9da0fd2e0b2a3e1ff6e3db328b8740eac73d4aaa03dddb8d0d177cfb"
+    },
+    "docs/v2/USER_LICENSE_DECLARATION.md": {
+      "bytes": 2166,
+      "sha256": "91c2b575babd635d7972c28096964582b64d6940e5c96a5c6c42fbf4190f18dc"
+    },
+    "docs/v2/research/ACCESS_STATUS.json": {
+      "bytes": 1657,
+      "sha256": "9c53c8d5eb03923079c9d48b1339ad1f7f0d2461afdb39fad9f501afbfc78fcc"
+    },
+    "docs/v2/research/INDEPENDENT_REVIEW.fa.md": {
+      "bytes": 3824,
+      "sha256": "fdecfb3d36c69e59fc8bbf14fb82d3f7057b53914e381eac3512b2f1828f860b"
+    },
+    "docs/v2/research/README.fa.md": {
+      "bytes": 6621,
+      "sha256": "bf9692e31ceeea3abab0bd14136e6a19842b628f04d49bc100c2bd47e960219e"
+    },
+    "docs/v2/research/evidence/official-http-probes-initial.json": {
+      "bytes": 2229,
+      "sha256": "bd18cf04bd9b2b7c7518c342741a13ff4ba408e6ac4d2c2a3bf34208cc3d90a7"
+    },
+    "docs/v2/research/evidence/official-http-probes-root.json": {
+      "bytes": 1870,
+      "sha256": "128bc9f650efe99b24ac7c401e663aefe4487a768240c86eac2873f58e1b793c"
+    },
+    "docs/v2/research/finals-source-inventory.json": {
+      "bytes": 1455,
+      "sha256": "e078dd95999fe2f8a53e7976c3ab1fdd8f1d112d61b8447af3ddfa0b33a23c62"
+    },
+    "docs/v2/research/independent-content-review.json": {
+      "bytes": 32096,
+      "sha256": "5902f7f28f74bc23b4db9d213b34a081581458a33bdd49fa1c5a29b737a20efd"
+    },
+    "docs/v2/research/konkoor-1398-1405-inventory.json": {
+      "bytes": 5084,
+      "sha256": "365dcc2da6241a5b04ada488247ff8dd470c338f587883cf94aca81d55c2764d"
+    },
+    "docs/v2/research/rights-registry.json": {
+      "bytes": 4784,
+      "sha256": "15d685b288d47c20c32abfe011ff14ac1d1e15e0138ae2f597be8b882d935a5c"
+    },
+    "gradle.properties": {
+      "bytes": 158,
+      "sha256": "e140eeff899bec6d487b9bc873efa2d25f49abc6ba65f71721d1e4903fb17a60"
+    },
+    "gradle/wrapper/gradle-wrapper.jar": {
+      "bytes": 43504,
+      "sha256": "498495120a03b9a6ab5d155f5de3c8f0d986a449153702fb80fc80e134484f17"
+    },
+    "gradle/wrapper/gradle-wrapper.properties": {
+      "bytes": 337,
+      "sha256": "f927b13f8fa67ca74439c3446f9b01064ac31c39fcea3c45f4890afbfa6ade5e"
+    },
+    "gradlew": {
+      "bytes": 8762,
+      "sha256": "a3648413b47ef77af21d5ebc36c687c7d103aaef3e17f33de7d4f080a6f300a3"
+    },
+    "gradlew.bat": {
+      "bytes": 2966,
+      "sha256": "57931b17dd228e5c24dac90e815d0bf82477e831a4618dfab4136f5446b42a9f"
+    },
+    "release/myket/MYKET_READINESS.json": {
+      "bytes": 3771,
+      "sha256": "b90bdf913fc00a26b3f859d60a57041415e710cb48ec21b6890acfcf0c8c0d75"
+    },
+    "release/myket/MYKET_REQUIREMENTS.fa.md": {
+      "bytes": 5031,
+      "sha256": "657b64ad0e8423d9565cfd2ab4ed7ce4dafe64dc71c2c98ade9dbb529f337d3f"
+    },
+    "release/myket/PRIVACY_POLICY_DRAFT.fa.md": {
+      "bytes": 6849,
+      "sha256": "24b83b9ba20eebb8b646976768313ea3f20d6664ebe098d015c2c16738f11baa"
+    },
+    "release/myket/REVIEW_HANDOFF.fa.md": {
+      "bytes": 3842,
+      "sha256": "c3940a5f9b0e90c779d9e962bea77ebd2b760390d2397318a59b7719f7538152"
+    },
+    "release/myket/STORE_LISTING_DRAFT.fa.md": {
+      "bytes": 4929,
+      "sha256": "c3c2d3856df8da62fac2e42144f693f5c0590d06432c1f9dc12e331c360f9cec"
+    },
+    "release/myket/assets/PROVENANCE.json": {
+      "bytes": 658,
+      "sha256": "1618717fca0909566c40809f049cf400b93e62b1ba670a9b13fb2661a0e42add"
+    },
+    "release/myket/assets/icon-512.png": {
+      "bytes": 20057,
+      "sha256": "39c2ca967f314c083cc4efe5e2accf225e05dc2c6cd6c1191eedae5bf86613b9"
+    },
+    "release/myket/assets/icon-from-project.svg": {
+      "bytes": 471,
+      "sha256": "4aeab0457c9cd39d7a8d1247c8f579956b5debb5ae2e6512f85de17e9787e25f"
+    },
+    "release/myket/assets/screenshots/01-home.png": {
+      "bytes": 108278,
+      "sha256": "dfde2127cfec629991d0b09754c6cff74e7c47d90a2f8382d9d48009ba369a07"
+    },
+    "release/myket/assets/screenshots/02-local-profile.png": {
+      "bytes": 94177,
+      "sha256": "d00d8e92719a81b81683f6d07b00efe7ccb0b7829c2520a068ed4c115745f467"
+    },
+    "release/myket/assets/screenshots/03-practice.png": {
+      "bytes": 111944,
+      "sha256": "3c599c23a5e5f012f663bb39e12453d0e2648a582aa8da7684919cf6d872f4d7"
+    },
+    "release/myket/assets/screenshots/PROVENANCE.json": {
+      "bytes": 1230,
+      "sha256": "42ab988f9ae4506ca2d4098891664f5ecf8eaa3035ef939dfd3c8167ceb5f4ba"
+    },
+    "settings.gradle.kts": {
+      "bytes": 282,
+      "sha256": "35f6c9f4d23861ea17b506d86d4123627f92b85fa3e3b2e8edcfae24b7744271"
+    },
+    "tools/konkur_coverage.py": {
+      "bytes": 30197,
+      "sha256": "dfe8bf7ab9e769536cf3424fd5e87d62765dc639fdb1d9bad43b959209cb9530"
+    },
+    "tools/package_delivery.py": {
+      "bytes": 18342,
+      "sha256": "f671cd47dc819c03ccf51dd497f1149d6e85ed51c30533869dd6766105839f8d"
+    },
+    "tools/sync_bank.py": {
+      "bytes": 723,
+      "sha256": "42e566121e08af3e52b1d6f98d5105f4a035cd23720ac7067fd061b75ca8ecd9"
+    },
+    "tools/test_konkur_coverage.py": {
+      "bytes": 14203,
+      "sha256": "055ff24d72b39a5bbb2441fe297de05518ddda48de1a0698a3ab60b19a7a643b"
+    },
+    "tools/validate_bank.py": {
+      "bytes": 12044,
+      "sha256": "6e2241024fcdc506752a9dc71a2c956e4878165f92133b12e04c3a235834ef19"
+    }
+  }
+}

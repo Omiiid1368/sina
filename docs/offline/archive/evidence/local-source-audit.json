@@ -1,0 +1,30 @@
+{
+  "checkedAtUtc": "2026-11-07T21:07:45.770237+00:00",
+  "scope": [
+    "/workspace/attachments",
+    "/workspace/sina"
+  ],
+  "method": "Recursive local filename inventory; PDF extension inspection. Pasted requests are instructions, not source examination booklets.",
+  "attachedFiles": [
+    {
+      "path": "/workspace/attachments/6ab2a3a2-d374-4766-8776-c5ec837f1e48/Pasted text.txt",
+      "fileName": "Pasted text.txt",
+      "bytes": 12047,
+      "sha256": "23dd0c8c2585302bba2d85cbf76a71747f2ae619c133256512bc3645f213ba49",
+      "kind": "pasted_request_text"
+    },
+    {
+      "path": "/workspace/attachments/6ffdc998-e4ae-44a0-86d1-6ace703ab982/Pasted text.txt",
+      "fileName": "Pasted text.txt",
+      "bytes": 9923,
+      "sha256": "b0027a9ac9489317d212c05bb4c77a761d4e12d9e7809dac32cf64a7f693df78",
+      "kind": "pasted_request_text"
+    }
+  ],
+  "projectPdfFiles": [],
+  "verifiedOfficialExamBooklets": 0,
+  "verifiedOfficialFinalKeys": 0,
+  "verifiedOfficialFinalsPapers": 0,
+  "verifiedOfficialTextbookEditions": 0,
+  "conclusion": "No source examination or textbook PDFs found; no official exam corpus can be inferred from instructions or authored banks."
+}

@@ -1,0 +1,1178 @@
+{
+  "reviewedAtUtc": "2026-11-07T16:36:37.097192+00:00",
+  "reviewer": "separate research_store_v2 AI agent; independent of content author agent",
+  "method": "Separate AI agent read every stem, all four options and option explanations, main rationale and trap for all 96 MCQs; all 72 finals stems/model answers/every rubric criterion/truth corrections/matching instructions. Viewed all 6 local diagrams and matched labels/numbers/arrows to dependent questions. Re-read every changed field after author corrections, 9 substantive MCQ replacements, a further conditional-probability revision and 4 replacement finals. Final hashes bind the reviewed snapshot.",
+  "notClaimed": [
+    "official PDF or final key comparison",
+    "verified textbook print edition/page alignment",
+    "human biology teacher certification",
+    "measured national examination difficulty equivalence",
+    "complete official exam archive"
+  ],
+  "counts": {
+    "mcq": 96,
+    "mcqOptionExplanations": 384,
+    "mcqTraps": 96,
+    "finals": 72,
+    "finalRubricCriteria": 189,
+    "uniqueDiagrams": 6
+  },
+  "issues": [
+    {
+      "questionId": "V2-MCQ-11-1-01",
+      "severity": "ambiguity",
+      "finding": "A stronger isolated pulse applied to an axon does not alone establish greater spike frequency; specify sustained sensory stimulation over equal time.",
+      "status": "author_fixed_re_read_pass"
+    },
+    {
+      "questionId": "V2-MCQ-10-7-01",
+      "severity": "terminology",
+      "finding": "Plant transpiration is تعرق, while تعریق denotes sweating.",
+      "status": "author_fixed_re_read_pass"
+    },
+    {
+      "questionId": "V2-FINAL-11-5-02",
+      "severity": "scientific_wording",
+      "finding": "یاختهٔ ویروسی can imply viruses are cells; use یاختهٔ آلوده به ویروس.",
+      "status": "author_fixed_re_read_pass"
+    },
+    {
+      "questionId": "V2-FINAL-11-1-01",
+      "severity": "ambiguity",
+      "finding": "Use sustained sensory-stimulus context and explicitly request intensity coding if frequency is awarded.",
+      "status": "author_fixed_re_read_pass"
+    },
+    {
+      "questionId": "V2-FINAL-10-1-03",
+      "severity": "rubric_alignment",
+      "finding": "Replication/validity criterion awards marks for a task not explicitly requested. Add explicit request.",
+      "status": "author_fixed_re_read_pass"
+    },
+    {
+      "questionId": "V2-FINAL-10-3-01",
+      "severity": "rubric_alignment",
+      "finding": "ATP criterion awards marks for a task not explicitly requested. Add explicit request.",
+      "status": "author_fixed_re_read_pass"
+    },
+    {
+      "questionId": "V2-FINAL-10-3-02",
+      "severity": "rubric_alignment",
+      "finding": "A true statement requires no correction; explicitly request a reason if reasoning receives marks.",
+      "status": "author_fixed_re_read_pass"
+    },
+    {
+      "questionId": "V2-FINAL-11-6-01",
+      "severity": "rubric_alignment",
+      "finding": "Explicitly request interpretation of C, which the rubric awards.",
+      "status": "author_fixed_re_read_pass"
+    }
+  ],
+  "items": [
+    {
+      "id": "V2-MCQ-10-1-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-1-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-1-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-1-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-2-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-2-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-2-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-2-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-3-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-3-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-3-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-3-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-4-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-4-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-4-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-4-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-5-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-5-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-5-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-5-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-6-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-6-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-6-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-6-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-7-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-7-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-7-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-10-7-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-1-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-1-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-1-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-1-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-2-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-2-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-2-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-2-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-3-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-3-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-3-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-3-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-4-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-4-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-4-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-4-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-5-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-5-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-5-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-5-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-6-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-6-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-6-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-6-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-7-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-7-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-7-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-7-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-8-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-8-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-8-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-8-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-9-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-9-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-9-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-11-9-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-1-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-1-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-1-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-1-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-2-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-2-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-2-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-2-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-3-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-3-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-3-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-3-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-4-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-4-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-4-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-4-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-5-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-5-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-5-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-5-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-6-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-6-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-6-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-6-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-7-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-7-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-7-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-7-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-8-01",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-8-02",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-8-03",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-MCQ-12-8-04",
+      "kind": "mcq",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-1-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-1-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-1-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-2-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-2-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-2-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-3-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-3-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-3-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-4-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-4-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-4-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-5-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-5-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-5-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-6-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-6-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-6-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-7-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-7-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-10-7-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-1-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-1-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-1-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-2-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-2-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-2-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-3-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-3-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-3-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-4-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-4-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-4-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-5-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-5-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-5-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-6-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-6-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-6-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-7-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-7-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-7-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-8-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-8-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-8-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-9-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-9-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-11-9-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-1-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-1-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-1-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-2-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-2-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-2-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-3-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-3-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-3-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-4-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-4-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-4-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-5-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-5-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-5-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-6-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-6-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-6-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-7-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-7-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-7-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-8-01",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-8-02",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    },
+    {
+      "id": "V2-FINAL-12-8-03",
+      "kind": "finals",
+      "conceptualReview": "pass",
+      "officialEditionAlignment": "not verified"
+    }
+  ],
+  "diagramReview": [
+    {
+      "file": "diagrams/oxygen.png",
+      "result": "visually inspected; labels and quantities match questions",
+      "limits": "Relative fictional units; chart is not an anatomical exchange membrane.",
+      "sha256": "7ae1cd137ce9151e39a8630cdeb6bd1f85281f29c6d5b7be4c1fe59cd7d89533"
+    },
+    {
+      "file": "diagrams/circulation.png",
+      "result": "visually inspected; labels and quantities match questions",
+      "limits": "Flow diagram; chamber placement is not anatomical.",
+      "sha256": "a274020476254f9c020280aebc4c2b6d8ebeaeb71fcf1aee4616ab2ef53fb7b5"
+    },
+    {
+      "file": "diagrams/neuron.png",
+      "result": "visually inspected; labels and quantities match questions",
+      "limits": "Schematic relative time; P rising and R falling.",
+      "sha256": "04b2f92f1464d0f1441b28030ce78675c6c3aa7eacc54a150e603acef967202f"
+    },
+    {
+      "file": "diagrams/cell_dna.png",
+      "result": "visually inspected; labels and quantities match questions",
+      "limits": "Amount per cell; post-division C refers to one daughter.",
+      "sha256": "b661742f72ad1465f9dfddc14ad7f67a3ef3b59040258c02db79899805071b74"
+    },
+    {
+      "file": "diagrams/dna_bases.png",
+      "result": "visually inspected; labels and quantities match questions",
+      "limits": "Composition of a double-stranded molecule as a whole.",
+      "sha256": "851f2a012c1dd97ea90d5476b0988137dac1a873cdb3b6dae5f172e8ad838c1e"
+    },
+    {
+      "file": "diagrams/chloroplast.png",
+      "result": "visually inspected; labels and quantities match questions",
+      "limits": "Schematic thylakoid membrane A and stroma B; not a microscopy image.",
+      "sha256": "3f84f9592e353f187f16358245786571b3a1f54102e0f6e1f95e399e9a041a84"
+    }
+  ],
+  "generalQuality": "Distractors were strengthened after initial review and 9 scenarios replaced. Some introductory/basic items remain. Difficulty labels are editorial estimates and have not been calibrated against actual Konkoor cohorts or verified official papers. No incorrect key was found in this final conceptual review; this does not certify official-curriculum alignment or complete error absence.",
+  "status": "completed_independent_ai_conceptual_review",
+  "finalHashes": {
+    "content/questions.json": "1c64d37db435062bd35ab0091efc60cdc601b3a630cc37f8470cda51ed1b1708",
+    "content/finals.json": "334b115efa6fef4cb857bfe35c75f0a0281fd8e3e541cac4c56a2b942d8fa992"
+  },
+  "deltaReReview": {
+    "substantiveMcqIds": [
+      "V2-MCQ-10-3-03",
+      "V2-MCQ-10-5-02",
+      "V2-MCQ-11-9-03",
+      "V2-MCQ-12-2-03",
+      "V2-MCQ-12-3-01",
+      "V2-MCQ-12-3-04",
+      "V2-MCQ-12-4-02",
+      "V2-MCQ-12-4-03",
+      "V2-MCQ-12-5-03"
+    ],
+    "furtherConditionalProbabilityRevision": "V2-MCQ-12-3-01: Aabb × aaBb, restricted to dominant A offspring; bb probability 1/2, confirmed by 4 equally likely genotypes",
+    "replacementFinalIds": [
+      "V2-FINAL-11-6-03",
+      "V2-FINAL-11-9-03",
+      "V2-FINAL-12-1-02",
+      "V2-FINAL-12-3-01"
+    ],
+    "rubricAndWordingFixedIds": [
+      "V2-FINAL-11-5-02",
+      "V2-FINAL-11-1-01",
+      "V2-FINAL-10-1-03",
+      "V2-FINAL-10-3-01",
+      "V2-FINAL-10-3-02",
+      "V2-FINAL-11-6-01"
+    ],
+    "result": "Every changed field re-read; no unresolved factual/key/criterion-alignment error identified in this review."
+  },
+  "gradeCounts": {
+    "10": {
+      "mcq": 28,
+      "finals": 21
+    },
+    "11": {
+      "mcq": 36,
+      "finals": 27
+    },
+    "12": {
+      "mcq": 32,
+      "finals": 24
+    }
+  },
+  "finalTypeCounts": {
+    "true_false": 10,
+    "definition_comparison": 10,
+    "essay": 14,
+    "fill_blank": 10,
+    "short": 13,
+    "matching": 9,
+    "diagram_label": 6
+  },
+  "sourceAttribution": "All 168 items independently authored for project; 0 copied official/institute items. User-declared third-party permission recorded separately.",
+  "unresolvedReviewFindings": []
+}

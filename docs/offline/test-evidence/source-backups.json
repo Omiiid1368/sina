@@ -1,0 +1,20 @@
+[
+  {
+    "name": "pre-offline-switch-2026-11-08.tar.gz",
+    "privateWorkspacePath": "/workspace/sina-backups/pre-offline-switch-2026-11-08.tar.gz",
+    "bytes": 18084355,
+    "sha256": "fbf5e470698039a6e4890c5ef50d41dde087f90dbac03a086ce94f82c98e1e5e",
+    "fileMembers": 251,
+    "allMembersReadVerified": true,
+    "publicDeliveryIncluded": false
+  },
+  {
+    "name": "pre-upgrade-2026-11-07.tar.gz",
+    "privateWorkspacePath": "/workspace/sina-backups/pre-upgrade-2026-11-07.tar.gz",
+    "bytes": 17936074,
+    "sha256": "a5125cfbc29a69cd780017cd663a27faf7175b3321a097c7217e9a601761ae21",
+    "fileMembers": 147,
+    "allMembersReadVerified": true,
+    "publicDeliveryIncluded": false
+  }
+]

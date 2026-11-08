@@ -1,0 +1,33 @@
+{
+  "testedAtUtc": "2026-11-08T03:17:54.445397+00:00",
+  "apkSha256": "9012364db913ab1809b48437aa6c8db683d0ee0caa8995d00952835cdbd0316c",
+  "signedFreshInstallAirplaneLaunch": true,
+  "wifiOn": 0,
+  "mobileData": 0,
+  "airplaneMode": 1,
+  "manualPractice": {
+    "score": 100,
+    "correct": 1,
+    "wrong": 0,
+    "blank": 9,
+    "historyCount": 1,
+    "progressEntries": 10,
+    "bookmarks": 1
+  },
+  "localOptionalProfileUsed": true,
+  "safExport": {
+    "provider": "Android DocumentsUI, local Downloads",
+    "bytes": 4639,
+    "sha256PayloadVerified": true,
+    "file": "HezarZist-backup-2026-11-08.json"
+  },
+  "safImport": {
+    "testSetup": "Force-stopped and cleared only this task-owned emulator test app after saving the file",
+    "systemPickerUsed": true,
+    "confirmationDialogUsed": true,
+    "allProgressAndProfilePreferencesEqualBeforeAndAfter": true
+  },
+  "forceStopReopenAfterRestorePreservedAllComparedPreferences": true,
+  "realPhoneTested": false,
+  "scopeNote": "Fresh signed Release home/practice/profile/file-backup smoke; remaining learning modes and all bundled items covered by separately reported Debug instrumentation, not a second full manual Release run."
+}

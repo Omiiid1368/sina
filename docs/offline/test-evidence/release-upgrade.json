@@ -1,0 +1,12 @@
+{
+  "from": "0.9.0-beta (versionCode 1)",
+  "to": "0.11.0-offline-preview (versionCode 3)",
+  "installMode": "adb install -r; same signing certificate; no uninstall",
+  "passed": true,
+  "activeLegacyQuestionCountBefore": 1,
+  "archivedLegacyQuestionCountAfter": 1,
+  "legacyBookmarkPreserved": true,
+  "rawActiveSessionArchivedExactly": true,
+  "totalsRecordsHistoryAndSettingsUnchanged": true,
+  "note": "One unfinished v1 practice session; no completed match or nondefault cumulative score existed in baseline."
+}

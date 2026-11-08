@@ -1,0 +1,59 @@
+[
+  {
+    "id": "hezarzist-v2-authored",
+    "title": "محتوای مستقل تألیفی ارتقای ۰٫۱۰ پروژهٔ ۱۰۰۰ زیست",
+    "kind": "authored",
+    "licenseId": "project-authored-v2",
+    "activeMcqCount": 96,
+    "activeFinalsCount": 72,
+    "documentVerified": true,
+    "finalKeyVerified": false,
+    "examAttribution": null,
+    "authorship": "New independently authored project text; AI-assisted; not copied or paraphrased from a verified exam archive.",
+    "evidence": "content/v2/author_mcq10.py, author_mcq11.py, author_mcq12.py, author_finals10.py, author_finals11.py, author_finals12.py",
+    "review": "Conceptual review is separate from official-edition alignment; no human teacher or examination authority certification is claimed.",
+    "diagramEvidence": "tools/diagram_questions.py:function figures(); six project-created schematic PNGs, reused as illustrations with newly authored tasks."
+  },
+  {
+    "id": "bio10",
+    "kind": "curricular_reference",
+    "title": "زیست‌شناسی پایهٔ 10",
+    "bookCode": "110216",
+    "officialPortal": "https://chap.sch.ir",
+    "publicationYear": null,
+    "editionVerified": false,
+    "documentVerified": false,
+    "finalKeyVerified": false,
+    "referenceType": "chapter/topic; no invented page or print year",
+    "activeCopiedQuestionCount": 0,
+    "status": "ارجاع موضوعی؛ فایل چاپ رسمی و سال چاپ در این ارتقا تطبیق نشده است. متن و تصویر رسمی وارد بانک نشده است."
+  },
+  {
+    "id": "bio11",
+    "kind": "curricular_reference",
+    "title": "زیست‌شناسی پایهٔ 11",
+    "bookCode": "111216",
+    "officialPortal": "https://chap.sch.ir",
+    "publicationYear": null,
+    "editionVerified": false,
+    "documentVerified": false,
+    "finalKeyVerified": false,
+    "referenceType": "chapter/topic; no invented page or print year",
+    "activeCopiedQuestionCount": 0,
+    "status": "ارجاع موضوعی؛ فایل چاپ رسمی و سال چاپ در این ارتقا تطبیق نشده است. متن و تصویر رسمی وارد بانک نشده است."
+  },
+  {
+    "id": "bio12",
+    "kind": "curricular_reference",
+    "title": "زیست‌شناسی پایهٔ 12",
+    "bookCode": "112216",
+    "officialPortal": "https://chap.sch.ir",
+    "publicationYear": null,
+    "editionVerified": false,
+    "documentVerified": false,
+    "finalKeyVerified": false,
+    "referenceType": "chapter/topic; no invented page or print year",
+    "activeCopiedQuestionCount": 0,
+    "status": "ارجاع موضوعی؛ فایل چاپ رسمی و سال چاپ در این ارتقا تطبیق نشده است. متن و تصویر رسمی وارد بانک نشده است."
+  }
+]

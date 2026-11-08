@@ -1,0 +1,20 @@
+{
+  "complete": false,
+  "structurallyValid": true,
+  "officialQuestionCount": 0,
+  "scorableQuestionCount": 0,
+  "occurrenceCount": 0,
+  "errors": [],
+  "blockers": [
+    "1398: authoritative all-held-exams inventory is unknown",
+    "1399: authoritative all-held-exams inventory is unknown",
+    "1400: authoritative all-held-exams inventory is unknown",
+    "1401: authoritative all-held-exams inventory is unknown",
+    "1402: authoritative all-held-exams inventory is unknown",
+    "1403: authoritative all-held-exams inventory is unknown",
+    "1404: authoritative all-held-exams inventory is unknown",
+    "1405: authoritative all-held-exams inventory is unknown",
+    "The authoritative inventory is not declared complete.",
+    "No original official exam PDF/final key pair has been verified and imported."
+  ]
+}

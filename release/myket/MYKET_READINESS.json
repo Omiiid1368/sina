@@ -1,0 +1,69 @@
+{
+  "checkedAtUtc": "2026-11-08T03:26:40.135646+00:00",
+  "releaseName": "0.11.0-offline-preview",
+  "versionCode": 3,
+  "applicationId": "ir.hezarzist",
+  "architecture": "fully_offline_no_account_no_runtime_network",
+  "submissionPerformed": false,
+  "officialGuideVerified": false,
+  "storeAccountReady": false,
+  "archiveCoverageComplete": false,
+  "officialExamInventoryVerified": false,
+  "officialExamPdfsAndFinalKeysVerified": false,
+  "officialKonkurQuestionsImported": 0,
+  "officialFinalsQuestionsImported": 0,
+  "supplementalAuthoredMcq": 96,
+  "supplementalAuthoredFinals": 72,
+  "contentAiConceptualReviewCompleted": true,
+  "contentHumanEditorialApproved": false,
+  "officialTextbookEditionAligned": false,
+  "rightsOwnerDeclarationRecorded": true,
+  "rightsOwnerDeclarationStatus": "USER_DECLARED",
+  "rightsOwnerDeclarationIndependentlyVerified": false,
+  "publisherIdentityAndContactFinalized": false,
+  "storeAssetSpecificationVerified": false,
+  "finalOfflineApkTestReportVerified": true,
+  "localBackupDeviceTestVerified": true,
+  "validationStatusNote": "The signed Release APK byte hash was verified on the emulator. All 40 unique instrumentation tests have latest passing results on that APK (39/40 full run + 1/1 targeted after a test-input fix); fresh airplane-mode launch and real SAF export/import/force-stop persistence passed. See exact attempts and limits in TEST_REPORT.fa.md. Archive completion and public store submission remain blocked.",
+  "preparedAssets": {
+    "icon512": "assets/icon-512.png",
+    "iconOrigin": "Existing project vector; exact requested Myket dimensions not verified",
+    "screenshots": [
+      "assets/screenshots/01-home.png",
+      "assets/screenshots/02-local-profile.png",
+      "assets/screenshots/03-practice.png"
+    ]
+  },
+  "evidence": {
+    "officialAccess": "../../docs/offline/archive/evidence/official-http-probes-offline.json",
+    "localSourceInventory": "../../docs/offline/archive/evidence/local-source-audit.json",
+    "archiveCoverage": "../../docs/offline/COVERAGE.json",
+    "archiveGaps": "../../docs/offline/archive/SOURCE_GAPS.fa.md",
+    "scientificReview": "../../docs/v2/research/independent-content-review.json",
+    "rights": "../../docs/offline/archive/RIGHTS.fa.md",
+    "offlineSourceAndDeviceReview": "../../docs/offline/COMPLIANCE_REVIEW.md",
+    "currentTestReport": "../../docs/offline/TEST_REPORT.fa.md",
+    "signedReleaseInstrumentation": "../../docs/offline/test-evidence/signed-release-summary.json",
+    "localBackupFilePicker": "../../docs/offline/test-evidence/signed-release-smoke.json"
+  },
+  "notRequiredForOfflineRelease": [
+    "API server",
+    "API domain",
+    "email provider",
+    "SMS provider",
+    "online identity service",
+    "reviewer OTP account"
+  ],
+  "blockingReasons": [
+    "All fresh official source and Myket requests were denied at proxy CONNECT with 403; authoritative exam inventory and current store rules remain unread.",
+    "Zero official exam booklets/final keys and zero official Konkur questions imported; comprehensive 1398-1405 coverage is incomplete and expected totals are unknown.",
+    "Publisher identity/contact and real Myket developer account are absent; no public submission performed.",
+    "Official textbook edition alignment and human educational review have not been completed."
+  ],
+  "readyForPublicSubmission": false,
+  "contentEditorialApprovalScope": "AI conceptual review of the 96 authored MCQs and 72 authored finals only; not official-exam, human or official-edition certification.",
+  "contentFinalHashes": {
+    "content/questions.json": "1c64d37db435062bd35ab0091efc60cdc601b3a630cc37f8470cda51ed1b1708",
+    "content/finals.json": "334b115efa6fef4cb857bfe35c75f0a0281fd8e3e541cac4c56a2b942d8fa992"
+  }
+}
