@@ -1,0 +1,12 @@
+{
+  "emulator": true,
+  "avd": "HezarZist",
+  "api": "29",
+  "androidRelease": "10",
+  "displaySize": "Physical size: 720x1280",
+  "displayDensity": "Physical density: 320",
+  "airplaneMode": "1",
+  "wifiOn": "0",
+  "mobileData": "0",
+  "realPhoneTested": false
+}

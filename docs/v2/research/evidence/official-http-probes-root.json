@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://myket.ir/",
+    "checkedAtUtc": "2026-11-07T11:11:51.504284+00:00",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://developer.myket.ir/",
+    "checkedAtUtc": "2026-11-07T11:11:51.504935+00:00",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://myket.ir/kb/",
+    "checkedAtUtc": "2026-11-07T11:11:51.505374+00:00",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://www.sanjesh.org/",
+    "checkedAtUtc": "2026-11-07T11:11:51.505912+00:00",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://sanjesh.org/",
+    "checkedAtUtc": "2026-11-07T11:11:51.506239+00:00",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://chap.sch.ir/",
+    "checkedAtUtc": "2026-11-07T11:11:51.506605+00:00",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://aee.medu.gov.ir/",
+    "checkedAtUtc": "2026-11-07T11:11:51.507370+00:00",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://azmoon.medu.gov.ir/",
+    "checkedAtUtc": "2026-11-07T11:11:51.507927+00:00",
+    "tlsVerification": true,
+    "errorType": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

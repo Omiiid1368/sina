@@ -1,0 +1,17 @@
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: CN=1000 Zist Local Release, OU=Education, O=HezarZist, C=IR
+Signer #1 certificate SHA-256 digest: b42c07d4458e3aeca4d508b0762ea5554f9e7632eb5e875670f793e6be54962a
+Signer #1 certificate SHA-1 digest: 3a75a778fa9c7de26c9faac2ee037b6bd6557534
+Signer #1 certificate MD5 digest: c8a3d2b8bf828c0881e348fc91c20327
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 3072
+Signer #1 public key SHA-256 digest: 35e73fc9200ebca49d85641e279f3cb20bc903376c8403f2cd0c07ce67585d66
+Signer #1 public key SHA-1 digest: ee69ac0664d566323dd7ebc128408a875df88c45
+Signer #1 public key MD5 digest: f0519644eb00097b84fc85e95fecd6a4

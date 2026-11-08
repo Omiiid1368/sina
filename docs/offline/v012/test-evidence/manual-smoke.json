@@ -1,0 +1,44 @@
+{
+  "apkSha256": "d25f4e9d58f85587bd69549fe9d17638d00397709ddd2dbcce23d4991b91f6d1",
+  "airplaneMode": true,
+  "dataResetBeforeSmoke": true,
+  "timer": {
+    "uuidStable": true,
+    "backgroundAndScreenOffAndForceStopRecovered": true,
+    "pauseExcluded": true,
+    "finishedMillis": 199988,
+    "finishedRecordCount": 1
+  },
+  "manualRecordMillis": 1500000,
+  "goalMinutes": 30,
+  "calendarAndChartOpened": true,
+  "supportExternalBrowserObserved": true,
+  "supportIntentUrl": "https://daramet.com/SinaRajabi",
+  "reviewButtonAbsent": true,
+  "realPhoneTested": false,
+  "automationNotes": [
+    "Cold-launch accessibility tree required retries.",
+    "Native numeric IME overlaid the first Save tap; dismissed keyboard and tapped visible Save. App source unchanged.",
+    "Lifecycle/pause/UUID assertions completed before the input automation correction; exact intermediate millisecond reading was not persisted."
+  ],
+  "supportExternalHandler": "org.chromium.webview_shell/.WebViewBrowserActivity (external Android emulator browser tester)",
+  "supportPageNetworkLoadVerified": false,
+  "supportScopeNote": "Exact BROWSABLE ACTION_VIEW URL reached the external emulator browser handler after a real tap. No in-app WebView. Page payment/network loading was not verified in airplane mode.",
+  "safExport": {
+    "systemPicker": "Android DocumentsUI, local Downloads",
+    "file": "HezarZist-v012-study.json",
+    "bytes": 20292,
+    "schemaVersion": 2,
+    "payloadSha256Verified": true,
+    "actualNativeFilePickerUsed": true
+  },
+  "safImport": {
+    "systemPickerUsed": true,
+    "confirmationPreviewUsed": true,
+    "appDataClearedBeforeImport": true,
+    "studyStateExactlyEqual": true,
+    "records": 2,
+    "goalMinutes": 30,
+    "forceStopAndReopenPreservedAllStudyFields": true
+  }
+}

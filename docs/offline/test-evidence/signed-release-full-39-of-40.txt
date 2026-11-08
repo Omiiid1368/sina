@@ -1,0 +1,636 @@
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+ir.hezarzist.FinalStudyTest:
+INSTRUMENTATION_STATUS: test=examKeepsAnswersHiddenAcrossNavigationAndDurableDeadlineRestore
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=examKeepsAnswersHiddenAcrossNavigationAndDurableDeadlineRestore
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=bundledCatalogIgnoresOldDownloadedBankAndRestoresExistingQuestionIds
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=bundledCatalogIgnoresOldDownloadedBankAndRestoresExistingQuestionIds
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=reviewFiltersUseLocalUnassessedAttemptsAndBookmarksWithoutRepeats
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stack=org.junit.ComparisonFailure: expected:<V2-FINAL-1[2-4-01]> but was:<V2-FINAL-1[1-8-02]>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at ir.hezarzist.FinalStudyTest.reviewFiltersUseLocalUnassessedAttemptsAndBookmarksWithoutRepeats$lambda$33(FinalStudyTest.kt:234)
+	at ir.hezarzist.FinalStudyTest.$r8$lambda$BjCdpnxtrlFgP1LKTgXntFIyNMw(Unknown Source:0)
+	at ir.hezarzist.FinalStudyTest$$ExternalSyntheticLambda5.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.FinalStudyTest.main$lambda$0(FinalStudyTest.kt:33)
+	at ir.hezarzist.FinalStudyTest.$r8$lambda$W6NZo0CaS7jYYs2bpBA7rHe4V3A(Unknown Source:0)
+	at ir.hezarzist.FinalStudyTest$$ExternalSyntheticLambda1.run(D8$$SyntheticClass:0)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2207)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+INSTRUMENTATION_STATUS: stream=
+Error in reviewFiltersUseLocalUnassessedAttemptsAndBookmarksWithoutRepeats(ir.hezarzist.FinalStudyTest):
+org.junit.ComparisonFailure: expected:<V2-FINAL-1[2-4-01]> but was:<V2-FINAL-1[1-8-02]>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at ir.hezarzist.FinalStudyTest.reviewFiltersUseLocalUnassessedAttemptsAndBookmarksWithoutRepeats$lambda$33(FinalStudyTest.kt:234)
+	at ir.hezarzist.FinalStudyTest.$r8$lambda$BjCdpnxtrlFgP1LKTgXntFIyNMw(Unknown Source:0)
+	at ir.hezarzist.FinalStudyTest$$ExternalSyntheticLambda5.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.FinalStudyTest.main$lambda$0(FinalStudyTest.kt:33)
+	at ir.hezarzist.FinalStudyTest.$r8$lambda$W6NZo0CaS7jYYs2bpBA7rHe4V3A(Unknown Source:0)
+	at ir.hezarzist.FinalStudyTest$$ExternalSyntheticLambda1.run(D8$$SyntheticClass:0)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2207)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+INSTRUMENTATION_STATUS: test=reviewFiltersUseLocalUnassessedAttemptsAndBookmarksWithoutRepeats
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=4
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=skippedPracticeStillRequiresAttemptAfterOpeningCompletedSession
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=4
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=skippedPracticeStillRequiresAttemptAfterOpeningCompletedSession
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=5
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=falseStatementNeedsCorrectionAndSelfAssessmentRejectsNonFiniteScores
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=5
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=falseStatementNeedsCorrectionAndSelfAssessmentRejectsNonFiniteScores
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=6
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=oldDownloadedAndUnavailableSessionsAreArchivedWithoutRemappingWrittenWork
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=6
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=oldDownloadedAndUnavailableSessionsAreArchivedWithoutRemappingWrittenWork
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=7
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=allSevenFormatsAndReadableDiagramsAreBundledWithoutNetworkPermission
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=7
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=allSevenFormatsAndReadableDiagramsAreBundledWithoutNetworkPermission
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=8
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=localDraftBookmarksFiltersAndEpochSurviveOnlyTheirValidStore
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=8
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=localDraftBookmarksFiltersAndEpochSurviveOnlyTheirValidStore
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=9
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=practiceHidesSolutionUntilWrittenAttemptAndUsesExplicitRubric
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.FinalStudyTest
+INSTRUMENTATION_STATUS: current=9
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=practiceHidesSolutionUntilWrittenAttemptAndUsesExplicitRubric
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=10
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+ir.hezarzist.LocalBackupTest:
+INSTRUMENTATION_STATUS: test=activeTimedQuizExportsNewClockFieldsWithoutResettingBudget
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=10
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=activeTimedQuizExportsNewClockFieldsWithoutResettingBudget
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=11
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=11
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=12
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=optionalProfileUsesBundledAvatarAndLimitsOnlyDisplayName
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=12
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=optionalProfileUsesBundledAvatarAndLimitsOnlyDisplayName
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=13
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=corruptionWrongApplicationFutureVersionAndDeepJsonAreRejectedWithoutMutation
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=13
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=corruptionWrongApplicationFutureVersionAndDeepJsonAreRejectedWithoutMutation
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=14
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=missingQuestionIdsAndOpaqueOldSessionsAreArchivedWithoutRemapping
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=14
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=missingQuestionIdsAndOpaqueOldSessionsAreArchivedWithoutRemapping
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=15
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=malformedOldStudyIsRetainedForManualRecoveryWithoutCrashingUpgrade
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=15
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=malformedOldStudyIsRetainedForManualRecoveryWithoutCrashingUpgrade
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=16
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=exportContainsOnlyWhitelistedStudyDataAndLocalProfile
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=16
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=exportContainsOnlyWhitelistedStudyDataAndLocalProfile
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=17
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=entireSchemaIsValidatedEvenWithRecomputedChecksum
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=17
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=entireSchemaIsValidatedEvenWithRecomputedChecksum
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=18
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=selectedLegacyAccountStudyIsPreservedWithoutIdentityOrOtherUsers
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=18
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=selectedLegacyAccountStudyIsPreservedWithoutIdentityOrOtherUsers
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=19
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=interruptedRestoreRecoversExactPreviousSnapshotBeforeStoresOpen
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=19
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=interruptedRestoreRecoversExactPreviousSnapshotBeforeStoresOpen
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=20
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=completeStudyProfileAndSelfAssessmentRoundTrip
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=20
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=completeStudyProfileAndSelfAssessmentRoundTrip
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=21
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=anonymousPrototypeProgressMigratesOnlyWhenPublishedProfileHasNoStudy
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=21
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=anonymousPrototypeProgressMigratesOnlyWhenPublishedProfileHasNoStudy
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=22
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=oversizedInputIsBoundedBeforeParsing
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.LocalBackupTest
+INSTRUMENTATION_STATUS: current=22
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=oversizedInputIsBoundedBeforeParsing
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=23
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+ir.hezarzist.OfflineComplianceTest:
+INSTRUMENTATION_STATUS: test=airplaneModeLaunchShowsLearningAndLocalToolsWithoutContactOrLoginGate
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=23
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=airplaneModeLaunchShowsLearningAndLocalToolsWithoutContactOrLoginGate
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=24
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=officialCoverageDoesNotInventPapersOrReplaceThemWithAuthoredQuestions
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=24
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=officialCoverageDoesNotInventPapersOrReplaceThemWithAuthoredQuestions
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=25
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=legacySnapshotsAndRemotePathsCannotOverrideBundledStudyContent
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=25
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=legacySnapshotsAndRemotePathsCannotOverrideBundledStudyContent
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=26
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=everyBundledQuestionExplanationImageAndPersianFontIsReadable
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=26
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=everyBundledQuestionExplanationImageAndPersianFontIsReadable
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=27
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=installedManifestHasNoNetworkContactOrBroadStoragePermissions
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineComplianceTest
+INSTRUMENTATION_STATUS: current=27
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=installedManifestHasNoNetworkContactOrBroadStoragePermissions
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=28
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+ir.hezarzist.OfflineGameTest:
+INSTRUMENTATION_STATUS: test=practiceAnswersBookmarksAndSettingsSurviveNewStore
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=28
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=practiceAnswersBookmarksAndSettingsSurviveNewStore
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=29
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=resumedTimerCannotGainTimeWhenWallClockMovesBackwards
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=29
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=resumedTimerCannotGainTimeWhenWallClockMovesBackwards
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=30
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=duelHasNineSharedQuestionsAndEqualTimeBudget
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=30
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=duelHasNineSharedQuestionsAndEqualTimeBudget
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=31
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=quickTimeoutCannotBeAnsweredLateAndNoRepeats
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=31
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=quickTimeoutCannotBeAnsweredLateAndNoRepeats
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=32
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=packagedBankIsIndependentAndOfflineModesRemainAvailable
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=32
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=packagedBankIsIndependentAndOfflineModesRemainAvailable
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=33
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=examKeepsOneDeadlineAndEndsOnExpiry
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=33
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=examKeepsOneDeadlineAndEndsOnExpiry
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=34
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=reviewFiltersWrongBlankAndMarkedByGradeAndChapter
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=34
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=reviewFiltersWrongBlankAndMarkedByGradeAndChapter
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=35
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=activeSessionRestoresAnswersTimerAndCompletesOnlyOnce
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=35
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=activeSessionRestoresAnswersTimerAndCompletesOnlyOnce
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=36
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=personalBestSurvivesMoreThanTwoHundredRecentResults
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=36
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=personalBestSurvivesMoreThanTwoHundredRecentResults
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=37
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=timerAfterDeviceRebootCannotExceedItsSavedRemainingBudget
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.OfflineGameTest
+INSTRUMENTATION_STATUS: current=37
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=timerAfterDeviceRebootCannotExceedItsSavedRemainingBudget
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.PersianUiTest
+INSTRUMENTATION_STATUS: current=38
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+ir.hezarzist.PersianUiTest:
+INSTRUMENTATION_STATUS: test=persianPracticeShowsExplanationsAndSavesResult
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.PersianUiTest
+INSTRUMENTATION_STATUS: current=38
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=persianPracticeShowsExplanationsAndSavesResult
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.PersianUiTest
+INSTRUMENTATION_STATUS: current=39
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=rotationKeepsQuickSessionAndDeadline
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.PersianUiTest
+INSTRUMENTATION_STATUS: current=39
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=rotationKeepsQuickSessionAndDeadline
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ir.hezarzist.PersianUiTest
+INSTRUMENTATION_STATUS: current=40
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=darkThemeAndLargeTextCanNavigateAndPersist
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ir.hezarzist.PersianUiTest
+INSTRUMENTATION_STATUS: current=40
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=40
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=darkThemeAndLargeTextCanNavigateAndPersist
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_RESULT: stream=
+
+Time: 116.245
+There was 1 failure:
+1) reviewFiltersUseLocalUnassessedAttemptsAndBookmarksWithoutRepeats(ir.hezarzist.FinalStudyTest)
+org.junit.ComparisonFailure: expected:<V2-FINAL-1[2-4-01]> but was:<V2-FINAL-1[1-8-02]>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at ir.hezarzist.FinalStudyTest.reviewFiltersUseLocalUnassessedAttemptsAndBookmarksWithoutRepeats$lambda$33(FinalStudyTest.kt:234)
+	at ir.hezarzist.FinalStudyTest.$r8$lambda$BjCdpnxtrlFgP1LKTgXntFIyNMw(Unknown Source:0)
+	at ir.hezarzist.FinalStudyTest$$ExternalSyntheticLambda5.invoke(D8$$SyntheticClass:0)
+	at ir.hezarzist.FinalStudyTest.main$lambda$0(FinalStudyTest.kt:33)
+	at ir.hezarzist.FinalStudyTest.$r8$lambda$W6NZo0CaS7jYYs2bpBA7rHe4V3A(Unknown Source:0)
+	at ir.hezarzist.FinalStudyTest$$ExternalSyntheticLambda1.run(D8$$SyntheticClass:0)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2207)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+FAILURES!!!
+Tests run: 40,  Failures: 1
+
+
+INSTRUMENTATION_CODE: -1

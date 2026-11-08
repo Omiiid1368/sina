@@ -1,0 +1,16 @@
+{
+  "apk": "HezarZist-0.11.0-offline-preview-release.apk",
+  "size": 7224788,
+  "sha256": "9012364db913ab1809b48437aa6c8db683d0ee0caa8995d00952835cdbd0316c",
+  "counts": {
+    "questions.json": 96,
+    "finals.json": 72,
+    "konkur/questions.json": 0
+  },
+  "canonicalAssetsExactMatch": true,
+  "lint": {
+    "Error": 0,
+    "Warning": 13,
+    "Information": 13
+  }
+}

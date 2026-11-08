@@ -1,0 +1,223 @@
+{
+  "initialDeviceSuite": {
+    "executed": 40,
+    "passed": 39,
+    "failed": 1,
+    "skipped": 0,
+    "failure": "Exact deadline equality differed by -1ms on Activity recreation; production timer was conservative."
+  },
+  "testOnlyCorrection": "Assert deadline difference -100ms..+5ms and retained >=500ms consumed time; session identity/index/route and ticking assertions remain. No app source change.",
+  "targetedRerun": {
+    "executed": 3,
+    "passed": 3,
+    "failed": 0,
+    "skipped": 0,
+    "scope": "ir.hezarzist.PersianUiTest"
+  },
+  "latestOutcomeByTest": {
+    "ir.hezarzist.FinalStudyTest.examKeepsAnswersHiddenAcrossNavigationAndDurableDeadlineRestore": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "4.692"
+    },
+    "ir.hezarzist.FinalStudyTest.bundledCatalogIgnoresOldDownloadedBankAndRestoresExistingQuestionIds": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "1.26"
+    },
+    "ir.hezarzist.FinalStudyTest.reviewFiltersUseLocalUnassessedAttemptsAndBookmarksWithoutRepeats": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.885"
+    },
+    "ir.hezarzist.FinalStudyTest.skippedPracticeStillRequiresAttemptAfterOpeningCompletedSession": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.632"
+    },
+    "ir.hezarzist.FinalStudyTest.falseStatementNeedsCorrectionAndSelfAssessmentRejectsNonFiniteScores": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.68"
+    },
+    "ir.hezarzist.FinalStudyTest.oldDownloadedAndUnavailableSessionsAreArchivedWithoutRemappingWrittenWork": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "1.183"
+    },
+    "ir.hezarzist.FinalStudyTest.allSevenFormatsAndReadableDiagramsAreBundledWithoutNetworkPermission": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.605"
+    },
+    "ir.hezarzist.FinalStudyTest.localDraftBookmarksFiltersAndEpochSurviveOnlyTheirValidStore": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.907"
+    },
+    "ir.hezarzist.FinalStudyTest.practiceHidesSolutionUntilWrittenAttemptAndUsesExplicitRubric": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "43.724"
+    },
+    "ir.hezarzist.LocalBackupTest.activeTimedQuizExportsNewClockFieldsWithoutResettingBudget": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "3.222"
+    },
+    "ir.hezarzist.LocalBackupTest.partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "1.711"
+    },
+    "ir.hezarzist.LocalBackupTest.optionalProfileUsesBundledAvatarAndLimitsOnlyDisplayName": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.38"
+    },
+    "ir.hezarzist.LocalBackupTest.corruptionWrongApplicationFutureVersionAndDeepJsonAreRejectedWithoutMutation": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "1.308"
+    },
+    "ir.hezarzist.LocalBackupTest.missingQuestionIdsAndOpaqueOldSessionsAreArchivedWithoutRemapping": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "3.042"
+    },
+    "ir.hezarzist.LocalBackupTest.malformedOldStudyIsRetainedForManualRecoveryWithoutCrashingUpgrade": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.383"
+    },
+    "ir.hezarzist.LocalBackupTest.exportContainsOnlyWhitelistedStudyDataAndLocalProfile": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.652"
+    },
+    "ir.hezarzist.LocalBackupTest.entireSchemaIsValidatedEvenWithRecomputedChecksum": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.73"
+    },
+    "ir.hezarzist.LocalBackupTest.selectedLegacyAccountStudyIsPreservedWithoutIdentityOrOtherUsers": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "2.49"
+    },
+    "ir.hezarzist.LocalBackupTest.interruptedRestoreRecoversExactPreviousSnapshotBeforeStoresOpen": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.705"
+    },
+    "ir.hezarzist.LocalBackupTest.completeStudyProfileAndSelfAssessmentRoundTrip": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "1.357"
+    },
+    "ir.hezarzist.LocalBackupTest.anonymousPrototypeProgressMigratesOnlyWhenPublishedProfileHasNoStudy": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "2.789"
+    },
+    "ir.hezarzist.LocalBackupTest.oversizedInputIsBoundedBeforeParsing": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.354"
+    },
+    "ir.hezarzist.OfflineComplianceTest.airplaneModeLaunchShowsLearningAndLocalToolsWithoutContactOrLoginGate": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "19.29"
+    },
+    "ir.hezarzist.OfflineComplianceTest.officialCoverageDoesNotInventPapersOrReplaceThemWithAuthoredQuestions": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.131"
+    },
+    "ir.hezarzist.OfflineComplianceTest.legacySnapshotsAndRemotePathsCannotOverrideBundledStudyContent": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.103"
+    },
+    "ir.hezarzist.OfflineComplianceTest.everyBundledQuestionExplanationImageAndPersianFontIsReadable": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "2.88"
+    },
+    "ir.hezarzist.OfflineComplianceTest.installedManifestHasNoNetworkContactOrBroadStoragePermissions": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.127"
+    },
+    "ir.hezarzist.OfflineGameTest.practiceAnswersBookmarksAndSettingsSurviveNewStore": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.536"
+    },
+    "ir.hezarzist.OfflineGameTest.resumedTimerCannotGainTimeWhenWallClockMovesBackwards": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.705"
+    },
+    "ir.hezarzist.OfflineGameTest.duelHasNineSharedQuestionsAndEqualTimeBudget": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.882"
+    },
+    "ir.hezarzist.OfflineGameTest.quickTimeoutCannotBeAnsweredLateAndNoRepeats": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.907"
+    },
+    "ir.hezarzist.OfflineGameTest.packagedBankIsIndependentAndOfflineModesRemainAvailable": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.127"
+    },
+    "ir.hezarzist.OfflineGameTest.examKeepsOneDeadlineAndEndsOnExpiry": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.329"
+    },
+    "ir.hezarzist.OfflineGameTest.reviewFiltersWrongBlankAndMarkedByGradeAndChapter": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.428"
+    },
+    "ir.hezarzist.OfflineGameTest.activeSessionRestoresAnswersTimerAndCompletesOnlyOnce": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.757"
+    },
+    "ir.hezarzist.OfflineGameTest.personalBestSurvivesMoreThanTwoHundredRecentResults": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "6.002"
+    },
+    "ir.hezarzist.OfflineGameTest.timerAfterDeviceRebootCannotExceedItsSavedRemainingBudget": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "0.377"
+    },
+    "ir.hezarzist.PersianUiTest.persianPracticeShowsExplanationsAndSavesResult": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "42.862"
+    },
+    "ir.hezarzist.PersianUiTest.rotationKeepsQuickSessionAndDeadline": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "17.26"
+    },
+    "ir.hezarzist.PersianUiTest.darkThemeAndLargeTextCanNavigateAndPersist": {
+      "passed": true,
+      "skipped": false,
+      "seconds": "23.826"
+    }
+  },
+  "uniqueDeviceTestsPassed": 40,
+  "cumulativeDeviceExecutions": 43,
+  "cumulativePassingExecutions": 42,
+  "resolvedFailureCount": 1
+}

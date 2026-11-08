@@ -1,0 +1,13 @@
+{
+  "recordedAt": "2026-11-07T21:19:20.736221+00:00",
+  "suite": "tools/test_konkur_coverage.py",
+  "testsRun": 23,
+  "failures": 0,
+  "errors": 0,
+  "successful": true,
+  "productionCompleteGateExitCode": 1,
+  "productionOfficialQuestions": 0,
+  "productionExpectedCounts": "unknown, never inferred",
+  "productionScientificReview": "not performed: zero official questions or original booklet/key pairs available",
+  "fixturePolicy": "Synthetic records, PDFs and diagrams exist only in automatically removed temporary test directories; never active content or APK."
+}

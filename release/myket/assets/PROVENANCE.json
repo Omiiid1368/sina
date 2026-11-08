@@ -1,0 +1,15 @@
+{
+  "generatedAtUtc": "2026-11-07T16:33:51.268234+00:00",
+  "origin": "Standard SVG render of existing Android vector drawable; no new logo or external image added.",
+  "renderer": "Inkscape command-line SVG renderer",
+  "notOfficialMyketAssetSpec": true,
+  "dimensions": [
+    512,
+    512
+  ],
+  "files": {
+    "app/src/main/res/drawable/ic_launcher.xml": "c3d6eabe62059bf13c8c8e9181b54f15e739a51f3062571871289e6e33dd8efe",
+    "release/myket/assets/icon-from-project.svg": "4aeab0457c9cd39d7a8d1247c8f579956b5debb5ae2e6512f85de17e9787e25f",
+    "release/myket/assets/icon-512.png": "39c2ca967f314c083cc4efe5e2accf225e05dc2c6cd6c1191eedae5bf86613b9"
+  }
+}

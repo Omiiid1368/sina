@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://developer.myket.ir/",
+    "checkedAtUtc": "2026-11-08T12:29:30.848012+00:00",
+    "method": "GET",
+    "timeoutSeconds": 20,
+    "tlsVerification": true,
+    "purpose": "Read current official Myket rules for optional external donation/support links; no assumption of compliance",
+    "proxyMode": "inherited defaults, no overrides",
+    "errorType": "URLError",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "originResponseObtained": false,
+    "failureStage": "Proxy CONNECT tunnel",
+    "elapsedSeconds": 0.031
+  },
+  {
+    "url": "https://myket.ir/",
+    "checkedAtUtc": "2026-11-08T12:29:30.850093+00:00",
+    "method": "GET",
+    "timeoutSeconds": 20,
+    "tlsVerification": true,
+    "purpose": "Read current official Myket rules for optional external donation/support links; no assumption of compliance",
+    "proxyMode": "inherited defaults, no overrides",
+    "errorType": "URLError",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "originResponseObtained": false,
+    "failureStage": "Proxy CONNECT tunnel",
+    "elapsedSeconds": 0.024
+  },
+  {
+    "url": "https://myket.ir/kb/",
+    "checkedAtUtc": "2026-11-08T12:29:30.850840+00:00",
+    "method": "GET",
+    "timeoutSeconds": 20,
+    "tlsVerification": true,
+    "purpose": "Read current official Myket rules for optional external donation/support links; no assumption of compliance",
+    "proxyMode": "inherited defaults, no overrides",
+    "errorType": "URLError",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "originResponseObtained": false,
+    "failureStage": "Proxy CONNECT tunnel",
+    "elapsedSeconds": 0.026
+  }
+]

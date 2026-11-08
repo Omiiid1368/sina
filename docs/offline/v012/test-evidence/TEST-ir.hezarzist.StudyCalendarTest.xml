@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ir.hezarzist.StudyCalendarTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-11-08T13:38:56" hostname="a1585755b304" time="0.143">
+  <properties/>
+  <testcase name="parserAcceptsPersianArabicAndAsciiDigitsAndRejectsImpossibleDates" classname="ir.hezarzist.StudyCalendarTest" time="0.038"/>
+  <testcase name="knownNowruzDatesAndEsfandLeapDayMatchCivilCalendar" classname="ir.hezarzist.StudyCalendarTest" time="0.001"/>
+  <testcase name="monthBoundsUseJalaliMonthsAndWeeksBeginOnSaturday" classname="ir.hezarzist.StudyCalendarTest" time="0.006"/>
+  <testcase name="everyDayAcrossRequestedStudyYearsRoundTripsWithoutGaps" classname="ir.hezarzist.StudyCalendarTest" time="0.098"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

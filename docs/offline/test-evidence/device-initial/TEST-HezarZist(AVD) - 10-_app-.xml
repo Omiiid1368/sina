@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="ir.hezarzist.FinalStudyTest" tests="40" failures="1" errors="0" skipped="0" time="168.17" timestamp="2026-11-07T21:27:40" hostname="localhost">
+  <properties>
+    <property name="device" value="HezarZist(AVD) - 10" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="examKeepsAnswersHiddenAcrossNavigationAndDurableDeadlineRestore" classname="ir.hezarzist.FinalStudyTest" time="4.692" />
+  <testcase name="bundledCatalogIgnoresOldDownloadedBankAndRestoresExistingQuestionIds" classname="ir.hezarzist.FinalStudyTest" time="1.26" />
+  <testcase name="reviewFiltersUseLocalUnassessedAttemptsAndBookmarksWithoutRepeats" classname="ir.hezarzist.FinalStudyTest" time="0.885" />
+  <testcase name="skippedPracticeStillRequiresAttemptAfterOpeningCompletedSession" classname="ir.hezarzist.FinalStudyTest" time="0.632" />
+  <testcase name="falseStatementNeedsCorrectionAndSelfAssessmentRejectsNonFiniteScores" classname="ir.hezarzist.FinalStudyTest" time="0.68" />
+  <testcase name="oldDownloadedAndUnavailableSessionsAreArchivedWithoutRemappingWrittenWork" classname="ir.hezarzist.FinalStudyTest" time="1.183" />
+  <testcase name="allSevenFormatsAndReadableDiagramsAreBundledWithoutNetworkPermission" classname="ir.hezarzist.FinalStudyTest" time="0.605" />
+  <testcase name="localDraftBookmarksFiltersAndEpochSurviveOnlyTheirValidStore" classname="ir.hezarzist.FinalStudyTest" time="0.907" />
+  <testcase name="practiceHidesSolutionUntilWrittenAttemptAndUsesExplicitRubric" classname="ir.hezarzist.FinalStudyTest" time="43.724" />
+  <testcase name="activeTimedQuizExportsNewClockFieldsWithoutResettingBudget" classname="ir.hezarzist.LocalBackupTest" time="3.222" />
+  <testcase name="partialPreferenceWriteRollsBackEveryStoreAndPreservesUnownedKeys" classname="ir.hezarzist.LocalBackupTest" time="1.711" />
+  <testcase name="optionalProfileUsesBundledAvatarAndLimitsOnlyDisplayName" classname="ir.hezarzist.LocalBackupTest" time="0.38" />
+  <testcase name="corruptionWrongApplicationFutureVersionAndDeepJsonAreRejectedWithoutMutation" classname="ir.hezarzist.LocalBackupTest" time="1.308" />
+  <testcase name="missingQuestionIdsAndOpaqueOldSessionsAreArchivedWithoutRemapping" classname="ir.hezarzist.LocalBackupTest" time="3.042" />
+  <testcase name="malformedOldStudyIsRetainedForManualRecoveryWithoutCrashingUpgrade" classname="ir.hezarzist.LocalBackupTest" time="0.383" />
+  <testcase name="exportContainsOnlyWhitelistedStudyDataAndLocalProfile" classname="ir.hezarzist.LocalBackupTest" time="0.652" />
+  <testcase name="entireSchemaIsValidatedEvenWithRecomputedChecksum" classname="ir.hezarzist.LocalBackupTest" time="0.73" />
+  <testcase name="selectedLegacyAccountStudyIsPreservedWithoutIdentityOrOtherUsers" classname="ir.hezarzist.LocalBackupTest" time="2.49" />
+  <testcase name="interruptedRestoreRecoversExactPreviousSnapshotBeforeStoresOpen" classname="ir.hezarzist.LocalBackupTest" time="0.705" />
+  <testcase name="completeStudyProfileAndSelfAssessmentRoundTrip" classname="ir.hezarzist.LocalBackupTest" time="1.357" />
+  <testcase name="anonymousPrototypeProgressMigratesOnlyWhenPublishedProfileHasNoStudy" classname="ir.hezarzist.LocalBackupTest" time="2.789" />
+  <testcase name="oversizedInputIsBoundedBeforeParsing" classname="ir.hezarzist.LocalBackupTest" time="0.354" />
+  <testcase name="airplaneModeLaunchShowsLearningAndLocalToolsWithoutContactOrLoginGate" classname="ir.hezarzist.OfflineComplianceTest" time="19.29" />
+  <testcase name="officialCoverageDoesNotInventPapersOrReplaceThemWithAuthoredQuestions" classname="ir.hezarzist.OfflineComplianceTest" time="0.131" />
+  <testcase name="legacySnapshotsAndRemotePathsCannotOverrideBundledStudyContent" classname="ir.hezarzist.OfflineComplianceTest" time="0.103" />
+  <testcase name="everyBundledQuestionExplanationImageAndPersianFontIsReadable" classname="ir.hezarzist.OfflineComplianceTest" time="2.88" />
+  <testcase name="installedManifestHasNoNetworkContactOrBroadStoragePermissions" classname="ir.hezarzist.OfflineComplianceTest" time="0.127" />
+  <testcase name="practiceAnswersBookmarksAndSettingsSurviveNewStore" classname="ir.hezarzist.OfflineGameTest" time="0.536" />
+  <testcase name="resumedTimerCannotGainTimeWhenWallClockMovesBackwards" classname="ir.hezarzist.OfflineGameTest" time="0.705" />
+  <testcase name="duelHasNineSharedQuestionsAndEqualTimeBudget" classname="ir.hezarzist.OfflineGameTest" time="0.882" />
+  <testcase name="quickTimeoutCannotBeAnsweredLateAndNoRepeats" classname="ir.hezarzist.OfflineGameTest" time="0.907" />
+  <testcase name="packagedBankIsIndependentAndOfflineModesRemainAvailable" classname="ir.hezarzist.OfflineGameTest" time="0.127" />
+  <testcase name="examKeepsOneDeadlineAndEndsOnExpiry" classname="ir.hezarzist.OfflineGameTest" time="0.329" />
+  <testcase name="reviewFiltersWrongBlankAndMarkedByGradeAndChapter" classname="ir.hezarzist.OfflineGameTest" time="0.428" />
+  <testcase name="activeSessionRestoresAnswersTimerAndCompletesOnlyOnce" classname="ir.hezarzist.OfflineGameTest" time="0.757" />
+  <testcase name="personalBestSurvivesMoreThanTwoHundredRecentResults" classname="ir.hezarzist.OfflineGameTest" time="6.002" />
+  <testcase name="timerAfterDeviceRebootCannotExceedItsSavedRemainingBudget" classname="ir.hezarzist.OfflineGameTest" time="0.377" />
+  <testcase name="persianPracticeShowsExplanationsAndSavesResult" classname="ir.hezarzist.PersianUiTest" time="19.944" />
+  <testcase name="rotationKeepsQuickSessionAndDeadline" classname="ir.hezarzist.PersianUiTest" time="11.18">
+    <failure>java.lang.AssertionError: expected:&lt;577957&gt; but was:&lt;577956&gt;
+at org.junit.Assert.fail(Assert.java:89)
+at org.junit.Assert.failNotEquals(Assert.java:835)
+at org.junit.Assert.assertEquals(Assert.java:647)
+at org.junit.Assert.assertEquals(Assert.java:633)
+at ir.hezarzist.PersianUiTest.rotationKeepsQuickSessionAndDeadline$lambda$5(PersianUiTest.kt:71)
+at ir.hezarzist.PersianUiTest.$r8$lambda$sXVrHdeTRoqenfvShTU5HvDrM8s(Unknown Source:0)
+at ir.hezarzist.PersianUiTest$$ExternalSyntheticLambda7.invoke(D8$$SyntheticClass:0)
+at ir.hezarzist.PersianUiTest.model$lambda$0(PersianUiTest.kt:34)
+at ir.hezarzist.PersianUiTest.$r8$lambda$iDh2A3gAkgUtiPVJn5TTsD1CQaU(Unknown Source:0)
+at ir.hezarzist.PersianUiTest$$ExternalSyntheticLambda4.perform(D8$$SyntheticClass:0)
+at androidx.test.core.app.ActivityScenario.lambda$onActivity$2$androidx-test-core-app-ActivityScenario(ActivityScenario.java:794)
+at androidx.test.core.app.ActivityScenario$$ExternalSyntheticLambda2.run(D8$$SyntheticClass:0)
+at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2207)
+at android.os.Handler.handleCallback(Handler.java:883)
+at android.os.Handler.dispatchMessage(Handler.java:100)
+at android.os.Looper.loop(Looper.java:214)
+at android.app.ActivityThread.main(ActivityThread.java:7356)
+at java.lang.reflect.Method.invoke(Native Method)
+at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+</failure>
+  </testcase>
+  <testcase name="darkThemeAndLargeTextCanNavigateAndPersist" classname="ir.hezarzist.PersianUiTest" time="17.644" />
+</testsuite>

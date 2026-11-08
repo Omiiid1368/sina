@@ -1,0 +1,64 @@
+[
+  {
+    "id": "UP-e296b213b292-0019",
+    "sourceId": "UPLOAD-e296b213b292e01e",
+    "number": 19,
+    "canonicalId": "UP-e296b213b292-0005"
+  },
+  {
+    "id": "UP-220c080290f3-0021",
+    "sourceId": "UPLOAD-220c080290f34402",
+    "number": 21,
+    "canonicalId": "UP-220c080290f3-0014",
+    "reason": "spacing_only"
+  },
+  {
+    "id": "UP-6328c51206de-0012",
+    "sourceId": "UPLOAD-6328c51206de8752",
+    "number": 12,
+    "canonicalId": "UP-6328c51206de-0009",
+    "reason": "spelling_and_spacing_only"
+  },
+  {
+    "id": "UP-6328c51206de-0017",
+    "sourceId": "UPLOAD-6328c51206de8752",
+    "number": 17,
+    "canonicalId": "UP-6328c51206de-0014",
+    "reason": "equivalent_vacuole_synonyms_same_statements"
+  },
+  {
+    "id": "UP-6fa8bda53d66-0066",
+    "sourceId": "UPLOAD-6fa8bda53d6600ab",
+    "number": 66,
+    "canonicalId": "UP-6fa8bda53d66-0063",
+    "reason": "same_four_statements_reordered_same_count"
+  },
+  {
+    "id": "UP-c2cc1b937eeb-0012",
+    "sourceId": "UPLOAD-c2cc1b937eeb00a1",
+    "number": 12,
+    "canonicalId": "UP-c2cc1b937eeb-0005",
+    "reason": "punctuation_and_spacing_only"
+  },
+  {
+    "id": "UP-e296b213b292-0009",
+    "sourceId": "UPLOAD-e296b213b292e01e",
+    "number": 9,
+    "canonicalId": "UP-e296b213b292-0006",
+    "reason": "punctuation_and_spacing_only"
+  },
+  {
+    "id": "UP-1d4f6c662c18-0034",
+    "sourceId": "UPLOAD-1d4f6c662c18f622",
+    "number": 34,
+    "canonicalId": "UP-1d4f6c662c18-0037",
+    "reason": "spacing_only_keep_complete_analysis_occurrence"
+  },
+  {
+    "id": "UP-b4a413208199-0017",
+    "sourceId": "UPLOAD-b4a413208199e27d",
+    "number": 17,
+    "canonicalId": "UP-b4a413208199-0016",
+    "reason": "optimal_foraging_definition_expanded_same_meaning"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "checkedAtUtc": "2026-11-07T21:12:21.297475+00:00",
+  "scope": "Offline release source verification: all official biology Konkur 1398-1405 actually held/published sessions inside/outside Iran; official finals and textbook editions; current official Myket guidance",
+  "latestProbeEvidence": "evidence/official-http-probes-offline.json",
+  "latestProbeAtUtc": "2026-11-07T21:07:29Z",
+  "requestedDestinations": 8,
+  "observedOutcome": "All 8 HTTPS requests failed while opening the proxy CONNECT tunnel: 403 Forbidden. No origin HTTP response, page, PDF, exam index, booklet, key or rule text was obtained.",
+  "notOriginSiteError": true,
+  "observedNetworkPolicy": {
+    "state": "restricted/enforced",
+    "customAllowedHosts": [],
+    "source": "Root current runtime observation; local process filesystem access does not override HTTP proxy destination policy."
+  },
+  "localSourceEvidence": "evidence/local-source-audit.json",
+  "officialExamSessionIndexVerified": false,
+  "officialExamBookletsVerified": 0,
+  "officialFinalAnswerKeysVerified": 0,
+  "officialExamQuestionsImported": 0,
+  "officialFinalsPapersVerified": 0,
+  "officialTextbookPublicationYearsVerified": false,
+  "currentMyketRulesVerified": false,
+  "coverageManifest": "../../../content/konkur/coverage.json",
+  "coverageReport": "../COVERAGE.fa.md",
+  "yearSessionCounts": "Unknown until authoritative published inventory is retrieved; no inference from memory.",
+  "publicationDecision": "Incomplete offline preview only. Archive completeness and Myket public-submission readiness remain false.",
+  "nextActualNeeds": "Readable authoritative session inventory and matching original booklets, final answer keys/correction notices with source URLs; official Myket guide/panel read access. No server, domain, email or SMS provider is needed."
+}

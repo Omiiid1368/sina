@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ir.hezarzist.QuizLogicTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-11-08T13:38:56" hostname="a1585755b304" time="0.254">
+  <properties/>
+  <testcase name="computerUsesSameQuestionsAndTimeAndDifficultyMatters" classname="ir.hezarzist.QuizLogicTest" time="0.244"/>
+  <testcase name="resultCountsIncludeUnansweredAndSkipped" classname="ir.hezarzist.QuizLogicTest" time="0.008"/>
+  <testcase name="selectionDeduplicatesAndPrioritizesUnseen" classname="ir.hezarzist.QuizLogicTest" time="0.001"/>
+  <testcase name="scoringRewardsOnlyCorrectAndClampsTime" classname="ir.hezarzist.QuizLogicTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,30 @@
+{
+  "checkedAtUtc": "2026-11-07T10:48:56Z",
+  "date": "2026-11-07",
+  "scope": "Official examination PDFs/final answer keys and current Myket official developer documentation",
+  "observedPolicy": {
+    "observationsCurrent": true,
+    "state": "enforced",
+    "customAllowedHosts": [],
+    "preset": "package_managers"
+  },
+  "sandboxProbeEvidence": "evidence/official-http-probes-initial.json",
+  "sandboxResult": "All 8 requests failed before HTTP with URLError [Errno 1] Operation not permitted. No response status or remote content was obtained.",
+  "outsideSandboxRetry": {
+    "requested": true,
+    "outcome": "Approval tool call waited 1182.6 seconds and was aborted by user. It did not execute; no HTTP denial status is established."
+  },
+  "noBrowserTools": "Tool discovery returned no browser/search/desktop execution tools; remote_desktop capability alone is not a callable browser.",
+  "officialPdfCountVerified": 0,
+  "officialFinalKeysVerified": 0,
+  "currentMyketRulesVerified": false,
+  "extraHostsToConsider": [
+    "aee.medu.gov.ir",
+    "azmoon.medu.gov.ir"
+  ],
+  "extraHostQualification": "Candidate education archive endpoints only; current official role and any redirect destinations are not verified.",
+  "latestProbeAtUtc": "2026-11-07T11:11:51Z",
+  "approvedRootProbeEvidence": "evidence/official-http-probes-root.json",
+  "approvedRootProbeResult": "All 8 HTTPS requests rejected during proxy CONNECT: URLError Tunnel connection failed: 403 Forbidden. No origin HTTP response, HTML, PDF or key obtained.",
+  "currentConclusion": "Confirmed proxy destination denial; official pages remain unread and current rules unverified."
+}
