@@ -1,0 +1,30 @@
+[
+  {
+    "id": "project-authored-v2",
+    "status": "original_project_content",
+    "distributionAllowed": true,
+    "holder": "محتوای مستقل تألیفی پروژه",
+    "evidence": "docs/SOURCES.fa.md",
+    "scope": "Independently authored project question text, suggested rubrics and project-created diagrams.",
+    "notAnExternalPermissionCertificate": true
+  },
+  {
+    "id": "third-party-user-declaration",
+    "status": "user_declared_permission",
+    "distributionAllowed": false,
+    "evidence": "docs/SOURCES.fa.md",
+    "scope": "Project owner declaration concerning test reproduction.",
+    "independentlyVerified": false,
+    "activeQuestionCount": 0
+  },
+  {
+    "id": "uploaded-owner-declaration",
+    "status": "user_declared_permission",
+    "distributionAllowed": true,
+    "evidence": "docs/SOURCES.fa.md",
+    "scope": "User-supplied PDFs; project owner explicitly declared permission to reproduce the supplied examination and institute materials.",
+    "independentlyVerified": false,
+    "activeMcqCount": 866,
+    "activeFinalsCount": 0
+  }
+]

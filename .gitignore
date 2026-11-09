@@ -1,0 +1,28 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+*.jks
+*.keystore
+captures/
+dist/
+content/_work/
+__pycache__/
+
+# Server runtime data and credentials
+**/.venv/
+.env
+.env.*
+!.env.example
+!.env.production.example
+*.db
+*.db-shm
+*.db-wal
+**/node_modules/
+ops/backups/
+
+# Private database, account deletion ledger, and generated server state
+/data/
+/server/data/

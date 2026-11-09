@@ -1,0 +1,5 @@
+c3aa989e5fb2c40ffd35ed922666a02d59c841ce3b344750108b79b5a814649d  HezarZist-0.14.0-bank.zip
+5dddc11031eb40a5ba1828ae04d07a681e73150f8fce40a6b87b779f2a0f8f77  HezarZist-0.14.0-delivery.zip
+a03903f303a76a274af5a1afce7730ac1fd7bda3fedefb89ee58a0506c26f1e4  HezarZist-0.14.0-package-manifest.json
+398e4945e13406ffa0e75d0965685351b9cf003da22caba631b1cf9413aa51b0  HezarZist-0.14.0-release.apk
+d28bfcf47de0a4e47002a40112ed53b090d6e25c97fc819b65839bcf513c21bf  HezarZist-0.14.0-source.zip

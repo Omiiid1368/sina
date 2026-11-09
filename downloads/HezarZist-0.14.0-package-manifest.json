@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 2,
+  "version": "0.14.0",
+  "kind": "delivery",
+  "counts": {
+    "main": 962,
+    "veryDifficult": 197,
+    "shared": 197,
+    "unique": 962,
+    "finals": 72
+  },
+  "files": {
+    "artifacts/HezarZist-0.14.0-release.apk": {
+      "bytes": 45692482,
+      "sha256": "398e4945e13406ffa0e75d0965685351b9cf003da22caba631b1cf9413aa51b0"
+    },
+    "content/finals.json": {
+      "bytes": 148746,
+      "sha256": "334b115efa6fef4cb857bfe35c75f0a0281fd8e3e541cac4c56a2b942d8fa992"
+    },
+    "content/questions.json": {
+      "bytes": 5751831,
+      "sha256": "07329ef7c807c2160bb0dfd9594de2fd1012f0fe54ba8c7fd687f2366c227486"
+    },
+    "content/release/qb-color-guide.json": {
+      "bytes": 197,
+      "sha256": "12a6c368c3b990c855ce750c804fca7ab279583d5fe7a68266981b1864161c7d"
+    },
+    "content/release/summary.json": {
+      "bytes": 685,
+      "sha256": "eaaf6a576fa1f7c8920cd06776e4e6444a5b2713f6db1c76543d57925437c083"
+    },
+    "content/sources.json": {
+      "bytes": 1482,
+      "sha256": "0007c679d1e0f3443da4adea773e8d9eabf1617b093e6e7c24ad3638a49d514f"
+    },
+    "content/v2/LICENSES.md": {
+      "bytes": 1205,
+      "sha256": "3ea49d4744634dedd12e15a89a5b2ee6ed4cfd4f95f69014710017bb516c2871"
+    },
+    "content/v2/licenses.json": {
+      "bytes": 1078,
+      "sha256": "4dc6baf76dc7ed964cfe6d8e8faa6f06c4c8579e89eeb990edaaa2fbf23e8407"
+    },
+    "content/v2/sources.json": {
+      "bytes": 21611,
+      "sha256": "4252d8f1bc52acb369337bf3a65b5ebcaf1b88aeb2dbc33d5f29da39af0677b2"
+    },
+    "docs/FONT-LICENSE.txt": {
+      "bytes": 5208,
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    "docs/SOURCES.fa.md": {
+      "bytes": 3023,
+      "sha256": "e33a0be6731d7a5ae3c715776db0ed81438cd0b508ac7f30eb54bfcaa63053dd"
+    },
+    "docs/release/BUILD.fa.md": {
+      "bytes": 5194,
+      "sha256": "683df6a95d1df5dce397b148e329f68a35875daaa823151b2b3ff484f648d083"
+    },
+    "docs/release/COUNTS.md": {
+      "bytes": 2176,
+      "sha256": "79512fe9d9960a5b92083d4028410bd90c72566bc15914d36e6772b3965a256c"
+    },
+    "docs/release/TEST_REPORT.fa.md": {
+      "bytes": 3692,
+      "sha256": "33c41eccd4c80e0d895d37701a03ca96ba1a313c1115082b71df53edfd8edf31"
+    },
+    "docs/v2/USER_LICENSE_DECLARATION.md": {
+      "bytes": 739,
+      "sha256": "aec20543c01141bc1f0e6a2d4ac5b719ea0d4722dd7bf02ee104eb3a5d892ce7"
+    },
+    "source/HezarZist-0.14.0-source.zip": {
+      "bytes": 38961161,
+      "sha256": "d28bfcf47de0a4e47002a40112ed53b090d6e25c97fc819b65839bcf513c21bf"
+    }
+  }
+}

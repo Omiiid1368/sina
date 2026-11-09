@@ -1,0 +1,51 @@
+[
+  {
+    "id": "hezarzist-v2-authored",
+    "title": "محتوای مستقل تألیفی پروژهٔ ۱۰۰۰ زیست",
+    "kind": "authored",
+    "licenseId": "project-authored-v2",
+    "activeMcqCount": 96,
+    "activeFinalsCount": 72,
+    "documentVerified": true,
+    "finalKeyVerified": false,
+    "examAttribution": null,
+    "authorship": "Independently authored project questions; AI-assisted.",
+    "evidence": "docs/SOURCES.fa.md"
+  },
+  {
+    "id": "bio10",
+    "kind": "curricular_reference",
+    "title": "زیست‌شناسی پایهٔ 10",
+    "bookCode": "110216",
+    "officialPortal": "https://chap.sch.ir",
+    "publicationYear": null,
+    "editionVerified": false,
+    "documentVerified": false,
+    "finalKeyVerified": false,
+    "activeCopiedQuestionCount": 0
+  },
+  {
+    "id": "bio11",
+    "kind": "curricular_reference",
+    "title": "زیست‌شناسی پایهٔ 11",
+    "bookCode": "111216",
+    "officialPortal": "https://chap.sch.ir",
+    "publicationYear": null,
+    "editionVerified": false,
+    "documentVerified": false,
+    "finalKeyVerified": false,
+    "activeCopiedQuestionCount": 0
+  },
+  {
+    "id": "bio12",
+    "kind": "curricular_reference",
+    "title": "زیست‌شناسی پایهٔ 12",
+    "bookCode": "112216",
+    "officialPortal": "https://chap.sch.ir",
+    "publicationYear": null,
+    "editionVerified": false,
+    "documentVerified": false,
+    "finalKeyVerified": false,
+    "activeCopiedQuestionCount": 0
+  }
+]

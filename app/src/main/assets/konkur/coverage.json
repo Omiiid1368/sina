@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "scope": {
+    "exam": "biology_konkur",
+    "firstYear": 1398,
+    "lastYear": 1405,
+    "countryScopes": [
+      "inside_iran",
+      "outside_iran"
+    ],
+    "includeAllHeldSessions": true
+  },
+  "asOf": "2026-11-07",
+  "inventoryComplete": false,
+  "rightsDeclaration": {
+    "status": "user_declared_permission",
+    "evidence": "docs/v2/USER_LICENSE_DECLARATION.md",
+    "independentlyVerified": false
+  },
+  "years": [
+    {
+      "year": 1398,
+      "inventoryStatus": "unknown",
+      "inventoryEvidence": [],
+      "heldExamIds": null,
+      "reason": "فهرست همهٔ نوبت‌ها و دفترچه‌های واقعاً برگزارشده از منبع اصلی تأیید نشده است."
+    },
+    {
+      "year": 1399,
+      "inventoryStatus": "unknown",
+      "inventoryEvidence": [],
+      "heldExamIds": null,
+      "reason": "فهرست همهٔ نوبت‌ها و دفترچه‌های واقعاً برگزارشده از منبع اصلی تأیید نشده است."
+    },
+    {
+      "year": 1400,
+      "inventoryStatus": "unknown",
+      "inventoryEvidence": [],
+      "heldExamIds": null,
+      "reason": "فهرست همهٔ نوبت‌ها و دفترچه‌های واقعاً برگزارشده از منبع اصلی تأیید نشده است."
+    },
+    {
+      "year": 1401,
+      "inventoryStatus": "unknown",
+      "inventoryEvidence": [],
+      "heldExamIds": null,
+      "reason": "فهرست همهٔ نوبت‌ها و دفترچه‌های واقعاً برگزارشده از منبع اصلی تأیید نشده است."
+    },
+    {
+      "year": 1402,
+      "inventoryStatus": "unknown",
+      "inventoryEvidence": [],
+      "heldExamIds": null,
+      "reason": "فهرست همهٔ نوبت‌ها و دفترچه‌های واقعاً برگزارشده از منبع اصلی تأیید نشده است."
+    },
+    {
+      "year": 1403,
+      "inventoryStatus": "unknown",
+      "inventoryEvidence": [],
+      "heldExamIds": null,
+      "reason": "فهرست همهٔ نوبت‌ها و دفترچه‌های واقعاً برگزارشده از منبع اصلی تأیید نشده است."
+    },
+    {
+      "year": 1404,
+      "inventoryStatus": "unknown",
+      "inventoryEvidence": [],
+      "heldExamIds": null,
+      "reason": "فهرست همهٔ نوبت‌ها و دفترچه‌های واقعاً برگزارشده از منبع اصلی تأیید نشده است."
+    },
+    {
+      "year": 1405,
+      "inventoryStatus": "unknown",
+      "inventoryEvidence": [],
+      "heldExamIds": null,
+      "reason": "فهرست همهٔ نوبت‌ها و دفترچه‌های واقعاً برگزارشده از منبع اصلی تأیید نشده است."
+    }
+  ],
+  "exams": [],
+  "blockingEvidence": [
+    "docs/v2/research/evidence/official-http-probes-root.json"
+  ],
+  "note": "این پرونده فرادادهٔ پوشش است؛ هیچ نوبت، دفترچه، تعداد مورد انتظار یا سؤال واقعی را حدس نمی‌زند. سؤال‌های تألیفی مستقل جایگزین آرشیو رسمی نیستند.",
+  "curriculumSources": []
+}
