@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#080713">
+  <meta name="description" content="A pulse-pounding neon arcade runner. Three lanes. One way out. Dodge, jump, and escape the void.">
+  <title>NEON RUSH — Escape the Void</title>
+  <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main id="game" aria-label="Neon Rush arcade game">
+    <canvas id="world" aria-label="Three-lane neon tunnel. Use left and right arrows to dodge, Space to jump."></canvas>
+    <div class="vignette" aria-hidden="true"></div>
+    <header id="masthead">
+      <a class="brand" href="#" aria-label="Neon Rush main menu"><span class="brand-mark">N<span>R</span></span><span>NEON RUSH<small>INDEPENDENT ARCADE</small></span></a>
+      <div class="edition"><i></i> SYSTEM ONLINE <span>V.1.0</span></div>
+    </header>
+
+    <section id="home" class="screen home" aria-labelledby="title">
+      <div class="home-copy">
+        <div class="eyebrow"><span class="tiny-diamond"></span> THREE LANES. ONE WAY OUT.</div>
+        <h1 id="title"><span>NEON</span><span class="outline">RUSH<span class="title-dot">.</span></span></h1>
+        <div class="subtitle">ESCAPE THE VOID</div>
+        <p class="intro">Find your flow. Chase the light.<br>Leave everything else behind.</p>
+        <button class="primary launch" data-action="play"><span class="play-icon">▶</span> ENTER THE RUSH <span class="button-arrow">→</span></button>
+        <div class="menu-row"><button data-action="skins"><span>◇</span> Skins <small id="skin-count">01 / 04</small></button><button data-action="settings" aria-label="Settings"><span><svg class="ui-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 3-1 3-3 1v4l-2 1 2 1v4l3 1 1 3h6l1-3 3-1v-4l2-1-2-1V7l-3-1-1-3Z"/><circle cx="12" cy="12" r="3"/></svg></span> Settings</button><button class="help-button" data-action="help" aria-label="How to play">?</button></div>
+        <div class="best-block"><span class="best-icon"><svg class="ui-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3h10v5a5 5 0 0 1-10 0Zm0 2H3v2a5 5 0 0 0 5 5M17 5h4v2a5 5 0 0 1-5 5M12 13v6M8 21h8M9 19h6"/></svg></span><div><span class="micro">PERSONAL BEST</span><strong id="home-best">000000</strong></div><span class="local-label">YOUR NEXT RUN<br>COULD BE THE ONE.</span></div>
+        <a id="support" class="support" hidden target="_blank" rel="noopener noreferrer">Support the Developer ↗</a>
+      </div>
+      <div class="scene-label" aria-hidden="true"><div><span class="live-dot"></span> LIVE SIMULATION</div><strong>THE VOID</strong><span>SECTOR 01 <b> / </b> ∞ DISTANCE</span></div>
+      <div class="scene-caption" aria-hidden="true"><span>01 —</span> STAY IN MOTION.</div>
+    </section>
+
+    <div id="hud" hidden>
+      <div class="hud-score"><span class="micro">SCORE</span><strong id="score">000000</strong><span id="record-flag" hidden>NEW BEST</span></div>
+      <div class="hud-center"><span class="micro" id="sector">SECTOR 01 · AWAKENING</span><span id="speed">90 KM/H</span></div>
+      <div class="hud-right"><div class="combo"><span class="micro">COMBO</span><strong id="combo">×1</strong></div><button data-action="pause" class="icon-button" aria-label="Pause game"><span class="pause-glyph" aria-hidden="true"></span></button></div>
+      <div class="run-progress"><span id="distance">0 M</span><div><i id="progress-line"></i></div><span id="crystals">◇ 0</span></div>
+    </div>
+
+    <section id="overlay" class="overlay" hidden aria-modal="true" role="dialog" aria-labelledby="overlay-title"><div id="panel" class="panel"></div></section>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <div id="tutorial" hidden><span id="tutorial-step">01 / 02</span><strong id="tutorial-title">FIND YOUR LANE</strong><span id="tutorial-copy">Press ← or → to move</span><div id="tutorial-keys">← &nbsp; →</div></div>
+    <nav id="touch-controls" aria-label="Touch game controls" hidden><button data-control="left" aria-label="Move left">←</button><button data-control="jump" aria-label="Jump">↑<small>JUMP</small></button><button data-control="right" aria-label="Move right">→</button></nav>
+    <footer id="footer"><div><span class="key">←</span><span class="key">→</span> STEER <span class="footer-divider"></span><span class="key wide">SPACE</span> JUMP <span class="mobile-tip">SWIPE TO MOVE · SWIPE UP TO JUMP</span></div><span class="footer-tag">NO LIMITS. JUST ONE MORE RUN.<span class="footer-spark">✦</span></span><button id="quick-audio" aria-label="Mute all audio" title="Mute all audio">SOUND <span>ON</span><i class="sound-bars">▂▅▃▆</i></button></footer>
+    <div class="frame-corner top-left" aria-hidden="true"></div><div class="frame-corner bottom-right" aria-hidden="true"></div>
+  </main>
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>

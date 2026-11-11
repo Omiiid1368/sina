@@ -1,0 +1,15 @@
+{
+  "name": "neon-rush-escape-the-void",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A self-contained neon arcade runner for the browser and itch.io.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "node scripts/serve.mjs --port 4173",
+    "preview": "node scripts/serve.mjs --root dist --port 4173",
+    "test": "node --test tests/*.test.js",
+    "test:browser": "node tests/browser.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}
